@@ -1,0 +1,46 @@
+# Maven output directory
+target/
+
+# Eclipse Project files
+.classpath
+.project
+.settings/
+.metadata/
+
+# generic
+log/
+target-eclipse/
+Servers/
+null/
+
+# IDE stuff (Eclipse, Intellij)
+
+**/.settings/
+**/.classpath
+**/bin
+**/target
+**/.project
+**/.cache-tests
+**/.cache-main
+**/.cache-main
+**/.cache-tests
+**/.idea
+**/*.iml
+
+# Gradle
+.gradle
+build
+#gradle
+#gradle/wrapper/gradle-wrapper.jar
+#gradlew
+#gradlew.bat
+
+# Misc
+**/*.log
+.csv
+.dat
+.txt
+test.*
+**/*~lock*
+*.ipr
+*.iws

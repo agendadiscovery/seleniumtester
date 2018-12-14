@@ -1,0 +1,41 @@
+group 'agendadiscovery'
+version '1.0'
+
+apply plugin: 'groovy'
+apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: 'application'
+//apply plugin: 'org.springframework.boot'
+
+sourceSets {
+    main {
+        java { srcDirs = [] }
+        groovy { srcDirs = ["src/main/java", "src/main/groovy"]}
+        resources { srcDirs= ["src/main/resources"] }
+        output.resourcesDir = "build/classes/main"
+    }
+    test {
+        java {srcDirs = [] }
+        groovy { srcDirs = ["src/test/java", "src/test/groovy"]}
+        output.resourcesDir = "build/classes/test"
+    }
+}
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy-all:2.3.11'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile 'org.seleniumhq.selenium:selenium-java:3.141.59'
+    compile 'org.seleniumhq.selenium:selenium-chrome-driver:3.141.59'
+    compile 'org.slf4j:slf4j-api:1.7.25'
+    compile 'org.slf4j:slf4j-log4j12:1.7.25'
+
+//    compile("org.springframework.boot:spring-boot-starter-web")
+}
+
+mainClassName = 'com.agendadiscovery.Crawler'
