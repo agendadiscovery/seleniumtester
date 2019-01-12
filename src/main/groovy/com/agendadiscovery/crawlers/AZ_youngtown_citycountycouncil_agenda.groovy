@@ -11,7 +11,7 @@ import org.openqa.selenium.support.ui.FluentWait
 import java.util.concurrent.TimeUnit
 import com.agendadiscovery.DocumentWrapper
 
-public class AZ_youngtown_citycountycouncil_agenda {
+public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler {
 
     // http://chromedriver.chromium.org/getting-started
     public List getDocuments(String baseUrl) throws Exception {
