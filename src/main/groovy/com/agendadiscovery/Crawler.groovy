@@ -62,11 +62,11 @@ class Crawler {
                 out.println baseUrl
 
                 List dws = method.invoke(obj, baseUrl);
-                dws.each{ aw ->
+                dws.each{ dw ->
                     out.println "Found document: "
-                    out.println "\tTitle - ${aw.title}"
-                    out.println "\tDate - ${aw.date}"
-                    out.println "\tLink - ${aw.link}"
+                    out.println "\tTitle - ${dw.title}"
+                    out.println "\tDate - ${dw.date}"
+                    out.println "\tLink - ${dw.link}"
                 }
                 out.println "\nEnding process"
                 out.println "Found ${dws.size()} documents"

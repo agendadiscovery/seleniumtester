@@ -11,37 +11,49 @@ import org.openqa.selenium.support.ui.FluentWait
 import java.util.concurrent.TimeUnit
 import com.agendadiscovery.DocumentWrapper
 
-public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler {
+public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler{
 
     // http://chromedriver.chromium.org/getting-started
     public List getDocuments(String baseUrl) throws Exception {
-        WebDriver driver = new ChromeDriver()
-        List docList = []
-        driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS)
-        driver.get(baseUrl)
+        log.debug("Starting AZ Youngtown Selenium crawl")
+        log.debug("Requesting baseURL: "+baseUrl)
 
         try {
-            FluentWait<WebDriver> wait = new FluentWait<WebDriver>(driver).ignoring(NoSuchElementException.class);
+            driver.get(baseUrl)
+            // Wait for sort to be displayed
+            By sortLink = By.xpath("//*[@id=\"listHeader\"]/div[1]/div[1]/a")
+            wait.until(ExpectedConditions.presenceOfElementLocated(sortLink))
 
-            // Wait for years to be displayed
-            By yearLink = By.xpath("/html/body/form/div[4]/div/div[2]/div[5]/div/div[1]/div[2]/div[2]/div/div/div[2]/div[2]/div[5]/ul/li/a[div/div/div[text()=2018]]")
-            wait.until(ExpectedConditions.presenceOfElementLocated(yearLink))
+            // Click the sort to avoid paging and put 2019 on top
+            // Asc sort
+            driver.findElement(sortLink).click()
+            // desc sort
+            driver.findElement(sortLink).click()
 
-            // Click the 2018 row
+            By yearLink = By.xpath("/html/body/form/div[4]/div/div[2]/div[5]/div/div[1]/div[2]/div[2]/div/div/div[2]/div[2]/div[5]/ul/li/a[div/div/div[text()=2019]]")
+
+            // Click the 2019 row
             driver.findElement(yearLink).click()
+            sleep(5000)
 
             // Wait for the first PDF icon to show (ajax to finish)
             By firstPdfIcon = By.xpath("//li[2]/a[1]/div/div[2]/div/em[contains(@class,\"fa-file-pdf-o\")]")
             wait.until(ExpectedConditions.presenceOfElementLocated(firstPdfIcon))
 
+            int pageNum = 1
+
             // Iterate through the pages
             driver.findElementsByXPath("//div[@class=\"PO-paging\"]/ul[@class=\"PO-pageButton\"]/li/a[contains(@class,\"number\")]").each{ WebElement we ->
+                log.debug("Processing page: ${pageNum}")
                 we.click()
+                sleep(5000)
                 driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS)
                 // Parse the links
                 docList = docList + getDocumentsByPage(driver)
+                pageNum++
             }
         } catch (Exception e) {
+            log.error("Selenium crawl error: "+e)
             throw e
         } finally{
             driver.quit()
@@ -56,6 +68,7 @@ public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler {
         List docList = []
 
         for(int i=0; i < webElements.size(); i++){
+            log.debug("Processing row: ${i}")
             DocumentWrapper doc = new DocumentWrapper()
             // Row element data will be relative to
             WebElement webElement = webElements.get(i)
@@ -70,10 +83,13 @@ public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler {
             String dateStr = webElement.findElement(dateBy).getText()?.replaceAll("-"," ") // clean date a bit
             String url = webElement.findElement(urlBy).getAttribute("href")
 
-            // Save to the document obj
             doc.title = title
             doc.dateStr = dateStr
             doc.link = url
+
+            log.debug("\tTitle: ${title}")
+            log.debug("\tDate: ${dateStr}")
+            log.debug("\tUrl: ${url}")
 
             docList.add(doc)
         }
