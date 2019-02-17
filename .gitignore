@@ -37,10 +37,12 @@ build
 
 # Misc
 **/*.log
-.csv
+# .csv
 .dat
 .txt
 test.*
 **/*~lock*
 *.ipr
 *.iws
+
+src/main/resources/drivers

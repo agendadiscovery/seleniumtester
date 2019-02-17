@@ -7,7 +7,9 @@ import java.lang.reflect.Method
 class Crawler {
 
     private static final Logger log = LoggerFactory.getLogger(Crawler.class)
-    private static final File csv = new File(getClass().getResource("/csv/crawlCouncil.csv").getPath())
+    //private static final File csv = new File(getClass().getResource("/csv/crawlCouncil.csv").getPath())
+    //debug using test csv
+    private static final File csv = new File(getClass().getResource("/csv/crawlCouncil_test.csv").getPath())
     private static final String driverPath = getClass().getResource("/drivers/chromedriver.exe").getPath()
 
 
@@ -29,7 +31,7 @@ class Crawler {
                 log.info(geoName);
                 log.info(meetingType);
                 log.info(documentType);
-                log.info("url" + baseUrl);
+                log.info("url " + baseUrl);
 
                 crawler.runCrawl(stateAbbr, geoName, meetingType, documentType, baseUrl)
             }

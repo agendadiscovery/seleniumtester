@@ -10,8 +10,8 @@ import org.openqa.selenium.chrome.ChromeDriver
 import org.openqa.selenium.support.ui.ExpectedConditions
 import org.openqa.selenium.support.ui.FluentWait
 import java.util.concurrent.TimeUnit
-import java.util.regex.Matcher
-import java.util.regex.Pattern
+
+import com.agendadiscovery.helpers.QuickMatch
 
 public class AZ_sedona_citycountycouncil_agenda extends BaseCrawler {
 
@@ -31,7 +31,7 @@ public class AZ_sedona_citycountycouncil_agenda extends BaseCrawler {
             sleep(5000)
 
             // Wait for agenda folders to load
-            By agendaFoldersBy = By.xpath("//*[@id=\"GridView1\"]/tbody/tr[position()<5]/td[2]/a") //debug position
+            By agendaFoldersBy = By.xpath("//*[@id=\"GridView1\"]/tbody/tr/td[2]/a")
             wait.until(ExpectedConditions.presenceOfElementLocated(agendaFoldersBy))
 
             List<WebElement> folderWebElements = driver.findElements(agendaFoldersBy)
@@ -71,17 +71,6 @@ public class AZ_sedona_citycountycouncil_agenda extends BaseCrawler {
         } finally{
             driver.quit()
             return docList
-        }
-    }
-
-    //debug make into separate module
-    public static String quickMatch(String regex, String s){
-        Pattern pattern = Pattern.compile(regex);
-        Matcher matcher = pattern.matcher(s);
-        if (matcher.find())
-        {
-            System.out.println(matcher.group(1));
-            return matcher.group(1);
         }
     }
 }

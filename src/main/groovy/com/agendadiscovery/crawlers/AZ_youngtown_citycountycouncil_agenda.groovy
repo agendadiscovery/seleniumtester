@@ -11,12 +11,16 @@ import org.openqa.selenium.support.ui.FluentWait
 import java.util.concurrent.TimeUnit
 import com.agendadiscovery.DocumentWrapper
 
+import com.agendadiscovery.helpers.QuickMatch
+
+
+//url: http://youngtownaz.hosted.civiclive.com//cms/One.aspx?pageId=13406575&portalId=12609077&objectId.259675=13424223&contextId.259675=13406577&parentId.259675=13406578
 public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler{
 
     // http://chromedriver.chromium.org/getting-started
     public List getDocuments(String baseUrl) throws Exception {
-        log.debug("Starting AZ Youngtown Selenium crawl")
-        log.debug("Requesting baseURL: "+baseUrl)
+        System.out.println("Starting AZ Youngtown Selenium crawl")
+        System.out.println("Requesting baseURL: "+baseUrl)
 
         try {
             driver.get(baseUrl)
@@ -34,7 +38,7 @@ public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler{
 
             // Click the 2019 row
             driver.findElement(yearLink).click()
-            sleep(5000)
+            sleep(2500)
 
             // Wait for the first PDF icon to show (ajax to finish)
             By firstPdfIcon = By.xpath("//li[2]/a[1]/div/div[2]/div/em[contains(@class,\"fa-file-pdf-o\")]")
@@ -44,9 +48,9 @@ public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler{
 
             // Iterate through the pages
             driver.findElementsByXPath("//div[@class=\"PO-paging\"]/ul[@class=\"PO-pageButton\"]/li/a[contains(@class,\"number\")]").each{ WebElement we ->
-                log.debug("Processing page: ${pageNum}")
+                System.out.println("Processing page: ${pageNum}")
                 we.click()
-                sleep(5000)
+                sleep(2500)
                 driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS)
                 // Parse the links
                 docList = docList + getDocumentsByPage(driver)
@@ -68,7 +72,7 @@ public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler{
         List docList = []
 
         for(int i=0; i < webElements.size(); i++){
-            log.debug("Processing row: ${i}")
+            System.out.println("Processing row: ${i}")
             DocumentWrapper doc = new DocumentWrapper()
             // Row element data will be relative to
             WebElement webElement = webElements.get(i)
@@ -80,16 +84,16 @@ public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler{
 
             // Get data
             String title = webElement.findElement(titleBy).getText()
-            String dateStr = webElement.findElement(dateBy).getText()?.replaceAll("-"," ") // clean date a bit
+            String dateStr = QuickMatch.match("[0-9]{2}.[0-9]{2}.[0-9]{2}",webElement.findElement(dateBy).getText() )
             String url = webElement.findElement(urlBy).getAttribute("href")
 
             doc.title = title
             doc.dateStr = dateStr
             doc.link = url
 
-            log.debug("\tTitle: ${title}")
-            log.debug("\tDate: ${dateStr}")
-            log.debug("\tUrl: ${url}")
+            System.out.println("\tTitle: ${title}")
+            System.out.println("\tDate: ${dateStr}")
+            System.out.println("\tUrl: ${url}")
 
             docList.add(doc)
         }
