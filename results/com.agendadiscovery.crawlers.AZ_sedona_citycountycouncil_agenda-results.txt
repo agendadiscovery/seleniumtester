@@ -1,6 +1,51 @@
 ================================================
 Processing class: com.agendadiscovery.crawlers.AZ_sedona_citycountycouncil_agenda
 http://kepler62f.sedonaaz.gov:600/DocCentral/folder.aspx?CC=1&tf=97
-FAILED TO PROCESS site: com.agendadiscovery.crawlers.AZ_sedona_citycountycouncil_agenda
-Caught exception: null
+Found document: 
+	Title - 02-26-19 Agenda
+	Date - 02-26-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36730
+Found document: 
+	Title - 02-26-19 Packet
+	Date - 02-26-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36728
+Found document: 
+	Title - 02-13-19 Agenda
+	Date - 02-13-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36662
+Found document: 
+	Title - 02-13-19 Packet
+	Date - 02-13-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36660
+Found document: 
+	Title - 02-12-19 Agenda
+	Date - 02-12-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36664
+Found document: 
+	Title - 02-12-19 Packet
+	Date - 02-12-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36658
+Found document: 
+	Title - 01-23-19 Agenda - Executive Session
+	Date - 01-23-19  -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36479
+Found document: 
+	Title - 01-23-19 Action Item List - Executive Session
+	Date - 01-23-19    -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36556
+Found document: 
+	Title - 01-23-19 Agenda - Special Meeting
+	Date - 01-23-19  -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36481
+Found document: 
+	Title - 01-23-19 Packet
+	Date - 01-23-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36477
+Found document: 
+	Title - 01-23-19 Action Item List - Special Meeting
+	Date - 01-23-19    -  
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36558
+
+Ending process
+Found 11 documents
 ================================================

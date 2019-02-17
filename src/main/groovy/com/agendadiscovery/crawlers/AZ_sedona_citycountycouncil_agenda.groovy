@@ -10,13 +10,15 @@ import org.openqa.selenium.chrome.ChromeDriver
 import org.openqa.selenium.support.ui.ExpectedConditions
 import org.openqa.selenium.support.ui.FluentWait
 import java.util.concurrent.TimeUnit
+import java.util.regex.Matcher
+import java.util.regex.Pattern
 
 public class AZ_sedona_citycountycouncil_agenda extends BaseCrawler {
 
     // http://chromedriver.chromium.org/getting-started
     public List getDocuments(String baseUrl) throws Exception {
-        log.debug("Starting AZ Sedona Selenium crawl")
-        log.debug("Requesting baseURL: "+baseUrl)
+        System.out.println("Starting AZ Sedona Selenium crawl")
+        System.out.println("Requesting baseURL: "+baseUrl)
 
         try {
             driver.get(baseUrl)
@@ -29,7 +31,7 @@ public class AZ_sedona_citycountycouncil_agenda extends BaseCrawler {
             sleep(5000)
 
             // Wait for agenda folders to load
-            By agendaFoldersBy = By.xpath("//*[@id=\"GridView1\"]/tbody/tr/td[2]/a")
+            By agendaFoldersBy = By.xpath("//*[@id=\"GridView1\"]/tbody/tr[position()<5]/td[2]/a") //debug position
             wait.until(ExpectedConditions.presenceOfElementLocated(agendaFoldersBy))
 
             List<WebElement> folderWebElements = driver.findElements(agendaFoldersBy)
@@ -38,7 +40,7 @@ public class AZ_sedona_citycountycouncil_agenda extends BaseCrawler {
             for(int i=0; i<folderWebElements.size(); i++){
                 WebElement folder = folderWebElements.get(i)
                 folder.click()
-                sleep(5000)
+                sleep(2500)
 
                 By agendaBy = By.xpath("//*[@id=\"GridView1\"]/tbody/tr//a[not(contains(text(),\"Minutes\"))]")
 
@@ -47,12 +49,13 @@ public class AZ_sedona_citycountycouncil_agenda extends BaseCrawler {
 
                     // Get data
                     doc.title = agenda.getText()
-                    doc.dateStr = agenda.getText()
+                    doc.dateStr = agenda.getText().replaceAll("[a-zA-Z]", "")
+                    System.out.println("doc.dateStr " + doc.dateStr)//debug
                     doc.link = agenda.getAttribute("href")
 
-                    log.debug("\tTitle: ${doc.title}")
-                    log.debug("\tDate: ${doc.dateStr}")
-                    log.debug("\tUrl: ${doc.link}")
+                    System.out.println("\tTitle: ${doc.title}")
+                    System.out.println("\tDate: ${doc.dateStr}")
+                    System.out.println("\tUrl: ${doc.link}")
 
                     docList.add(doc)
                 }
@@ -70,4 +73,17 @@ public class AZ_sedona_citycountycouncil_agenda extends BaseCrawler {
             return docList
         }
     }
+
+    //debug make into separate module
+    public static String quickMatch(String regex, String s){
+        Pattern pattern = Pattern.compile(regex);
+        Matcher matcher = pattern.matcher(s);
+        if (matcher.find())
+        {
+            System.out.println(matcher.group(1));
+            return matcher.group(1);
+        }
+    }
 }
+
+
