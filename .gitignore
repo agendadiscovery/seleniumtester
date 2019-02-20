@@ -37,7 +37,7 @@ build
 
 # Misc
 **/*.log
-   # .csv
+#.csv
 .dat
 .txt
 test.*
