@@ -57,7 +57,7 @@ public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler{
                 pageNum++
             }
         } catch (Exception e) {
-            log.error("Selenium crawl error: "+e)
+            System.out.println(e.message)
             throw e
         } finally{
             driver.quit()

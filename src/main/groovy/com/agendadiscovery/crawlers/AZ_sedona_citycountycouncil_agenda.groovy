@@ -66,7 +66,7 @@ public class AZ_sedona_citycountycouncil_agenda extends BaseCrawler {
                 folderWebElements = driver.findElements(agendaFoldersBy)
             }
         } catch (Exception e) {
-            log.error("Selenium crawl error: "+e)
+            System.out.println(e.message)
             throw e
         } finally{
             driver.quit()

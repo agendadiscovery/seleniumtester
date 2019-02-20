@@ -1,0 +1,91 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.CA_pleasanton_citycountycouncil_agenda
+http://weblink.cityofpleasantonca.gov/weblink/Browse.aspx?startid=81&dbid=0
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\011618
+	Date - 011618
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/276095/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\020618
+	Date - 020618
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/276243/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\030618
+	Date - 030618
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/276818/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\032018
+	Date - 032018
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/277238/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\041718
+	Date - 041718
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/277857/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\042318
+	Date - 042318
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/278016/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\050118
+	Date - 050118
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/278028/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\051518
+	Date - 051518
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/278190/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\060518
+	Date - 060518
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/278442/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\061918
+	Date - 061918
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/278887/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\070318
+	Date - 070318
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/279046/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\071718
+	Date - 071718
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/279107/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\082118
+	Date - 082118
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/279263/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\090418
+	Date - 090418
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/280260/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\091818
+	Date - 091818
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/280931/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\100218
+	Date - 100218
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/281006/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\101618
+	Date - 101618
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/281137/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\110618
+	Date - 110618
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/281334/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\120418
+	Date - 120418
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/281937/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\121118 Adjourned Meeting
+	Date - 121118 Adjourned Meeting
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/282054/Page1.aspx
+Found document: 
+	Title - CityOfPleasanton\CITY CLERK\AGENDA PACKETS\2018\121818
+	Date - 121818
+	Link - http://weblink.cityofpleasantonca.gov/weblink/0/doc/282061/Page1.aspx
+
+Ending process
+Found 21 documents
+================================================

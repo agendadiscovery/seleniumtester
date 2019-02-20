@@ -37,7 +37,7 @@ build
 
 # Misc
 **/*.log
-# .csv
+   # .csv
 .dat
 .txt
 test.*
@@ -46,3 +46,4 @@ test.*
 *.iws
 
 src/main/resources/drivers
+**/log4j.properties

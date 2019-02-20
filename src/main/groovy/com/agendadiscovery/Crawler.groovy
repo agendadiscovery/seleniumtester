@@ -27,7 +27,7 @@ class Crawler {
                 def meetingType = row[2]?.toLowerCase()
                 def documentType = row[3]?.toLowerCase()
                 def baseUrl = row[4]
-                log.info(stateAbbr);  //DEBUG
+                log.info(stateAbbr);  //DEBUG check csv
                 log.info(geoName);
                 log.info(meetingType);
                 log.info(documentType);
@@ -72,7 +72,6 @@ class Crawler {
                 dws.each{ dw ->
                     out.println "Found document: "
                     out.println "\tTitle - ${dw.title}"
-                    System.out.println "\tDate - ${dw.dateStr.toString()}"    //debug here 2/15/19
                     out.println "\tDate - ${dw.dateStr.toString()}"
                     out.println "\tLink - ${dw.link}"
                 }

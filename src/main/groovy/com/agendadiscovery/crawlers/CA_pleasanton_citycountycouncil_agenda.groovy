@@ -15,49 +15,75 @@ public class CA_pleasanton_citycountycouncil_agenda extends BaseCrawler{
 
     // http://chromedriver.chromium.org/getting-started
     public List getDocuments(String baseUrl) throws Exception {
-        ////////////////////////////////////////////
-        // CURRENTLY BROKEN
-        ////////////////////////////////////////////
+        //QUESTION ABOUT AGENDA.  CAN WE ADD NEW ATTRIBUTE TO DOCUMENTWRAPPER OR OTHER OPTION?
+        List docList = []
         try {
-            driver.get(baseUrl)
-
+            driver.manage().timeouts()implicitlyWait(10, TimeUnit.SECONDS)
+            driver.get(baseUrl);
             // Wait for years to be displayed
-            By yearLink = By.xpath("/html/body/form/div[4]/div/div[2]/div[5]/div/div[1]/div[2]/div[2]/div/div/div[2]/div[2]/div[5]/ul/li/a[div/div/div[text()=2018]]")
+            By yearLink = By.xpath("//nobr[span[contains(.,'2018')]]")
             wait.until(ExpectedConditions.presenceOfElementLocated(yearLink))
 
             // Click the 2018 row
             driver.findElement(yearLink).click()
+            sleep(2000)
 
-            // Iterate through the pages
-            driver.findElementsByXPath("//div[@id=\"TheRightPanel\"]//tr/td[1]/a").each{ WebElement folder ->
+            //get folder web elements
+            List <WebElement> folders = driver.findElementsByXPath("//div[@id=\"TheRightPanel\"]//tbody//tr/td[1]/a")
+            //get text from each for loop (cannot loop with web elements after DOM refresh)
+            List folderNames = []
+            for(WebElement folder:folders){
+                folderNames.add(folder.getText())
+                //debug  System.out.println(folder.getText()) //debug
+            }
+
+            //Iterate through the dated folders
+            folderNames.each{ String folderName ->
+                //grab link and refresh element (new DOM each time)
+                System.out.println(folderName) //debug
+                By folderPath = By.xpath("//a[contains(. ,'" + folderName + "')]")
+                WebElement folder = driver.findElement(folderPath)
                 folder.click()
-                // grab date
+                sleep(1200) //debug
 
-                By linkList = By.xpath("//div[@id=\"TheRightPanel\"]//tr/td[1]/a[@class=\"DocumentBrowserNameLink\"]")
+                try {
+                    DocumentWrapper doc = new DocumentWrapper();
+                    // grab date
+                    By datePath = By.xpath("//div[@class=\"FolderNameHeader\"]")
+                    doc.dateStr = driver.findElement(datePath).getText()
+                    //debug  System.out.println("\tDate: ${doc.dateStr}")
 
-                driver.findElementsByXPath("//div[@id=\"TheRightPanel\"]//tr/td[1]/a").each { WebElement agendaItem ->
-                    //*[@class="PageNumberToolbarCount"]
-                    /// Blah stale object exception
-                    driver.findElement(textBy).click()
+                    //grab title
+                    By titlePath = By.xpath("//div[@title=\"Path\"]/following-sibling::div[@class=\"FolderDataValue\"][1]")
+                    doc.title = driver.findElement(titlePath).getText()
+                    //debug  System.out.println("\tTitle: ${doc.title}")
+
+                    //grab agenda url
+                    By agendaPath = By.xpath("//div[@id=\"TheRightPanel\"]//tr/td[a]/*[contains(.,\"AGENDA\")]");
+                    doc.link = driver.findElement(agendaPath).getAttribute("href")
+                    //debug System.out.println("\tUrl: ${doc.link}")
+                    docList = docList + doc
                 }
-
-
-//                docList = docList + getDocumentsByPage(driver)
+                catch (Exception e) {
+                    System.out.println(e.message)
+                    //continue crawling the rest
+                }
+                //navigate back again before loop
+                driver.navigate().back()
             }
         } catch (Exception e) {
-            throw e
+            System.out.println(e.message)
+            System.out.println("Continuing with next link")
         } finally{
             driver.quit()
             return docList
         }
     }
 
+    //not used
     public List getDocumentsByPage(WebDriver driver) throws Exception{
         List docList = []
-
         //*[@id="ViewTextLink"]
-
         return docList
     }
-
 }
