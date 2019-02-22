@@ -1,6 +1,7 @@
 package com.agendadiscovery.crawlers
 
 import com.agendadiscovery.DocumentWrapper
+import com.agendadiscovery.helpers.QuickMatch
 import org.openqa.selenium.By
 import org.openqa.selenium.NoSuchElementException
 import org.openqa.selenium.WebDriver
@@ -56,6 +57,7 @@ public class CA_pleasanton_citycountycouncil_agenda extends BaseCrawler{
                     //grab title
                     By titlePath = By.xpath("//div[@title=\"Path\"]/following-sibling::div[@class=\"FolderDataValue\"][1]")
                     doc.title = driver.findElement(titlePath).getText()
+                    doc.title = doc.title.split('[\\\\]')[2]
                     //debug  System.out.println("\tTitle: ${doc.title}")
 
                     //grab agenda url

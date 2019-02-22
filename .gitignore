@@ -39,7 +39,7 @@ build
 **/*.log
 #.csv
 .dat
-.txt
+#.txt
 test.*
 **/*~lock*
 *.ipr

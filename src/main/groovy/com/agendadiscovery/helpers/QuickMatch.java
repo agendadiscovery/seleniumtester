@@ -16,4 +16,17 @@ public class QuickMatch {
             return null;
         }
     }
+
+    public static String matchGroup(String regex, String s){
+        Pattern pattern = Pattern.compile(regex);
+        Matcher matcher = pattern.matcher(s);
+        if (matcher.find())
+        {
+            System.out.println(matcher.group(1));
+            return matcher.group(1);
+        }
+        else{
+            return null;
+        }
+    }
 }
