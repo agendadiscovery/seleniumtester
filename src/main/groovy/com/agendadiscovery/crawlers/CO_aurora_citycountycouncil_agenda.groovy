@@ -64,7 +64,7 @@ public class CO_aurora_citycountycouncil_agenda extends BaseCrawler{
             }
         } catch (Exception e) {
             log.error("Selenium crawl error: "+e)
-            throw e
+            e.printStackTrace(System.out)
         } finally{
             driver.quit()
             return docList

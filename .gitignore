@@ -46,4 +46,4 @@ test.*
 *.iws
 
 src/main/resources/drivers
-**/log4j.properties
+

@@ -13,7 +13,7 @@ import com.agendadiscovery.DocumentWrapper
 
 import com.agendadiscovery.helpers.QuickMatch
 
-
+//Mostly left as is.  Modified Xpaths and variable names to make it work.  Randall 2/21/19
 //url: http://youngtownaz.hosted.civiclive.com//cms/One.aspx?pageId=13406575&portalId=12609077&objectId.259675=13424223&contextId.259675=13406577&parentId.259675=13406578
 public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler{
 
@@ -27,8 +27,7 @@ public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler{
             // Wait for sort to be displayed
             By sortLink = By.xpath("//*[@id=\"listHeader\"]/div[1]/div[1]/a")
             wait.until(ExpectedConditions.presenceOfElementLocated(sortLink))
-
-            // Click the sort to avoid paging and put 2019 on top
+            // Click sort to avoid paging and put 2019 on top
             // Asc sort
             driver.findElement(sortLink).click()
             // desc sort
@@ -44,9 +43,8 @@ public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler{
             By firstPdfIcon = By.xpath("//li[2]/a[1]/div/div[2]/div/em[contains(@class,\"fa-file-pdf-o\")]")
             wait.until(ExpectedConditions.presenceOfElementLocated(firstPdfIcon))
 
-            int pageNum = 1
-
             // Iterate through the pages
+            int pageNum = 1
             driver.findElementsByXPath("//div[@class=\"PO-paging\"]/ul[@class=\"PO-pageButton\"]/li/a[contains(@class,\"number\")]").each{ WebElement we ->
                 System.out.println("Processing page: ${pageNum}")
                 we.click()
@@ -58,7 +56,7 @@ public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler{
             }
         } catch (Exception e) {
             System.out.println(e.message)
-            throw e
+            e.printStackTrace(System.out)
         } finally{
             driver.quit()
             return docList
@@ -91,9 +89,9 @@ public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler{
             doc.dateStr = dateStr
             doc.link = url
 
-            System.out.println("\tTitle: ${title}")
-            System.out.println("\tDate: ${dateStr}")
-            System.out.println("\tUrl: ${url}")
+//            System.out.println("\tTitle: ${title}")
+//            System.out.println("\tDate: ${dateStr}")
+//            System.out.println("\tUrl: ${url}")
 
             docList.add(doc)
         }

@@ -67,7 +67,7 @@ public class AZ_sedona_citycountycouncil_agenda extends BaseCrawler {
             }
         } catch (Exception e) {
             System.out.println(e.message)
-            throw e
+            e.printStackTrace(System.out)
         } finally{
             driver.quit()
             return docList

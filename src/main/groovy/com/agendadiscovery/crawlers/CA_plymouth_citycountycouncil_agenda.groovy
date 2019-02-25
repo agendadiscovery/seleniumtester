@@ -8,83 +8,80 @@ import org.openqa.selenium.WebElement
 import org.openqa.selenium.chrome.ChromeDriver
 import org.openqa.selenium.support.ui.ExpectedConditions
 import org.openqa.selenium.support.ui.FluentWait
+import org.slf4j.Logger
+import org.slf4j.LoggerFactory
 
+import java.time.Year
 import java.util.concurrent.TimeUnit
 
-public class CA_plymouth_citycountycouncil_agenda {
+//City Council
+//download link->  https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/2019/February 14 2019 Reg Agenda Packet.pdf
 
-    // http://chromedriver.chromium.org/getting-started
+//Planning Commission
+//download link-> https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/2017/FEB 2, 2017 CANCELLATION NOTICE.pdf
+
+public class CA_plymouth_citycountycouncil_agenda extends BaseCrawler {
+    private static final Logger log = LoggerFactory.getLogger(this.class)
+    int current_year = Year.now().getValue()
+    List <WebElement> docList = []
+
+    String cityDownloadBase = "https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Council Meetings/Agenda/"
+    String planningDownloadBase = "https://cityofplymouth.sharepoint.com/Public_Documents/_layouts/15/download.aspx?SourceUrl=/Public_Documents/Shared Documents/Planning Commission/Agenda/"
+    String cityAgendaPath = "//p[contains(.,\"Council\")]/following-sibling::table[1]//a[contains(.,\"Agenda\")]"
+    String planningAgendaPath = "//p[contains(.,\"Planning Commission\")]/following-sibling::table[1]//a[contains(.,\"Agenda\")]"
+
     public List getDocuments(String baseUrl) throws Exception {
-        log.debug("Requesting baseURL: "+baseUrl)
+        log.info("Starting crawler " + this.class.name)
+        log.info("Requesting baseURL: "+baseUrl)
+
+        driver.manage().timeouts()implicitlyWait(5, TimeUnit.SECONDS)
         driver.get(baseUrl)
 
-        ////////////////////////////////////////////
-        // CURRENTLY BROKEN
-        ////////////////////////////////////////////
+        choosePath("City Council", cityAgendaPath, cityDownloadBase)
+        choosePath("Planning Commission", planningAgendaPath, planningDownloadBase)
 
-        try {
-            FluentWait<WebDriver> wait = new FluentWait<WebDriver>(driver).ignoring(NoSuchElementException.class);
-
-            // Wait for years to be displayed
-            By yearLink = By.xpath("//div[@class=\"ms-List-cell\"]//a[text()=\"2018\"]")
-            wait.until(ExpectedConditions.presenceOfElementLocated(yearLink))
-
-            // Click the 2018 row
-            driver.findElement(yearLink).click()
-
-            // Wait for the first PDF icon to show (ajax to finish)
-            By firstPdfIcon = By.xpath("//div[@class=\"ms-List-cell\"][1]//img")
-            wait.until(ExpectedConditions.presenceOfElementLocated(firstPdfIcon))
-
-            // Iterate through the pages
-            driver.findElementsByXPath("//div[@class=\"ms-List-cell\"]").each{ WebElement we ->
-                log.debug("Processing page: ${pageNum}")
-                we.click()
-                driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS)
-            }
-        } catch (Exception e) {
-            log.error("Selenium crawl error: "+e)
-            throw e
-        } finally{
-            driver.quit()
-            return docList
-        }
+        driver.quit()
+        return docList
     }
 
-    public List getDocumentsByPage(WebDriver driver) throws Exception{
-        // Grab the element rows
-        By rowSelector = By.xpath("//ul[@id=\"documentList\"]/li[position()>1]")
-        List<WebElement> webElements = driver.findElements(rowSelector)
-        List docList = []
+    public void choosePath(String name, String agendaPath, String downloadBase){
+        try {
+            System.out.println("Beginning " + name + " path")  //debug
+            //FluentWait<WebDriver> wait = new FluentWait<WebDriver>(driver).ignoring(NoSuchElementException.class);
+            //Click Agenda
+            WebElement agenda = driver.findElementByXPath(agendaPath)
+            String agendaUrl = agenda.getAttribute("href")
+            driver.get(agendaUrl) //has target="_blank", can't use agenda.click()
+            sleep(5000)
+            //Cycle years
+            for (int i=current_year-2;i<= current_year + 1; i++) {
+                WebElement year = driver.findElementByXPath("//a[@title=\"${i}\"]")
+                year.click()
+                sleep(3000)
+                //Grab list of pdfs
+                List <WebElement> pdfs = driver.findElementsByXPath("//span[contains(@class,\"signalFieldValue\")]//a[contains(.,\"pdf\") or contains(.,\"doc\")]")
+                //Cycle through pdfs
+                for (WebElement pdf : pdfs){
+                    //fill out doc data
+                    DocumentWrapper doc = new DocumentWrapper()
+                    doc.title = pdf.getText()
+                    doc.dateStr = pdf.getText()
+                    doc.link = downloadBase + i.toString() + "/" + pdf.getText()
+                      //debugger
+//                    System.out.println("\tTitle: ${doc.title}")
+//                    System.out.println("\tDate: ${doc.dateStr}")
+//                    System.out.println("\tUrl: ${doc.link}")
 
-        for(int i=0; i < webElements.size(); i++){
-            log.debug("Processing row: ${i}")
-            DocumentWrapper doc = new DocumentWrapper()
-            // Row element data will be relative to
-            WebElement webElement = webElements.get(i)
-
-            // Xpath Selectors
-            By titleBy = By.xpath("./a/div/div/div[contains(@class,\"docTitle\")]")
-            By dateBy = titleBy // same in this case
-            By urlBy = By.xpath("./a")
-
-            // Get data
-            String title = webElement.findElement(titleBy).getText()
-            String dateStr = webElement.findElement(dateBy).getText()?.replaceAll("-"," ") // clean date a bit
-            String url = webElement.findElement(urlBy).getAttribute("href")
-
-            doc.title = title
-            doc.dateStr = dateStr
-            doc.link = url
-
-            log.debug("\tTitle: ${title}")
-            log.debug("\tDate: ${dateStr}")
-            log.debug("\tUrl: ${url}")
-
-            docList.add(doc)
+                    docList.add(doc)
+                }
+                driver.navigate().back()
+            }
         }
-
-        return docList
+        catch (Exception e) {
+            log.debug("\nError along " + name + " path in " + this.class.name)
+            log.debug("Selenium crawl error: "+e)
+        }
+        finally{ driver.navigate().back()}
     }
 
 }

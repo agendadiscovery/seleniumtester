@@ -4,77 +4,86 @@ import com.agendadiscovery.DocumentWrapper
 import org.openqa.selenium.By
 import org.openqa.selenium.WebElement
 import org.openqa.selenium.support.ui.ExpectedConditions
+import org.slf4j.Logger
+import org.slf4j.LoggerFactory
 
+import java.util.concurrent.TimeUnit
+import java.time.Year
+
+//weird DocumentCenter
 public class KS_lyons_citycountycouncil_agenda extends BaseCrawler{
 
+    private static final Logger log = LoggerFactory.getLogger(this.class)
+    int current_year = Year.now().getValue()
+    List <WebElement> docList = []
     // http://chromedriver.chromium.org/getting-started
     public List getDocuments(String baseUrl) throws Exception {
-        log.debug("Starting ${this.class.name} Selenium crawl")
-        log.debug("Requesting baseURL: "+baseUrl)
-
+        log.info("Starting ${this.class.name} Selenium crawl")
+        log.info("Requesting baseURL: "+baseUrl)
+        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS)
         try {
             driver.get(baseUrl)
+            //Click "City Council"
+            driver.findElementByXPath('//*[@id="AjaxTreeView"]//span[text() = "City Council"]').click()
+            //Click "Agenda"
+            driver.findElementByXPath('//*[@id="AjaxTreeView"]//span[text() = "Agendas"]').click()
+            //Grab years
+            List <WebElement> years = driver.findElementsByXPath("//*[@id=\"AjaxTreeView\"]//span[text() = \"Agendas\"]/../following-sibling::ul//span")
+            //Cycle through years
+            for (WebElement year : years){
+                    year.click()
+                    sleep(500)
+                    //Grab months
+                    String monthPath = "//*[@id=\"AjaxTreeView\"]//span[text() = \"" + year.getText() + "\"]/../following-sibling::ul//span"
+                    List <WebElement> months
+                    try {months = driver.findElementsByXPath(monthPath)}
+                    catch (Exception e){System.out.println(e.message); continue}
+                    //Cycle through months
+                    for (WebElement month : months){
+                        month.click()
+                        DocumentWrapper doc = new DocumentWrapper()
+                        sleep(500)
+                        //Grab pdf link
+                        WebElement pdf
+                        String pdfPath = "//div[@id=\"Grid\"]//tbody//a[contains(translate(.,\"CITY COUNCIL\",\"city council\"), \"city council\" ) or contains(translate(. , \"AGEND\",\"agend\") , \"agenda\")]"
+                        try {
+                            pdf = driver.findElementByXPath(pdfPath)
+                        }
+                        catch (Exception e){
+                            System.out.println(e.message)
+                            log.debug(e.message)
+                            System.out.println("!!!An entry failed for " + month.getText() )
+                            continue;
+                        }
+                        //set
+                        doc.title = pdf.getText()
+                        doc.dateStr = "" //debug inconsistent titles / dates pdf.getText()
+                        doc.link = pdf.getAttribute("href")
 
-            // Grab the parent folder name which should be 4 digit year
-            String year = driver.findElement(By.xpath("//*[@id=\"AjaxTreeView\"]/ul/li/div/span[2]"))?.getText()
+                        //debug
+                        //System.out.println(doc.title)
+                        //System.out.println(doc.dateStr)
+                        //System.out.println(doc.link)
 
-            // Iterate through folder years folders
-            By rowSelector = By.xpath("//*[@id=\"AjaxTreeView\"]/ul/li/ul/li")
-            wait.until(ExpectedConditions.presenceOfElementLocated(rowSelector))
-
-            List<WebElement> rowElements = driver.findElements(rowSelector)
-
-            for(int i=0; i<rowElements.size(); i++){
-                log.debug("Processing folder: "+i)
-                WebElement row = rowElements.get(i)
-                String dateStr = row.getText()
-
-                // Date format is all over but append the year if its tiny
-                if(dateStr.size() < 8){
-                    dateStr = dateStr+year
-                }
-
-                // Click on the folder to load pdfs
-                row.click()
-                sleep(5000)
-
-                // Iterate through the folders PDFs
-                By agendaRowSelector = By.xpath("//*[@id=\"Grid\"]/table/tbody/tr/td[2]/a")
-//                wait.until(ExpectedConditions.presenceOfElementLocated(agendaRowSelector))
-
-                List<WebElement> agendaRowElements = driver.findElements(agendaRowSelector)
-
-                for(int j=0; j<agendaRowElements.size(); j++){
-                    log.debug("Processing agenda: "+j)
-                    WebElement agenda = agendaRowElements.get(j)
-                    String title = agenda?.getText()
-                    String link = agenda?.getAttribute("href")
-
-                    if(title?.toLowerCase().contains("council") || title?.toLowerCase().contains("agenda") || title?.toLowerCase().contains("packet")){
-                        DocumentWrapper dw = new DocumentWrapper()
-
-                        dw.title = title
-                        dw.dateStr = dateStr
-                        dw.link = link
-
-                        log.debug("\tTitle: ${dw.title}")
-                        log.debug("\tDate: ${dw.dateStr}")
-                        log.debug("\tUrl: ${dw.link}")
-
-                        docList.add(dw)
+                        docList.add(doc)
                     }
                 }
-                // Cheap way to get rid of stale element and refresh original folders list
-                rowElements = driver.findElements(rowSelector)
-                sleep(5000)
-            }
         } catch (Exception e) {
-            log.error("Selenium crawl error: "+e)
-            throw e
-        } finally{
+            log.debug("Selenium crawl error: "+e)
+            System.out.println(e.message)
+        }
+        finally{
             driver.quit()
             return docList
         }
     }
 
 }
+
+
+
+
+
+//debug List<WebElement> rowElements = driver.findElements(rowSelector)
+// Cheap way to get rid of stale element and refresh original folders list
+//debug       rowElements = driver.findElements(rowSelector)
