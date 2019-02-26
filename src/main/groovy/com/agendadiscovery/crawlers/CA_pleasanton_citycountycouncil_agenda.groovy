@@ -58,9 +58,9 @@ public class CA_pleasanton_citycountycouncil_agenda extends BaseCrawler{
                 driver.navigate().back()
             }
         } catch (Exception e) {
-            System.out.println(e.message)
+            log.debug(e.message)
             e.printStackTrace(System.out)
-            System.out.println("Continuing with next link")
+            log.debug("Continuing with next link")
         } finally{
             driver.quit()
             return docList
@@ -71,20 +71,19 @@ public class CA_pleasanton_citycountycouncil_agenda extends BaseCrawler{
     public void grabRow(WebDriver driver){
         try {
             DocumentWrapper doc = new DocumentWrapper();
-           doc.dateStr = driver.findElementByXPath("//div[@class=\"FolderNameHeader\"]").getText()
-           doc.title = driver.findElementByXPath("//div[@title=\"Path\"]/following-sibling::div[@class=\"FolderDataValue\"][1]").getText()
-             doc.title = doc.title.split('[\\\\]')[2]
+            doc.dateStr = driver.findElementByXPath("//div[@class=\"FolderNameHeader\"]").getText()
+            doc.title = driver.findElementByXPath("//div[@title=\"Path\"]/following-sibling::div[@class=\"FolderDataValue\"][1]").getText()
+            doc.title = doc.title.split('[\\\\]')[2]
             doc.link = driver.findElementByXPath("//div[@id=\"TheRightPanel\"]//tr/td[a]/*[contains(.,\"AGENDA\")]").getAttribute("href")
             docList = docList + doc
-
 //
 //            log.info("\tTitle: ${doc.title}")
 //            log.info("\tDate: ${doc.dateStr}")
-//            log.info("\tUrl: ${doc.url}")
+//            log.info("\tUrl: ${doc.link}")
 
         }
         catch (Exception e) {
-            System.out.println(e.message)
+            log.debug(e.message)
             e.printStackTrace(System.out)
             //continue crawling the rest
         }
