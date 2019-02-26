@@ -47,8 +47,7 @@ public class CA_plymouth_citycountycouncil_agenda extends BaseCrawler {
     public void choosePath(String name, String agendaPath, String downloadBase){
         try {
             System.out.println("Beginning " + name + " path")  //debug
-            //FluentWait<WebDriver> wait = new FluentWait<WebDriver>(driver).ignoring(NoSuchElementException.class);
-            //Click Agenda
+             //Click Agenda
             WebElement agenda = driver.findElementByXPath(agendaPath)
             String agendaUrl = agenda.getAttribute("href")
             driver.get(agendaUrl) //has target="_blank", can't use agenda.click()
@@ -85,3 +84,8 @@ public class CA_plymouth_citycountycouncil_agenda extends BaseCrawler {
     }
 
 }
+
+
+
+
+//FluentWait<WebDriver> wait = new FluentWait<WebDriver>(driver).ignoring(NoSuchElementException.class);

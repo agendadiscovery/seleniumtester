@@ -14,12 +14,13 @@ import java.util.concurrent.TimeUnit
 public class CO_aurora_citycountycouncil_agenda extends BaseCrawler{
     private static final Logger log = LoggerFactory.getLogger(this.class)
     int current_year = Year.now().getValue()
-    int paginateIndex = 1
-    boolean hasNext = true
     List <WebElement> docList = []
 
+    int paginateIndex = 1
+    boolean hasNext = true
+
     // http://chromedriver.chromium.org/getting-started
-    public List getDocuments(String baseUrl) throws Exception {
+    public List getDocuments(String baseUrl ) throws Exception {
         log.info("Starting AZ Youngtown Selenium crawl")
         log.info("Requesting baseURL: "+baseUrl)
         driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS)
@@ -42,11 +43,11 @@ public class CO_aurora_citycountycouncil_agenda extends BaseCrawler{
                 //log.debug(paginatorsText[index])
                 index++
             }
-
+            //cycle click through paginated display
             while(hasNext){
                 By rowSelector = By.xpath("//ul[@id=\"documentList\"]/li[position()>1]")
                 List<WebElement> rowElements = driver.findElements(rowSelector)
-
+                //cycle rows in display
                 for(int i=0; i<rowElements.size(); i++){
                     WebElement row = rowElements.get(i)
                     DocumentWrapper doc = new DocumentWrapper()
@@ -67,7 +68,7 @@ public class CO_aurora_citycountycouncil_agenda extends BaseCrawler{
 
                     docList.add(doc)
                 }
-                // click paginate button (1..2..3)
+                // click paginated button (1..2..3)
                 if(paginateIndex < paginatorsText.size()){
                     WebElement paginator = driver.findElement(By.linkText(paginatorsText[paginateIndex]))
                     paginator.click()

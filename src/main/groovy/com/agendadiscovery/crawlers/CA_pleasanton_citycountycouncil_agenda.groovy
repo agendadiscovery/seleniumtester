@@ -29,11 +29,11 @@ public class CA_pleasanton_citycountycouncil_agenda extends BaseCrawler{
             driver.manage().timeouts()implicitlyWait(5, TimeUnit.SECONDS)
             driver.get(baseUrl);
             // Wait for years to be displayed
-            By yearLink = By.xpath("//nobr[span[contains(.,'2018')]]")
-            wait.until(ExpectedConditions.presenceOfElementLocated(yearLink))
+            By yearLinkBy = By.xpath("//nobr[span[contains(.,'2018')]]")
+            wait.until(ExpectedConditions.presenceOfElementLocated(yearLinkBy))
 
             // Click the 2018 row
-            driver.findElement(yearLink).click()
+            driver.findElement(yearLinkBy).click()
             sleep(2000)
 
             //get folder web elements
@@ -44,41 +44,17 @@ public class CA_pleasanton_citycountycouncil_agenda extends BaseCrawler{
                 folderNames.add(folder.getText())
                 //debug  System.out.println(folder.getText()) //debug
             }
-
             //Iterate through the dated folders
             folderNames.each{ String folderName ->
                 //grab link and refresh element (new DOM each time)
-                //debug System.out.println(folderName)
-                By folderPath = By.xpath("//a[contains(. ,'" + folderName + "')]")
-                WebElement folder = driver.findElement(folderPath)
+                  //debug System.out.println(folderName)
+                By folderBy = By.xpath("//a[contains(. ,'" + folderName + "')]")
+                WebElement folder = driver.findElement(folderBy)
                 folder.click()
-                sleep(1200) //debug
+                sleep(1000)
 
-                try {
-                    DocumentWrapper doc = new DocumentWrapper();
-                    // grab date
-                    By datePath = By.xpath("//div[@class=\"FolderNameHeader\"]")
-                    doc.dateStr = driver.findElement(datePath).getText()
-                    //debug  System.out.println("\tDate: ${doc.dateStr}")
+                grabRow(driver)
 
-                    //grab title
-                    By titlePath = By.xpath("//div[@title=\"Path\"]/following-sibling::div[@class=\"FolderDataValue\"][1]")
-                    doc.title = driver.findElement(titlePath).getText()
-                    doc.title = doc.title.split('[\\\\]')[2]
-                    //debug  System.out.println("\tTitle: ${doc.title}")
-
-                    //grab agenda url
-                    By agendaPath = By.xpath("//div[@id=\"TheRightPanel\"]//tr/td[a]/*[contains(.,\"AGENDA\")]");
-                    doc.link = driver.findElement(agendaPath).getAttribute("href")
-                    //debug System.out.println("\tUrl: ${doc.link}")
-                    docList = docList + doc
-                }
-                catch (Exception e) {
-                    System.out.println(e.message)
-                    e.printStackTrace(System.out)
-                    //continue crawling the rest
-                }
-                //navigate back again before loop
                 driver.navigate().back()
             }
         } catch (Exception e) {
@@ -92,9 +68,25 @@ public class CA_pleasanton_citycountycouncil_agenda extends BaseCrawler{
     }
 
     //not used
-    public List getDocumentsByPage(WebDriver driver) throws Exception{
-        List docList = []
-        //*[@id="ViewTextLink"]
-        return docList
+    public void grabRow(WebDriver driver){
+        try {
+            DocumentWrapper doc = new DocumentWrapper();
+           doc.dateStr = driver.findElementByXPath("//div[@class=\"FolderNameHeader\"]").getText()
+           doc.title = driver.findElementByXPath("//div[@title=\"Path\"]/following-sibling::div[@class=\"FolderDataValue\"][1]").getText()
+             doc.title = doc.title.split('[\\\\]')[2]
+            doc.link = driver.findElementByXPath("//div[@id=\"TheRightPanel\"]//tr/td[a]/*[contains(.,\"AGENDA\")]").getAttribute("href")
+            docList = docList + doc
+
+//
+//            log.info("\tTitle: ${doc.title}")
+//            log.info("\tDate: ${doc.dateStr}")
+//            log.info("\tUrl: ${doc.url}")
+
+        }
+        catch (Exception e) {
+            System.out.println(e.message)
+            e.printStackTrace(System.out)
+            //continue crawling the rest
+        }
     }
 }

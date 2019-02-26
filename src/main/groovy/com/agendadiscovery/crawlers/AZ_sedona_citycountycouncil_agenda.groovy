@@ -9,16 +9,22 @@ import org.openqa.selenium.WebElement
 import org.openqa.selenium.chrome.ChromeDriver
 import org.openqa.selenium.support.ui.ExpectedConditions
 import org.openqa.selenium.support.ui.FluentWait
+import org.slf4j.LoggerFactory
+
+import java.time.Year
 import java.util.concurrent.TimeUnit
 
 import com.agendadiscovery.helpers.QuickMatch
 
 public class AZ_sedona_citycountycouncil_agenda extends BaseCrawler {
-
+    private static final org.slf4j.Logger log = LoggerFactory.getLogger(this.class)
+    int current_year = Year.now().getValue()
+    List <WebElement> docList = []
+    
     // http://chromedriver.chromium.org/getting-started
     public List getDocuments(String baseUrl) throws Exception {
-        System.out.println("Starting AZ Sedona Selenium crawl")
-        System.out.println("Requesting baseURL: "+baseUrl)
+        log.info("Starting AZ Sedona Selenium crawl")
+        log.info("Requesting baseURL: "+baseUrl)
 
         try {
             driver.get(baseUrl)
@@ -50,13 +56,12 @@ public class AZ_sedona_citycountycouncil_agenda extends BaseCrawler {
                     // Get data
                     doc.title = agenda.getText()
                     doc.dateStr = agenda.getText().replaceAll("[a-zA-Z]", "")
-                    System.out.println("doc.dateStr " + doc.dateStr)//debug
+                    log.info("doc.dateStr " + doc.dateStr)//debug
                     doc.link = agenda.getAttribute("href")
 
-                    System.out.println("\tTitle: ${doc.title}")
-                    System.out.println("\tDate: ${doc.dateStr}")
-                    System.out.println("\tUrl: ${doc.link}")
-
+//                    log.info("\tTitle: ${doc.title}")
+//                    log.info("\tDate: ${doc.dateStr}")
+//                    log.info("\tUrl: ${doc.link}")
                     docList.add(doc)
                 }
 
@@ -66,8 +71,9 @@ public class AZ_sedona_citycountycouncil_agenda extends BaseCrawler {
                 folderWebElements = driver.findElements(agendaFoldersBy)
             }
         } catch (Exception e) {
-            System.out.println(e.message)
+            log.info(e.message)
             e.printStackTrace(System.out)
+            throw e
         } finally{
             driver.quit()
             return docList

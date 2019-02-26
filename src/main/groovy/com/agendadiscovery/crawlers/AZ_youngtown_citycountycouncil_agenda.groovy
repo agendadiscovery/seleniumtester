@@ -7,7 +7,10 @@ import org.openqa.selenium.WebElement
 import org.openqa.selenium.chrome.ChromeDriver
 import org.openqa.selenium.support.ui.ExpectedConditions
 import org.openqa.selenium.support.ui.FluentWait
+import org.slf4j.Logger
+import org.slf4j.LoggerFactory
 
+import java.time.Year
 import java.util.concurrent.TimeUnit
 import com.agendadiscovery.DocumentWrapper
 
@@ -16,11 +19,14 @@ import com.agendadiscovery.helpers.QuickMatch
 //Mostly left as is.  Modified Xpaths and variable names to make it work.  Randall 2/21/19
 //url: http://youngtownaz.hosted.civiclive.com//cms/One.aspx?pageId=13406575&portalId=12609077&objectId.259675=13424223&contextId.259675=13406577&parentId.259675=13406578
 public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler{
-
+    private static final Logger log = LoggerFactory.getLogger(this.class)
+    int current_year = Year.now().getValue()
+    List <WebElement> docList = []
+    
     // http://chromedriver.chromium.org/getting-started
     public List getDocuments(String baseUrl) throws Exception {
-        System.out.println("Starting AZ Youngtown Selenium crawl")
-        System.out.println("Requesting baseURL: "+baseUrl)
+        log.info("Starting AZ Youngtown Selenium crawl")
+        log.info("Requesting baseURL: "+baseUrl)
 
         try {
             driver.get(baseUrl)
@@ -46,7 +52,7 @@ public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler{
             // Iterate through the pages
             int pageNum = 1
             driver.findElementsByXPath("//div[@class=\"PO-paging\"]/ul[@class=\"PO-pageButton\"]/li/a[contains(@class,\"number\")]").each{ WebElement we ->
-                System.out.println("Processing page: ${pageNum}")
+                log.info("Processing page: ${pageNum}")
                 we.click()
                 sleep(2500)
                 driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS)
@@ -55,7 +61,7 @@ public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler{
                 pageNum++
             }
         } catch (Exception e) {
-            System.out.println(e.message)
+            log.info(e.message)
             e.printStackTrace(System.out)
         } finally{
             driver.quit()
@@ -70,7 +76,7 @@ public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler{
         List docList = []
 
         for(int i=0; i < webElements.size(); i++){
-            System.out.println("Processing row: ${i}")
+            log.info("Processing row: ${i}")
             DocumentWrapper doc = new DocumentWrapper()
             // Row element data will be relative to
             WebElement webElement = webElements.get(i)
@@ -89,9 +95,9 @@ public class AZ_youngtown_citycountycouncil_agenda extends BaseCrawler{
             doc.dateStr = dateStr
             doc.link = url
 
-//            System.out.println("\tTitle: ${title}")
-//            System.out.println("\tDate: ${dateStr}")
-//            System.out.println("\tUrl: ${url}")
+//            log.info("\tTitle: ${title}")
+//            log.info("\tDate: ${dateStr}")
+//            log.info("\tUrl: ${url}")
 
             docList.add(doc)
         }
