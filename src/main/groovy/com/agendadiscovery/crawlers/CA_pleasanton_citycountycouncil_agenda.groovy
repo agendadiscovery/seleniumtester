@@ -22,7 +22,6 @@ public class CA_pleasanton_citycountycouncil_agenda extends BaseCrawler{
 
     // http://chromedriver.chromium.org/getting-started
     public List getDocuments(String baseUrl) throws Exception {
-        //QUESTION ABOUT AGENDA.  CAN WE ADD NEW ATTRIBUTE TO DOCUMENTWRAPPER OR OTHER OPTION?
         log.info("Starting crawler " + this.class.name)
         log.info("Requesting baseURL: "+baseUrl)
         try {

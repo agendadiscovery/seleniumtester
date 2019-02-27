@@ -33,15 +33,22 @@ class NE_casscounty_citycountycouncil_agenda extends BaseCrawler {
 
             String firstLink =  driver.findElementByXPath("//tbody/tr/td[2]/a[contains(translate(. , \"AGEND\",\"agend\") , \"agenda\")]").getAttribute("href")
             String firstId = QuickMatch.matchGroup("ID=([0-9]+)",firstLink)
-            String newId = (firstId.toInteger() - 1 ).toString()
-            doc.link =  "http://173.190.246.54/Pdf/0doc.pdf".replaceAll("[0-9]+doc", newId + "doc")
+            String finalLink = "http://173.190.246.54/richshow2.php?ID=" + firstId
+
+
+            //circumvent popup for pdf link
+            driver.get(finalLink)
+            sleep(1000)
+
+            //grab data
+            doc.link = driver.findElementByXPath("//body//a").getAttribute("href")
 
             docList = docList + doc
 
             //debug
-//            log.info("\tTitle: ${doc.title}")
-//            log.info("\tDate: ${doc.dateStr}")
-//            log.info("\tUrl: ${doc.link}")
+            log.info("\tTitle: ${doc.title}")
+            log.info("\tDate: ${doc.dateStr}")
+            log.info("\tUrl: ${doc.link}")
 
         } catch (Exception e) {
             log.info(e.message)

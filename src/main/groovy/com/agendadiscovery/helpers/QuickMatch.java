@@ -2,7 +2,6 @@ package com.agendadiscovery.helpers;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-//module created by Randall Babaoye.  randallcoding@protonmail.com  2/16/19
 public class QuickMatch {
     public static String match(String regex, String s){
         Pattern pattern = Pattern.compile(regex);
@@ -30,3 +29,7 @@ public class QuickMatch {
         }
     }
 }
+
+
+
+//module created by Randall Babaoye.  randallcoding@protonmail.com  2/16/19
