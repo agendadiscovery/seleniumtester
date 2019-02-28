@@ -28,6 +28,19 @@ public class QuickMatch {
             return null;
         }
     }
+
+    public static Matcher matchGroups(String regex, String s){
+        Pattern pattern = Pattern.compile(regex);
+        Matcher matcher = pattern.matcher(s);
+        if (matcher.find())
+        {
+            return matcher;
+        }
+        else{
+            return null;
+        }
+    }
+
 }
 
 

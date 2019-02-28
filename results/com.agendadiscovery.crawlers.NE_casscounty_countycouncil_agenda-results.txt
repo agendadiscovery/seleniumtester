@@ -1,5 +1,5 @@
 ================================================
-Processing class: com.agendadiscovery.crawlers.NE_casscounty_citycountycouncil_agenda
+Processing class: com.agendadiscovery.crawlers.NE_casscounty_countycouncil_agenda
 http://173.190.246.54/meet2.php?OrgID=4&cmbtype=3
 Found document: 
 	Title - Final Agenda - February 19, 2019

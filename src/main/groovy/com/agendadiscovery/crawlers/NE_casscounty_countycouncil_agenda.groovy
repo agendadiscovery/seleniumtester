@@ -12,7 +12,7 @@ import java.time.Year
 import java.util.concurrent.TimeUnit
 
 //Grabs current / upcoming document
-class NE_casscounty_citycountycouncil_agenda extends BaseCrawler {
+class NE_casscounty_countycouncil_agenda extends BaseCrawler {
     private static final Logger log = LoggerFactory.getLogger(this.class)
     int current_year = Year.now().getValue()
     List <WebElement> docList = []
