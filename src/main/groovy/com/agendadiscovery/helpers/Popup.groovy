@@ -14,5 +14,9 @@ class Popup {
         return handles[0]
     }
 
+    public static void closeToBase(String base, WebDriver driver){
+        driver.close() //close new window
+        driver.switchTo().window(base)  //switch to base
+    }
 
 }

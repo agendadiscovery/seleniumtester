@@ -12,6 +12,7 @@ import java.util.concurrent.TimeUnit
 import java.util.regex.Matcher
 
 //Google docs storage.
+//! Needs modification for older agendas starting at 2017, but doable if needed.
 class NV_ely_citycouncil_agenda extends BaseCrawler {
     private static final Logger log = LoggerFactory.getLogger(this.class)
     int current_year = Year.now().getValue()
@@ -29,7 +30,7 @@ class NV_ely_citycouncil_agenda extends BaseCrawler {
                 getDocumentByPage(driver)
             }
             catch (Exception e) {
-                log.debug(e.full_message)
+                log.debug(e.message)
                 e.printStackTrace(log.debug)  //skip bad lines but print errors
             }
         } catch (Exception e) {
@@ -49,7 +50,6 @@ class NV_ely_citycouncil_agenda extends BaseCrawler {
             DocumentWrapper doc = new DocumentWrapper()
             doc.title = link.getText()
             doc.dateStr = doc.title
-            sleep(1000)
             String title = link.getText()
             //prep for doc.link
             Matcher m = QuickMatch.matchGroups("(.+)\\b([0-9]+.[0-9]+.[0-9]+.+)", title)
@@ -59,13 +59,11 @@ class NV_ely_citycouncil_agenda extends BaseCrawler {
                 String title_2 = m.group(2)
                 //concat link  (90% accuracy on their naming convention.  can be inconsistent)
                 doc.link = "https://sites.google.com/a/elycity.com/city-of-ely/documents/" + title_1 + title_2 + ".pdf?attredirects=0&d=1"
-                sleep(1000) //debug
             } else {
                 doc.link = "no match, skipping"
                 continue
             }
             docList = docList + doc
-
             //debug
             log.info("\tTitle: ${doc.title}")
             log.info("\tDate: ${doc.dateStr}")
