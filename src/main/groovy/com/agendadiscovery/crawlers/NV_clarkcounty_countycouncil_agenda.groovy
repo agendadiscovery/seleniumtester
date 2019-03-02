@@ -11,10 +11,9 @@ import org.slf4j.LoggerFactory
 import java.time.Year
 import java.util.concurrent.TimeUnit
 
-//optional two or one tier
-//fastest less elegant option: do two crawls, discarding bad request
-//plan so far:  1) click link  2) switch to new window 3)inspect HTML 4)skip if wrong type
-//              5) Grab info if good 6) repeat for other file type (second pass through)
+//alternating two and one tier. SIRE & Granicus
+//plan:  1) click link  2) switch to new window 3)inspect HTML 4) keep original URL if not iframe
+//              5) if Iframe then change url
 class NV_clarkcounty_countycouncil_agenda extends BaseCrawler{
     private static final Logger log = LoggerFactory.getLogger(this.class)
     int current_year = Year.now().getValue()
@@ -26,7 +25,7 @@ class NV_clarkcounty_countycouncil_agenda extends BaseCrawler{
         try {
             driver.manage().timeouts() implicitlyWait(5, TimeUnit.SECONDS)
             driver.get(baseUrl);
-            sleep(2000)
+            sleep(5000)
             try {
                 //grab links
                 List <WebElement> rows = driver.findElementsByXPath("//tr[position()<20][td[contains(@class,'listItem')]]") //debug
@@ -55,27 +54,26 @@ class NV_clarkcounty_countycouncil_agenda extends BaseCrawler{
             try{
                 String title,dateStr,link
                 DocumentWrapper doc = new DocumentWrapper()
-                WebElement agenda = row.findElementByXPath("//a[contains(., \"Agenda\")]")
+                WebElement agenda = row.findElement(By.xpath("td[3 or 4]//a[contains(., \"Agenda\")]"))
+                //grab title and date first.  link can change later
                 title = row.findElement(By.xpath("td[1]")).getText()
                 dateStr = row.findElement(By.xpath("td[2]")).getText()
-                link = agenda.getAttribute('href')
+                link = row.findElement(By.xpath("td[3 or 4]//a[contains(., \"Agenda\")]")).getAttribute('href')
                 agenda.click()
-                sleep(2000)
-                //get title and date first
-
-                log.debug(title)
-                log.debug(dateStr)
+                sleep(800)
 
                 //check condition for SIRE (iframe)
                 if(driver.getWindowHandles().size() == 2){
                     Popup.switchToPopup(base,driver)
-                    //get iframe link
-                    link = driver.findElementByXPath("//iframe[@id=\"agviewmain\"]").getAttribute('src')
-                    doc.link = "https://agenda.co.clark.nv.us/" + link
-                    log.debug "We got an iframe"
+                    //use iframe link
+                    if(driver.findElementsByXPath("//iframe[@id=\"agviewmain\"]").size() == 1) {
+                        link = driver.findElementByXPath("//iframe[@id=\"agviewmain\"]").getAttribute('src')
+                        doc.link = "https://agenda.co.clark.nv.us/" + link
+                        log.debug "We got an iframe"
+                    }
                 }
                 else{
-                    //Granicus keep original link
+                    //keep original link (Granicus)
                     log.debug("Nope no iframe")
                 }
 
@@ -104,8 +102,4 @@ class NV_clarkcounty_countycouncil_agenda extends BaseCrawler{
        //switch back to homepage
         driver.switchTo().window(base)
     }//end getDocumentsByPage()
-//SIRE & Granicus
-    public void scanGranicus(WebDriver driver, List<WebElement> rows){
-       //if HTML has iframe stop
-    }
 }

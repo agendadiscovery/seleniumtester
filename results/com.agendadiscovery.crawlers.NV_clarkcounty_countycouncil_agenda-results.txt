@@ -8,432 +8,320 @@ Found document:
 Found document: 
 	Title - Planning Commission Tuesday Briefing Notice
 	Date - March  5, 2019 - 06:00 PM
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&event_id=141
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 3/5/2019
 	Date - March  5, 2019 - 07:00 PM
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1977&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 3/6/2019
 	Date - March  6, 2019 - 09:00 AM
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1978&agviewdoctype=AGENDA
 Found document: 
 	Title - SPECIAL MEETING - 3/6/2019
 	Date - March  6, 2019 - 01:00 PM
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1974&agviewdoctype=AGENDA
 Found document: 
 	Title - BCC JOINT MEETING REGULAR - 2/19/2019
 	Date - February 19, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1970&agviewdoctype=AGENDA
 Found document: 
 	Title - BCC JOINT MEETING REGULAR - 2/5/2019
 	Date - February  5, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1967&agviewdoctype=AGENDA
 Found document: 
 	Title - BCC JOINT MEETING REGULAR - 1/22/2019
 	Date - January 22, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1964&agviewdoctype=AGENDA
 Found document: 
 	Title - BCC JOINT MEETING REGULAR - 1/7/2019
 	Date - January  7, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1958&agviewdoctype=AGENDA
 Found document: 
 	Title - BCC JOINT MEETING REGULAR - 12/18/2018
 	Date - December 18, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1952&agviewdoctype=AGENDA
 Found document: 
 	Title - BCC JOINT MEETING REGULAR - 12/4/2018
 	Date - December  4, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1948&agviewdoctype=AGENDA
 Found document: 
 	Title - BCC JOINT SPECIAL MEETING - 11/29/2018
 	Date - November 29, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1949&agviewdoctype=AGENDA
 Found document: 
 	Title - BCC JOINT MEETING REGULAR - 11/20/2018
 	Date - November 20, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1945&agviewdoctype=AGENDA
 Found document: 
 	Title - SPECIAL MEETING - 11/14/2018
 	Date - November 14, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1939&agviewdoctype=AGENDA
 Found document: 
 	Title - BCC JOINT MEETING REGULAR - 11/6/2018
 	Date - November  6, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1942&agviewdoctype=AGENDA
 Found document: 
 	Title - BCC JOINT MEETING REGULAR - 10/16/2018
 	Date - October 16, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1937&agviewdoctype=AGENDA
 Found document: 
 	Title - BCC JOINT MEETING REGULAR - 10/2/2018
 	Date - October  2, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1934&agviewdoctype=AGENDA
 Found document: 
 	Title - BCC JOINT MEETING REGULAR - 9/18/2018
 	Date - September 18, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1931&agviewdoctype=AGENDA
 Found document: 
 	Title - BCC JOINT MEETING REGULAR - 9/4/2018
 	Date - September  4, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1926&agviewdoctype=AGENDA
 Found document: 
 	Title - Mt Charleston Fire Protection District Special Meeting - 8/21/2018
 	Date - August 21, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1927&agviewdoctype=AGENDA
 Found document: 
 	Title - BCC JOINT MEETING REGULAR - 8/21/2018
 	Date - August 21, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1922&agviewdoctype=AGENDA
 Found document: 
 	Title - BCC JOINT MEETING REGULAR - 8/7/2018
 	Date - August  7, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1917&agviewdoctype=AGENDA
 Found document: 
 	Title - SPECIAL MEETING - 7/23/2018
 	Date - July 23, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1910&agviewdoctype=AGENDA
 Found document: 
 	Title - BCC JOINT MEETING REGULAR - 7/17/2018
 	Date - July 17, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1914&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 2/19/2019
 	Date - February 19, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1971&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 2/5/2019
 	Date - February  5, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1968&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 1/22/2019
 	Date - January 22, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1966&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 1/8/2019
 	Date - January  8, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1963&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 12/18/2018
 	Date - December 18, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1954&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 12/4/2018
 	Date - December  4, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1950&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 11/20/2018
 	Date - November 20, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1946&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 11/6/2018
 	Date - November  6, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1943&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 10/16/2018
 	Date - October 16, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1940&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 10/2/2018
 	Date - October  2, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1935&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 9/18/2018
 	Date - September 18, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1932&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 9/4/2018
 	Date - September  4, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1928&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 8/21/2018
 	Date - August 21, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1924&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 8/7/2018
 	Date - August  7, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1919&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 7/17/2018
 	Date - July 17, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1915&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 7/3/2018
 	Date - July  3, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1911&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 6/19/2018
 	Date - June 19, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1906&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 6/5/2018
 	Date - June  5, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1901&agviewdoctype=AGENDA
 Found document: 
 	Title - Tuesday Planning Commission Meeting - 5/15/2018
 	Date - May 15, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1895&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 2/20/2019
 	Date - February 20, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1972&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 2/6/2019
 	Date - February  6, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1969&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 1/23/2019
 	Date - January 23, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1965&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 1/9/2019
 	Date - January  9, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1962&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 12/19/2018
 	Date - December 19, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1955&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 12/5/2018
 	Date - December  5, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1951&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 11/20/2018
 	Date - November 20, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1947&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 11/7/2018
 	Date - November  7, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1944&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 10/17/2018
 	Date - October 17, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1941&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 10/3/2018
 	Date - October  3, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1936&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 9/19/2018
 	Date - September 19, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1933&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 9/5/2018
 	Date - September  5, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1929&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 8/22/2018
 	Date - August 22, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1925&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 8/8/2018
 	Date - August  8, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1920&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 7/18/2018
 	Date - July 18, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1916&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 7/3/2018
 	Date - July  3, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1912&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 6/20/2018
 	Date - June 20, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1907&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 6/6/2018
 	Date - June  6, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1902&agviewdoctype=AGENDA
 Found document: 
 	Title - ZONING COMMISSION - 5/16/2018
 	Date - May 16, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - New! Police Fatality Public Fact-finding Review for Junior Lopez
-	Date - February 28, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - New! Police Fatality Public Fact-finding Review for Christopher Gatewood
-	Date - February 26, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Police Fatality Public Fact-finding Review for Axell Vivas
-	Date - October 19, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Police Fatality Public Fact-finding Review for Tashi Brown
-	Date - September 24, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Police Fatality Public Fact-finding Review for Jarrett Varnado
-	Date - July 10, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Police Fatality Public Fact-finding Review for Phillp Pitts
-	Date - June 28, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Police Fatality Public Fact-finding Review for Miguel Salas
-	Date - May 25, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Police Fatality Public Fact-finding Review for Craig Cuddihy
-	Date - May  4, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Police Fatality Public Fact-finding Review for George Tillman
-	Date - April 27, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Police Fatality Public Fact-finding Review for Cody O'Bryan
-	Date - April 24, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Police Fatality Public Fact-finding Review for Pedro Ramierz
-	Date - March  9, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Police Fatality Public Fact-finding Review for Caleb Blaylock
-	Date - February 15, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Police Fatality Public Fact-finding Review for Steven Price
-	Date - November 30, 2017
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Police Fatality Public Fact-finding Review for Francisco Suarez
-	Date - November 27, 2017
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Police Fatality Public Fact-finding Review for Paul Palmer
-	Date - May 26, 2017
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Police Fatality Public Fact-finding Review for Rex Wilson
-	Date - March 27, 2017
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Police Fatality Public Fact-finding Review for Javier Munoz
-	Date - March 20, 2017
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Police Fatality Public Fact-finding Review for Matthew Gibbon
-	Date - March 10, 2017
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Police Fatality Public Fact-finding Review for Jeremias Cruz
-	Date - January 11, 2017
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1894&agviewdoctype=AGENDA
 Found document: 
 	Title - Las Vegas Stadium Authority Board
 	Date - January 17, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=6136
 Found document: 
 	Title - Las Vegas Stadium Authority Board
 	Date - November 14, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=6048
 Found document: 
 	Title - Las Vegas Stadium Authority Board
 	Date - September 20, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=5996
 Found document: 
 	Title - Las Vegas Stadium Authority Board
 	Date - July 19, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=5919
 Found document: 
 	Title - Las Vegas Stadium Authority Board
 	Date - May 23, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=5847
 Found document: 
 	Title - Las Vegas Stadium Authority Board
 	Date - April 12, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=5789
 Found document: 
 	Title - Las Vegas Stadium Authority Board - 03/28/2018
 	Date - March 28, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=5775
 Found document: 
 	Title - Las Vegas Stadium Authority Board
 	Date - March 22, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=5764
 Found document: 
 	Title - Las Vegas Stadium Authority Board
 	Date - March  1, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=5734
 Found document: 
 	Title - Las Vegas Stadium Authority Board
 	Date - February 15, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=5715
 Found document: 
 	Title - Las Vegas Valley Stadium Authority
 	Date - January 11, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=5684
 Found document: 
 	Title - Las Vegas Stadium Authority at UNLV
 	Date - December 14, 2017
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=5664
 Found document: 
 	Title - Las Vegas Stadium Authority Board
 	Date - November  9, 2017
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=5546
 Found document: 
 	Title - Las Vegas Stadium Authority Board
 	Date - September 14, 2017
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=5472
 Found document: 
 	Title - Las Vegas Stadium Authority Board
 	Date - August 17, 2017
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=5450
 Found document: 
 	Title - JOINT INFORMATIONAL MEETING: LAS VEGAS RAIDERS STADIUM PROJECT
 	Date - August  2, 2017
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=5432
 Found document: 
 	Title - Las Vegas Stadium Authority Board
 	Date - July 13, 2017
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=5395
 Found document: 
 	Title - Las Vegas Stadium Authority Board
 	Date - June  8, 2017
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Las Vegas Stadium Authority Board
-	Date - May 22, 2017
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - New! Board of Equalization
-	Date - February 25, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Board of Equalization
-	Date - February 22, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Board of Equalization
-	Date - February 15, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Board of Equalization
-	Date - February 11, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Board of Equalization
-	Date - February  8, 2019
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Board of Equalization
-	Date - October 22, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - State Board of Equalization
-	Date - September 10, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
-Found document: 
-	Title - Clark County School District Board of School Trustees - Regular Meeting
-	Date - August  9, 2018
-	Link - https://agenda.co.clark.nv.us/sirepub/agview.aspx?agviewmeetid=1973&agviewdoctype=AGENDA
+	Link - http://clark.granicus.com/AgendaViewer.php?view_id=17&clip_id=5346
 
 Ending process
-Found 108 documents
+Found 80 documents
 ================================================
