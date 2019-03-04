@@ -31,7 +31,6 @@ class NV_clarkcounty_countycouncil_agenda extends BaseCrawler{
                 List <WebElement> rows = driver.findElementsByXPath("//tr[position()<20][td[contains(@class,'listItem')]]") //debug
                 //run each path
                 getDocumentsByPage(driver,rows)
-                scanGranicus(driver,rows)
             }
             catch (Exception e) {
                 log.debug(e.message)
@@ -99,7 +98,6 @@ class NV_clarkcounty_countycouncil_agenda extends BaseCrawler{
         } //end for loop
        //close new window
         driver.close()
-       //switch back to homepage
         driver.switchTo().window(base)
     }//end getDocumentsByPage()
-}
+}//end class
