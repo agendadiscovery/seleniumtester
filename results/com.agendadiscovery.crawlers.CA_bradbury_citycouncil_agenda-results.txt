@@ -2,6 +2,10 @@
 Processing class: com.agendadiscovery.crawlers.CA_bradbury_citycouncil_agenda
 http://www.cityofbradbury.org/city-hall/city-council/agendas-minutes
 Found document: 
+	Title -  Regular Meeting of the Bradbury City Council
+	Date - 03/19/19 - Regular Meeting of the Bradbury City Council
+	Link - http://www.cityofbradbury.org/images/CC%20Agenda_3-19-19.pdf
+Found document: 
 	Title - Special Meeting of the Bradbury City Council
 	Date - 03/04/19 - Special Meeting of the Bradbury City Council 
 	Link - http://www.cityofbradbury.org/images/March%204%202019%20Agenda%20Packet.pdf
@@ -395,5 +399,5 @@ Found document:
 	Link - http://www.cityofbradbury.org/images/Jan2013CCAgenda.pdf
 
 Ending process
-Found 98 documents
+Found 99 documents
 ================================================

@@ -2,6 +2,18 @@
 Processing class: com.agendadiscovery.crawlers.AZ_sedona_citycountycouncil_agenda
 http://kepler62f.sedonaaz.gov:600/DocCentral/folder.aspx?CC=1&tf=97
 Found document: 
+	Title - 03-12-19 Agenda
+	Date - 03-12-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36823
+Found document: 
+	Title - 03-12-19 Packet
+	Date - 03-12-19 
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36821
+Found document: 
+	Title - 03-12-19 Action Item List
+	Date - 03-12-19   
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36864
+Found document: 
 	Title - 02-26-19 Agenda
 	Date - 02-26-19 
 	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36730
@@ -9,6 +21,10 @@ Found document:
 	Title - 02-26-19 Packet
 	Date - 02-26-19 
 	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36728
+Found document: 
+	Title - 02-26-19 Action Item List
+	Date - 02-26-19   
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36780
 Found document: 
 	Title - 02-13-19 Agenda
 	Date - 02-13-19 
@@ -18,6 +34,10 @@ Found document:
 	Date - 02-13-19 
 	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36660
 Found document: 
+	Title - 02-13-19 Action Item List
+	Date - 02-13-19   
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36762
+Found document: 
 	Title - 02-12-19 Agenda
 	Date - 02-12-19 
 	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36664
@@ -25,6 +45,10 @@ Found document:
 	Title - 02-12-19 Packet
 	Date - 02-12-19 
 	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36658
+Found document: 
+	Title - 02-12-19 Action Item List
+	Date - 02-12-19   
+	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=36804
 Found document: 
 	Title - 01-23-19 Agenda - Executive Session
 	Date - 01-23-19  -  
@@ -277,19 +301,7 @@ Found document:
 	Title - 10-11-18 Action Item List
 	Date - 10-11-18   
 	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=35833
-Found document: 
-	Title - 10-10-18 Agenda
-	Date - 10-10-18 
-	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=35783
-Found document: 
-	Title - 10-10-18 Complete Packet
-	Date - 10-10-18  
-	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=35781
-Found document: 
-	Title - 10-10-18 Action Item List
-	Date - 10-10-18   
-	Link - http://www.sedonaaz.gov/Home/ShowDocument?id=35831
 
 Ending process
-Found 72 documents
+Found 75 documents
 ================================================

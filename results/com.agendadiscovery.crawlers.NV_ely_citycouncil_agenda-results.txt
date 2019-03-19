@@ -2,6 +2,10 @@
 Processing class: com.agendadiscovery.crawlers.NV_ely_citycouncil_agenda
 http://www.elycity.com/meetings/city-council-meetings
 Found document: 
+	Title - CC 3-14-19 Agenda
+	Date - CC 3-14-19 Agenda
+	Link - https://sites.google.com/a/elycity.com/city-of-ely/documents/cc 3-14-19 Agenda.pdf?attredirects=0&d=1
+Found document: 
 	Title - CC 2-28-19 Agenda
 	Date - CC 2-28-19 Agenda
 	Link - https://sites.google.com/a/elycity.com/city-of-ely/documents/cc 2-28-19 Agenda.pdf?attredirects=0&d=1
@@ -33,10 +37,6 @@ Found document:
 	Title - CC 11-8-18 Agenda
 	Date - CC 11-8-18 Agenda
 	Link - https://sites.google.com/a/elycity.com/city-of-ely/documents/cc 11-8-18 Agenda.pdf?attredirects=0&d=1
-Found document: 
-	Title - CC 10-25-18 Agenda
-	Date - CC 10-25-18 Agenda
-	Link - https://sites.google.com/a/elycity.com/city-of-ely/documents/cc 10-25-18 Agenda.pdf?attredirects=0&d=1
 
 Ending process
 Found 9 documents

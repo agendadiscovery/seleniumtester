@@ -1,0 +1,219 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.CA_alhambra_citycouncil_agenda
+ https://www.cityofalhambra.org/city-meetings
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - DECEMBER 23, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - DECEMBER 9, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - NOVEMBER 25, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - NOVEMBER 12, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - OCTOBER 28, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - OCTOBER 14, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - SEPTEMBER 23, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - SEPTEMBER 9, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - AUGUST 26, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - AUGUST 12, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - JULY 22, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - JULY 8, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - JUNE 24, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - JUNE 10, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - MAY 28, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - MAY 13, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - APRIL 22, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - APRIL 8, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - MARCH 25, 2019
+	Link - null
+Found document: 
+	Title - City Council Public Hearing
+	Date - MARCH 25, 2019
+	Link - https://drive.google.com/uc?export=download&id=1aAivoeNydSf761Hmih7lHWH7rLXkhuzV
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - MARCH 11, 2019
+	Link - https://drive.google.com/uc?export=download&id=1bc1MBr_M10fJOVTkQTML7LFLzz_c28HB
+Found document: 
+	Title - City Council (Special)
+	Date - MARCH 11, 2019
+	Link - https://drive.google.com/uc?export=download&id=1odnxBz6oHps5C66mHCcijx2YS_y7jgM_
+Found document: 
+	Title - City Council Meeting (Regular) - Business Mtg. at 5:30 p.m. & Ceremonial at 7:00 p.m.
+	Date - FEBRUARY 25, 2019
+	Link - https://drive.google.com/uc?export=download&id=13NBhYiRDrw2egi6iRHLgI-BlRjYIr95N
+Found document: 
+	Title - City Council (Special)
+	Date - FEBRUARY 20, 2019
+	Link - null
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - FEBRUARY 11, 2019
+	Link - https://drive.google.com/uc?export=download&id=1ffNH_ijNRilpOkUaGF3Vg18FMUSCKoHw
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - JANUARY 28, 2019
+	Link - https://drive.google.com/uc?export=download&id=1tAHoVZzbw0p-okPwcrECtjchHEI1h8ba
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - JANUARY 14, 2019
+	Link - https://drive.google.com/uc?export=download&id=14LVDQzd0oBF5KqRg4CYon7EM_JeEImNz
+Found document: 
+	Title - City Council Meeting (Regular) - Cancelled
+	Date - DECEMBER 24, 2018
+	Link - https://drive.google.com/uc?export=download&id=1rYkMfAHa9B3nGB3Vvgg_MOIrN54jplo6
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - DECEMBER 10, 2018
+	Link - https://drive.google.com/uc?export=download&id=1wO5m0zx4jZ6eYjow7NpR1WVVYV1FW8BP
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - NOVEMBER 26, 2018
+	Link - https://drive.google.com/uc?export=download&id=1aKtT-WSfbikO6p-nant2Z5q5khR6IogR
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - NOVEMBER 13, 2018
+	Link - https://drive.google.com/uc?export=download&id=1c4Yv6g1JTPWQ7j1k6Fui9aNwt7CLBtvp
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - OCTOBER 22, 2018
+	Link - https://drive.google.com/uc?export=download&id=1sHidWvTmzznQK83LH66g-3RsHLBkm08M
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - OCTOBER 8, 2018
+	Link - https://drive.google.com/uc?export=download&id=1wZG8OjyxITzf_P-N35DiViPTT8M0gS8m
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - SEPTEMBER 24, 2018
+	Link - https://drive.google.com/uc?export=download&id=1uXTHUJODswKKth7pUTHPWtl16GPOgDLe
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - SEPTEMBER 10, 2018
+	Link - https://drive.google.com/uc?export=download&id=1f35kJwpl_NxeEyPL13JG7fjWo7ynn_N1
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - AUGUST 27, 2018
+	Link - https://drive.google.com/uc?export=download&id=1Qds-sin62oNhBjGE6eWK99LfvZpxbWFE
+Found document: 
+	Title - City Council Meeting (Special)
+	Date - AUGUST 22, 2018
+	Link - https://drive.google.com/uc?export=download&id=1ouYXpLWCc3cnWMQSXKDb4rydEGcVig2w
+Found document: 
+	Title - City Council Meeting (Regular) - Cancelled
+	Date - AUGUST 13, 2018
+	Link - https://drive.google.com/uc?export=download&id=1KuOuvW5DF66peoJHd1SzpSy9drhAuhff
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - JULY 23, 2018
+	Link - https://drive.google.com/uc?export=download&id=1DKDb6sEiWwVAu0k8Js2Ic2rjAqHeUkVG
+Found document: 
+	Title - Council Meeting (Regular) - Cancelled
+	Date - JULY 9, 2018
+	Link - https://drive.google.com/uc?export=download&id=1K3YVmuSR2EEDe9uI15MGF5kMAhKMa6Ko
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - JUNE 25, 2018
+	Link - https://drive.google.com/uc?export=download&id=1PVVJ-LgSyOl2z45L_gwGSp_OJTfHDfoS
+Found document: 
+	Title - City Council Meeting (Regular) - Cancelled
+	Date - JUNE 11, 2018
+	Link - https://drive.google.com/uc?export=download&id=1A5fLLp8Ma6UsKrwMKlkEqAroEOHcTMUg
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - MAY 29, 2018
+	Link - https://drive.google.com/uc?export=download&id=1ybvaDh88rGaltxPLEz7WicLlMrnp21Ls
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - MAY 14, 2018
+	Link - https://drive.google.com/uc?export=download&id=19Sh8fntc2-iYo0Xpo9CsGTWf5CY1HQhm
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - APRIL 23, 2018
+	Link - https://drive.google.com/uc?export=download&id=1QNwEczjuJeprDf_7X-vYQd6r_5zqnKpq
+Found document: 
+	Title - City Council Meeting (Adjourned)
+	Date - APRIL 19, 2018
+	Link - https://drive.google.com/uc?export=download&id=16l9vX9QOP6N7g-fFhQufbjGFddhuAeIC
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - APRIL 9, 2018
+	Link - https://drive.google.com/uc?export=download&id=14vQQuqkFlWnUrNKVgpJT1yy7JT7IG5lM
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - MARCH 26, 2018
+	Link - https://drive.google.com/uc?export=download&id=11xey7xkNgMmyXq8Tu-YDrHvU7lOJrlAw
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - MARCH 12, 2018
+	Link - https://drive.google.com/uc?export=download&id=1RA4C2GwHQ_AC9fd3LTGBzcP4LOcU_hlg
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - FEBRUARY 26, 2018
+	Link - https://drive.google.com/uc?export=download&id=1ohVgZ-n6eADcJfnFv3l7BLhZevwpwCs4
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - FEBRUARY 12, 2018
+	Link - https://drive.google.com/uc?export=download&id=1CZzLY_s_9In2OmBpQSSxhICmNtNsBgc0
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - JANUARY 22, 2018
+	Link - https://drive.google.com/uc?export=download&id=1lHhd896S_NBWOgy7iZlY3BMpN0ALm3fe
+Found document: 
+	Title - City Council Meeting (Regular)
+	Date - JANUARY 8, 2018
+	Link - https://drive.google.com/uc?export=download&id=1rFEF7sCsO9HfrTNlZ61zmyvE5nWK3h7J
+
+Ending process
+Found 53 documents
+================================================

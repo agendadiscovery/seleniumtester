@@ -1,0 +1,147 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.CA_irvine_planningcommission_agenda
+http://legacy.cityofirvine.org/council/comms/planning/agenda.asp
+Found document: 
+	Title - 2019-03-21 Agenda
+	Date - 2019-03-21 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5764&agviewdoctype=AGENDA
+Found document: 
+	Title - 2019-03-07 Agenda
+	Date - 2019-03-07 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5745&agviewdoctype=AGENDA
+Found document: 
+	Title - 2019-02-21 Agenda
+	Date - 2019-02-21 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5744&agviewdoctype=AGENDA
+Found document: 
+	Title - 2019-02-07 Agenda
+	Date - 2019-02-07 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5743&agviewdoctype=AGENDA
+Found document: 
+	Title - 2019-01-17 Agenda
+	Date - 2019-01-17 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5675&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-12-06 Agenda
+	Date - 2018-12-06 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5667&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-11-15 Agenda
+	Date - 2018-11-15 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5654&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-11-01 Supplemental Agenda
+	Date - 2018-11-01 Supplemental Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5669&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-10-18 Agenda
+	Date - 2018-10-18 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5637&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-10-04 Supplemental Agenda
+	Date - 2018-10-04 Supplemental Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5599&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-09-06 Agenda
+	Date - 2018-09-06 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5528&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-08-16 Agenda (special meeting)
+	Date - 2018-08-16 Agenda (special meeting)
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5544&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-08-16 Agenda
+	Date - 2018-08-16 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5527&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-08-02 Agenda
+	Date - 2018-08-02 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5526&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-07-19 Agenda
+	Date - 2018-07-19 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5525&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-06-21 Agenda
+	Date - 2018-06-21 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5524&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-06-07 Agenda
+	Date - 2018-06-07 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5513&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-05-17 Agenda
+	Date - 2018-05-17 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5512&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-05-03 Agenda
+	Date - 2018-05-03 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5460&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-04-19 Agenda
+	Date - 2018-04-19 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5459&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-04-05 Agenda
+	Date - 2018-04-05 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5458&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-03-15 Agenda
+	Date - 2018-03-15 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5457&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-03-01 Agenda
+	Date - 2018-03-01 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5434&agviewdoctype=AGENDA
+Found document: 
+	Title - 2018-02-15 Agenda
+	Date - 2018-02-15 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5433&agviewdoctype=AGENDA
+Found document: 
+	Title - 2017-12-21 Agenda
+	Date - 2017-12-21 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5420&agviewdoctype=AGENDA
+Found document: 
+	Title - 2017-12-07 Agenda
+	Date - 2017-12-07 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5396&agviewdoctype=AGENDA
+Found document: 
+	Title - 2017-11-16 Agenda
+	Date - 2017-11-16 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5395&agviewdoctype=AGENDA
+Found document: 
+	Title - 2017-10-19 Agenda
+	Date - 2017-10-19 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5393&agviewdoctype=AGENDA
+Found document: 
+	Title - 2017-10-05 Agenda
+	Date - 2017-10-05 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5392&agviewdoctype=AGENDA
+Found document: 
+	Title - 2017-09-07 Agenda
+	Date - 2017-09-07 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5390&agviewdoctype=AGENDA
+Found document: 
+	Title - 2017-08-03 Agenda
+	Date - 2017-08-03 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5357&agviewdoctype=AGENDA
+Found document: 
+	Title - 2017-07-20 Agenda
+	Date - 2017-07-20 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5311&agviewdoctype=AGENDA
+Found document: 
+	Title - 2017-07-06 Agenda
+	Date - 2017-07-06 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5281&agviewdoctype=AGENDA
+Found document: 
+	Title - 2017-06-15 Agenda
+	Date - 2017-06-15 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5258&agviewdoctype=AGENDA
+Found document: 
+	Title - 2017-06-01 Agenda
+	Date - 2017-06-01 Agenda
+	Link - http://www.irvinequickrecords.com/sirepub/agview.aspx?agviewmeetid=5172&agviewdoctype=AGENDA
+
+Ending process
+Found 35 documents
+================================================

@@ -2,9 +2,33 @@
 Processing class: com.agendadiscovery.crawlers.CO_aurora_citycountycouncil_agenda
 https://www.auroragov.org/cms/One.aspx?pageId=2023287&portalId=1881221&objectId.60273=15063358&contextId.60273=3421476&parentId.60273=3421478
 Found document: 
+	Title - March 10-13 - NLC Congressional City Conference
+	Date - March 10-13 - NLC Congressional City Conference
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15365955
+Found document: 
 	Title - Council Rules - 2019-Redline 1-15
 	Date - Council Rules - 2019-Redline 1-15
 	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15152363
+Found document: 
+	Title - 03-18-2019 Study Session
+	Date - 03-18-2019 Study Session
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15390065
+Found document: 
+	Title - 03-18-2019 Council Meeting
+	Date - 03-18-2019 Council Meeting
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15390068
+Found document: 
+	Title - 03-04-2019 Study Session
+	Date - 03-04-2019 Study Session
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15333605
+Found document: 
+	Title - 03-04-2019 Council Meeting
+	Date - 03-04-2019 Council Meeting
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15333600
+Found document: 
+	Title - 03-04-2019 AURA Meeting
+	Date - 03-04-2019 AURA Meeting
+	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15333607
 Found document: 
 	Title - 02-25-2019 Study Session
 	Date - 02-25-2019 Study Session
@@ -67,5 +91,5 @@ Found document:
 	Link - https://www.auroragov.org/common/pages/DisplayFile.aspx?itemId=15063371
 
 Ending process
-Found 16 documents
+Found 22 documents
 ================================================

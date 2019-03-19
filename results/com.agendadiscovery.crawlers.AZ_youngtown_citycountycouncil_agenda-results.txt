@@ -18,10 +18,22 @@ Found document:
 	Date - 02 18 19
 	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15253454
 Found document: 
-	Title - 02 21 19-FINAL
+	Title - 02 21 19-FINAL AMENDED
 	Date - 02 21 19
-	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15253456
+	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15267464
+Found document: 
+	Title - 03 07 19-FINAL
+	Date - 03 07 19
+	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15341012
+Found document: 
+	Title - 03 21 19-FINAL
+	Date - 03 21 19
+	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15387686
+Found document: 
+	Title - 03 22 19-SPECIAL
+	Date - 03 22 19
+	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15387731
 
 Ending process
-Found 5 documents
+Found 8 documents
 ================================================

@@ -82,9 +82,9 @@ class NV_clarkcounty_countycouncil_agenda extends BaseCrawler{
                 docList = docList + doc
 
                 //debugger
-                    log.debug("\tTitle: ${doc.title}")
-                    log.debug("\tDate: ${doc.dateStr}")
-                    log.debug("\tUrl: ${doc.link}")
+//                    log.debug("\tTitle: ${doc.title}")
+//                    log.debug("\tDate: ${doc.dateStr}")
+//                    log.debug("\tUrl: ${doc.link}")
             }
             catch(Exception e){
                 log.debug(e.message)

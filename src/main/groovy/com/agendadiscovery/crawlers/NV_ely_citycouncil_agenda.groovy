@@ -31,7 +31,7 @@ class NV_ely_citycouncil_agenda extends BaseCrawler {
             }
             catch (Exception e) {
                 log.debug(e.message)
-                e.printStackTrace(log.debug)  //skip bad lines but print errors
+                e.printStackTrace(System.out)  //skip bad lines but print errors
             }
         } catch (Exception e) {
             log.debug(e.message)
@@ -65,9 +65,9 @@ class NV_ely_citycouncil_agenda extends BaseCrawler {
             }
             docList = docList + doc
             //debug
-            log.info("\tTitle: ${doc.title}")
-            log.info("\tDate: ${doc.dateStr}")
-            log.info("\tUrl: ${doc.link}")
+//            log.info("\tTitle: ${doc.title}")
+//            log.info("\tDate: ${doc.dateStr}")
+//            log.info("\tUrl: ${doc.link}")
         } //end getDocumentsByPage
     }
 } //end class

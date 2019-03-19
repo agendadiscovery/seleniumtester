@@ -2,9 +2,9 @@
 Processing class: com.agendadiscovery.crawlers.NE_casscounty_countycouncil_agenda
 http://173.190.246.54/meet2.php?OrgID=4&cmbtype=3
 Found document: 
-	Title - Final Agenda - February 19, 2019
-	Date - Final Agenda - February 19, 2019
-	Link - http://173.190.246.54/Pdf/4128doc.pdf
+	Title - Pending Agenda - March 19, 2019
+	Date - Pending Agenda - March 19, 2019
+	Link - http://173.190.246.54/Pdf/4150doc.pdf
 
 Ending process
 Found 1 documents

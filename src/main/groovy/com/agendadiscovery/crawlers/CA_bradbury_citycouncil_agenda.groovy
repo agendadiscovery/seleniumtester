@@ -51,7 +51,6 @@ class CA_bradbury_citycouncil_agenda extends BaseCrawler {
             WebElement row = rows.get(i)
             try{
                 String title, dateStr, link
-                title = "Agenda"
                 dateStr = row.getText()
                 //skipping conditions
                 if(QuickMatch.match("^\\s{3}",dateStr) || i == 0 || dateStr == null || dateStr ==" "){continue}
