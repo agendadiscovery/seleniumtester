@@ -20,7 +20,7 @@ class TEMPLATE_single_page extends BaseCrawler {
         log.info("Starting crawler " + this.class.name)
         log.info("Requesting baseURL: " + baseUrl)
         try {
-            driver.manage().timeouts() implicitlyWait(5, TimeUnit.SECONDS)
+            driver.manage().timeouts() implicitlyWait(200, TimeUnit.MILLISECONDS)
             driver.get(baseUrl);
             sleep(2000)
             //grab links
@@ -42,31 +42,47 @@ class TEMPLATE_single_page extends BaseCrawler {
     } //end getDocuments
 
     public void getDocumentByPage(WebDriver driver) throws Exception {
-        List<WebElement> links = driver.findElementsByXPath("//div[@dir=\"ltr\"][div[contains(text(),\"Agenda\")]]/div[position() < 21]//a")
-        for (WebElement link : links) {
-            //grab document stuff
+        List<WebElement> divs = driver.findElementsByXPath("//div[@class = \"w-dyn-items\"][contains(.//*,'${current_year}')]/div[@class = \"w-dyn-item\"]")
+        Integer index = 0
+        for (WebElement div : divs) {
             DocumentWrapper doc = new DocumentWrapper()
-            doc.title = link.getText()
-            doc.dateStr = doc.title
-            String title = link.getText()
-            //prep for doc.link
-            Matcher m = QuickMatch.matchGroups("(.+)\\b([0-9]+.[0-9]+.[0-9]+.+)", title)
-            if (m != null) {
-                String title_1 = m.group(1)
-                title_1 = title_1.toLowerCase()
-                String title_2 = m.group(2)
-                //concat link  (90% accuracy on their naming convention.  can be inconsistent)
-                doc.link = "https://sites.google.com/a/elycity.com/city-of-ely/documents/" + title_1 + title_2 + ".pdf?attredirects=0&d=1"
-            } else {
-                doc.link = "no match, skipping"
-                continue
+            try {
+                //grab document stuff
+                doc.title = div.findElementByXPath(".//h1").getText()
+                log.info("\tTitle: ${doc.title}")
+                doc.dateStr = div.findElementByXPath(".//div[@class=\"meta-tag\"]").getText()
+                log.info("\tDate: ${doc.dateStr}")
+                String google_drive_link = div.findElementByXPath(".//a[@class=\"drop-link\" and contains(. ,\"PDF Agenda\")]").getAttribute('href')
+                log.info("\traw Url: ${google_drive_link}")
+                //parse link and remake
+                Matcher m = QuickMatch.matchGroups(".+id=([^/]+)", google_drive_link)
+                if (m != null) {
+                    String id = m.group(1)
+                    //dl link example -> https://drive.google.com/uc?export=download&id=1aAivoeNydSf761Hmih7lHWH7rLXkhuzV
+                    doc.link = "https://drive.google.com/uc?export=download&id=" + id
+                } else {
+                    doc.link = "no match, skipping"
+                    continue
+                }
             }
-            docList = docList + doc
-            //debug
-            log.info("\tTitle: ${doc.title}")
-            log.info("\tDate: ${doc.dateStr}")
-            log.info("\tUrl: ${doc.link}")
-        } //end getDocumentsByPage
-    }
-
-}
+            catch (Exception e) {
+                log.debug(e.message)
+                e.printStackTrace(System.out)  //skip bad lines but print errors
+            }
+            finally {
+                index++;
+                if (index >= 60) {
+                    break
+                }
+                if (doc.title == "") {
+                    break
+                }
+                docList = docList + doc
+                //debug
+//                log.info("\tTitle: ${doc.title}")
+//                log.info("\tDate: ${doc.dateStr}")
+//                log.info("\tUrl: ${doc.link}")
+            }
+        }
+    } //end documentsByPage()
+} // end class

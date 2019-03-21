@@ -1,0 +1,7 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.CA_hawthorne_citycouncil_agenda
+https://cityofhawthorne.primegov.com/portal/#/
+
+Ending process
+Found 0 documents
+================================================

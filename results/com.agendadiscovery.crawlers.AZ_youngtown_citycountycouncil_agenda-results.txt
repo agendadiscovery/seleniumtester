@@ -1,39 +1,8 @@
 ================================================
 Processing class: com.agendadiscovery.crawlers.AZ_youngtown_citycountycouncil_agenda
-http://youngtownaz.hosted.civiclive.com//cms/One.aspx?pageId=13406575&portalId=12609077&objectId.259675=13424223&contextId.259675=13406577&parentId.259675=13406578
-Found document: 
-	Title - 01 07 19 SPECIAL FINAL
-	Date - 01 07 19
-	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15064192
-Found document: 
-	Title - 01 17 19-FINAL
-	Date - 01 17 19
-	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15092674
-Found document: 
-	Title - 02 07 19-FINAL
-	Date - 02 07 19
-	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15199150
-Found document: 
-	Title - 02 18 19-SPECIAL
-	Date - 02 18 19
-	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15253454
-Found document: 
-	Title - 02 21 19-FINAL AMENDED
-	Date - 02 21 19
-	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15267464
-Found document: 
-	Title - 03 07 19-FINAL
-	Date - 03 07 19
-	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15341012
-Found document: 
-	Title - 03 21 19-FINAL
-	Date - 03 21 19
-	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15387686
-Found document: 
-	Title - 03 22 19-SPECIAL
-	Date - 03 22 19
-	Link - http://youngtownaz.hosted.civiclive.com/common/pages/DisplayFile.aspx?itemId=15387731
-
-Ending process
-Found 8 documents
+FAILED TO PROCESS site: com.agendadiscovery.crawlers.AZ_youngtown_citycountycouncil_agenda
+Caught exception: java.io.IOException: unexpected end of stream on Connection{localhost:22028, proxy=DIRECT hostAddress=localhost/127.0.0.1:22028 cipherSuite=none protocol=http/1.1}
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'mcgoy-inspiron-3542', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.15.0-46-generic', java.version: '1.8.0_201'
+Driver info: driver.version: ChromeDriver
 ================================================

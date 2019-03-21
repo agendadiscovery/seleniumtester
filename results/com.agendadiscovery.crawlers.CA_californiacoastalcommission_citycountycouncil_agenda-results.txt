@@ -1,0 +1,219 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.CA_californiacoastalcommission_citycountycouncil_agenda
+https://www.coastal.ca.gov/meetings/agenda
+Found document: 
+	Title - 3 Agenda Changes
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W3/W3-3-2019-Report.pdf
+Found document: 
+	Title - Executive Director's Report
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W6a/W6a-3-2019-report.pdf
+Found document: 
+	Title - Legislative Report
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W6c/W6c-3-2019-report.pdf
+Found document: 
+	Title - Application No. 5-18-0879 (Sniderman and Keitel, Long Beach)
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W7a/w7a-3-2019-report.pdf
+Found document: 
+	Title - Application No. 5-18-1087 (Grace, Long Beach)
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W7b/W7b-3-2019-report.pdf
+Found document: 
+	Title - 8 Deputy Director's Report
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W8/NCC%20DIST%20DIRECTORS%20REPORT%20March%202019%20hearing%20.pdf
+Found document: 
+	Title - Sonoma County LCP Amendment No. LCP-2-SON-18-0087-1 (Currans/Mann Zoning Redesignation)
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W10a/W10a-3-2019-report.pdf
+Found document: 
+	Title - Application No. 2-18-1029 (Three Captains Hoist, San Mateo Co)
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W11a/W11a-3-2019-report.pdf
+Found document: 
+	Title - 12 Deputy Director's Report
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W12/W12-3-2019-report.pdf
+Found document: 
+	Title - Santa Cruz County LCP Amendment No. LCP-3-SCO-18-0095-3 (Affordable Housing)
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W14a/W14a-3-2019-report.pdf
+Found document: 
+	Title - 17 Deputy Director's Report For Los Angeles County
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W17/W17-3-2019-report.pdf
+Found document: 
+	Title - City of Redondo Beach LCP Amendment No. 2-17 (LCP-5-RDB-17-0061-1) (Emergency Shelters)
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W19a/W19a-3-2019-report.pdf
+Found document: 
+	Title - City of Long Beach LCP Amendment No. 3-18 (LCP-5-LOB-18-0100-3). Time Extension
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W19b/W19b-3-2019-report.pdf
+Found document: 
+	Title - Appeal No. A-5-LOB-19-0005 (City of Long Beach Tree Removal and Replacement)
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W20a/W20a-3-2019-report.pdf
+Found document: 
+	Title - Appeal No. A-5-VEN-19-0006 (Jurenka, Venice, Los Angeles)
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W20b/W20b-3-2019-report.pdf
+Found document: 
+	Title - Application No. A-5-VEN-18-0017 (Targon, Venice, Los Angeles)
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W21a-b/w21a&b-3-2019-report.pdf
+Found document: 
+	Title - Application No. 5-18-0212 (Targon, Venice, Los Angeles)
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W21a-b/w21a&b-3-2019-report.pdf
+Found document: 
+	Title - Application No. 5-18-0267 (City of Santa Monica Pedestrian & Trail Improvements)
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W21d/w21d-3-2019-report.pdf
+Found document: 
+	Title - Application No. 5-18-0394 (Danesh, Los Angeles Co.)
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W21e/w21e-3-2019-report.pdf
+Found document: 
+	Title - Application No. 5-18-0767 (City of Santa Monica Civic Center Improvements)
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W21f/W21f-3-2019-report.pdf
+Found document: 
+	Title - Application No. 5-18-0949 (125 30th ST, LLC, Hermosa Beach)
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W21g/W21g-3-2019-report.pdf
+Found document: 
+	Title - 22 Approval of Minutes
+	Date - March 6, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/W22/W22-3-2019.pdf
+Found document: 
+	Title - 3 Agenda Changes
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th3/Th3-3-2019.pdf
+Found document: 
+	Title - 5 Deputy Director's Report
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th5/Th5-3-2019-report.pdf
+Found document: 
+	Title - 7 Energy, Ocean Resources & Federal Consistency
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th7/Th7-3-2019.pdf
+Found document: 
+	Title - NE-0001-19 (SANDAG, Encinitas)
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th7a/Th7a-3-2019-report.pdf
+Found document: 
+	Title - Application No. 9-18-0163 (Carlsbad Aquafarms, Inc., Carlsbad)
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th9a/Th9a-3-2019-report.pdf
+Found document: 
+	Title - Application No. 9-19-0025 (Southern California Edison, San Clemente)
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th9b/Th9b-3-2019-report.pdf
+Found document: 
+	Title - Application No. 9-18-1211 (RTI Infrastructure, Inc., Hermosa Beach)
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th9c10a/Th9c10a-3-2019%20report.pdf
+Found document: 
+	Title - CC-0010-18 (RTI Infrastructure, Inc., Hermosa Beach)
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th9c10a/Th9c10a-3-2019%20report.pdf
+Found document: 
+	Title - CD-0006-18 (Bureau of Indian Affairs, Trinidad)
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th10b/Th10b-3-2019-report.pdf
+Found document: 
+	Title - 11 Deputy Director's Report
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th11/Th11-3-2019.pdf
+Found document: 
+	Title - County of Santa Barbara LCP Amendment No. LCP-4-STB-18-0071-2-Part B (Accessory Dwelling Units)
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th13a/Th13a-3-2019-report.pdf
+Found document: 
+	Title - City of Malibu Minor LCP Amendment No. LCP-4-MAL-19-0010-1 (Woolsey Fire Rebuild Ordinance)
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th13b/Th13b-3-2019-report.pdf
+Found document: 
+	Title - Ventura County Channel Islands Harbor Public Works Plan Notice of Impending Development CIH-NOID-0001-19 (Repair and Replacement of Peninsula Road Rock Revetment)
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th14a/Th14a-3-2019-report.pdf
+Found document: 
+	Title - Application No. A-4-OXN-18-0053 (JREJ Mandalay Properties LLC, Oxnard)
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th15a/Th15a-3-2019-report.pdf
+Found document: 
+	Title - Permit No. 5-85-214-A5 (McClean, Calabasas, Los Angeles Co.)
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th16a/Th16a-3-2019-report.pdf
+Found document: 
+	Title - 17 Deputy Director's Report
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th17/Th17.pdf
+Found document: 
+	Title - City of Encinitas LCP Amendment No. LCP-6-ENC-18-0068-2 (Inclusionary Housing)
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th19a/Th19a-3-2019-report.pdf
+Found document: 
+	Title - City of Del Mar LCP Amendment No. LCP-6-DMR-18-0096-2 (941 Camino Del Mar Specific Plan) Time Extension
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th19b/Th19b-3-2019-report.pdf
+Found document: 
+	Title - City of San Diego LCP Amendment No. LCP-6-CCP-18-0094-4 (Midway – Pacific Highway Community Plan Update)
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th19c/Th19c-3-2019-report.pdf
+Found document: 
+	Title - Application No. A-6-ENC-16-0068 (Hurst, Encinitas)
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th20a/Th20a-3-2019-report.pdf
+Found document: 
+	Title - Application No. 6-18-0288 (DeSimone, Schrager, & Jokipii, Solana Beach)
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th20b/Th20b-3-2019-report.pdf
+Found document: 
+	Title - Permit No. 6-84-578-A11 (MiraCosta Community College District, Encinitas)
+	Date - March 7, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/Th21a/Th21a-3-2019-report.pdf
+Found document: 
+	Title - 3 Agenda Changes
+	Date - March 8, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/F3/F3-3-2019-report.pdf
+Found document: 
+	Title - 5 Environmental Justice Draft Policy
+	Date - March 8, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/F5/F5-3-2019-report.pdf
+Found document: 
+	Title - Application No. 5-18-0682 (Seidner, Sunset Beach, Huntington Beach)
+	Date - March 8, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/F5.1a/F5.1a3.2019--report.pdf
+Found document: 
+	Title - 6 Deputy Director's Report for Orange County
+	Date - March 8, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/F6/F6-3-2019-report.pdf
+Found document: 
+	Title - City of Dana Point LCP Amendment No. 1-18 (LCP-5-DPT-18-0088-1) (City-wide Coastal Zone) Time Extension
+	Date - March 8, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/F8a/F8a-3-2019-report.pdf
+Found document: 
+	Title - Appeal No. A-5-NPB-19-0003 (City of Newport Beach Residential Parking Permit Program)
+	Date - March 8, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/F9a/F9a-3-2019-staff%20report.pdf
+Found document: 
+	Title - Application No. 5-18-0821 (Foster, Foster, and West Coast Turf, Newport Beach)
+	Date - March 8, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/F10c/F10c-3-2019-report.pdf
+Found document: 
+	Title - Application No. 5-18-0976 (Silvers, Newport Beach)
+	Date - March 8, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/F10e/F10e-3-2019-report.pdf
+Found document: 
+	Title - Application No. 5-18-1014 (Cyprus, Newport Beach)
+	Date - March 8, 9:00am 2019
+	Link - https://documents.coastal.ca.gov/reports/2019/3/F10f/F10f-3-2019-report.pdf
+
+Ending process
+Found 53 documents
+================================================
