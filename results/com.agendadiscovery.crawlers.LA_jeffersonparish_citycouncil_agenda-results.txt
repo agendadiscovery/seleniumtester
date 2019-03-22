@@ -1,0 +1,195 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.LA_jeffersonparish_citycouncil_agenda
+http://jp-appserver.jeffparish.net/agendadisplay/
+Found document: 
+	Title - null
+	Date - null
+	Link - null
+Found document: 
+	Title - City Council Meeting 3/20/2019
+	Date - 3/20/2019
+	Link - http://jp-appserver.jeffparish.net/agenda/03202019/agenda032019_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 2/27/2019
+	Date - 2/27/2019
+	Link - http://jp-appserver.jeffparish.net/agenda/02272019/agenda022719_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 2/6/2019
+	Date - 2/6/2019
+	Link - http://jp-appserver.jeffparish.net/agenda/02062019/agenda020619_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 1/16/2019
+	Date - 1/16/2019
+	Link - http://jp-appserver.jeffparish.net/agenda/01162019/agenda011619_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 12/19/2018
+	Date - 12/19/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/12192018/agenda121918_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 12/5/2018
+	Date - 12/5/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/12052018/agenda120518_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 11/7/2018
+	Date - 11/7/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/11072018/agenda110718_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 10/24/2018
+	Date - 10/24/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/10242018/agenda102418_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 10/10/2018
+	Date - 10/10/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/10102018/agenda101018_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 9/19/2018
+	Date - 9/19/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/09192018/agenda091918_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 8/29/2018
+	Date - 8/29/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/08292018/agenda082918_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 8/17/2018
+	Date - 8/17/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/08172018/agenda081718_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 8/8/2018
+	Date - 8/8/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/08082018/agenda080818_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 7/25/2018
+	Date - 7/25/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/07252018/agenda072518_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 6/27/2018
+	Date - 6/27/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/06272018/agenda062718_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 6/6/2018
+	Date - 6/6/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/06062018/agenda060618_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 5/16/2018
+	Date - 5/16/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/05162018/agenda051618_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 4/25/2018
+	Date - 4/25/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/04252018/agenda042518_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 4/18/2018
+	Date - 4/18/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/04182018/agenda041818_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 4/4/2018
+	Date - 4/4/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/04042018/agenda040418_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 3/7/2018
+	Date - 3/7/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/03072018/agenda030718_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 2/21/2018
+	Date - 2/21/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/02212018/agenda022118_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 1/31/2018
+	Date - 1/31/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/01312018/agenda013118_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 1/10/2018
+	Date - 1/10/2018
+	Link - http://jp-appserver.jeffparish.net/agenda/01102018/agenda011018_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 12/6/2017
+	Date - 12/6/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/12062017/agenda120617_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 11/29/2017
+	Date - 11/29/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/11292017/agenda112917_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 11/15/2017
+	Date - 11/15/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/11152017/agenda111517_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 10/25/2017
+	Date - 10/25/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/10252017/agenda102517_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 10/4/2017
+	Date - 10/4/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/10042017/agenda100417_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 9/20/2017
+	Date - 9/20/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/09202017/agenda092017_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 8/23/2017
+	Date - 8/23/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/08232017/agenda082317_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 8/9/2017
+	Date - 8/9/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/08092017/agenda080917_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 8/8/2017
+	Date - 8/8/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/08082017/agenda080817_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 8/3/2017
+	Date - 8/3/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/08032017/agenda080317_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 7/26/2017
+	Date - 7/26/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/07262017/agenda072617_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 7/12/2017
+	Date - 7/12/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/07122017/agenda071217_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 6/28/2017
+	Date - 6/28/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/06282017/agenda062817_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 6/27/2017
+	Date - 6/27/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/06272017/agenda062717_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 6/7/2017
+	Date - 6/7/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/06072017/agenda060717_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 5/24/2017
+	Date - 5/24/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/05242017/agenda052417_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 5/12/2017
+	Date - 5/12/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/05122017/agenda051217_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 5/3/2017
+	Date - 5/3/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/05032017/agenda050317_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 4/25/2017
+	Date - 4/25/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/04252017/agenda042517_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 4/10/2017
+	Date - 4/10/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/04102017/agenda041017_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 4/5/2017
+	Date - 4/5/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/04052017/agenda040517_affidavit.pdf
+Found document: 
+	Title - City Council Meeting 3/22/2017
+	Date - 3/22/2017
+	Link - http://jp-appserver.jeffparish.net/agenda/03222017/agenda032217_affidavit.pdf
+
+Ending process
+Found 47 documents
+================================================
