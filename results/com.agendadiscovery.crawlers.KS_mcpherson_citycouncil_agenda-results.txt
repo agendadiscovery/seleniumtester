@@ -1,0 +1,2797 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.KS_mcpherson_citycouncil_agenda
+https://www.boarddocs.com/ks/comks/Board.nsf/Public
+Found document: 
+	Title - Mar 25, 2019 (Mon)
+City Commission Meeting
+	Date - Mar 25, 2019 (Mon)
+City Commission Meeting
+	Link - null
+	Text - 
+<input name="agenda-item-unique" type="hidden" value="BA5UJP7C4E7F">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Opening Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.1 </span>Call to Order</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Procedural</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BA5UJP7C4E7F" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA5UJS7C4E82">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Opening Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.2 </span>Pledge of Allegiance</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Procedural</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BA5UJS7C4E82" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA5UJV7C4E85">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Opening Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.3 </span>Moment of Silence/Prayer</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Procedural</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BA5UJV7C4E85" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA5UJY7C4E88">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Opening Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.4 </span>Review/Approve Minutes</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Minutes</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve minutes of the 3/18/2019 meeting.</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BA5UJY7C4E88" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAGKQA526FB9" href="/ks/comks/Board.nsf/files/BAGKQA526FB9/$file/ccm2019%20031819.pdf">ccm2019 031819.pdf (211 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA5UK37C4E8B">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Opening Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.5 </span>Adoption of Appropriation Ordinance</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to adopt Appropriation Ordinance No. 12.</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BA5UK37C4E8B" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHHM64917C9" href="/ks/comks/Board.nsf/files/BAHHM64917C9/$file/SKM_C55819032119080.pdf">SKM_C55819032119080.pdf (740 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA5UK67C4E8E">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Opening Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.6 </span>Public Input Session</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Discussion, Information</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BA5UK67C4E8E" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA5UK97C4E91">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Opening Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.7 </span>Approval of Agenda</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve Agenda as stated</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BA5UK97C4E91" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA8TN96FDCE4">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>McPherson Industrical Development Company</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.1 </span>MIDC Quarterly Report</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information, Reports</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Kasi Morales will present the quarterly MIDC report.</p>
+</div>
+<div filetype="public" parentid="BA8TN96FDCE4" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BALHDS48060B" href="/ks/comks/Board.nsf/files/BALHDS48060B/$file/Directors%20Report%20Q1%202019%20Public.pdf">Directors Report Q1 2019 Public.pdf (1,287 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BADKEW4F6BE6">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>CVB Departmental Matters</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">3.1 </span>Sports/Event Grants Requests</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">4,167.60</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">35.01.04880 Marketing Grants</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the Sports and Event Grants as presented for a total of all grants not to exceed $4,167.60.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>I would like to request Commission approval for the following Sports and Event Grants to be held in McPherson and/or the surrounding area:</p>
+
+<p>&nbsp;</p>
+
+<p>1.&nbsp;A&nbsp;$400.00 Sports Grant for the McPherson Area Cyclists to be used for the Mowbray Metric bicycle weekend to be held July 20 &amp; 21, 2019.</p>
+
+<p>2.&nbsp;A&nbsp;$750.00 Sports Grant for United Way of McPherson County to be used for the annual McPherson County United Way Triathlon to be held on August 3, 2019.</p>
+
+<p>3. A&nbsp;$100.00 Sports Grant for McPherson Housing Coalition to be used for the BAMFAM event to be held on May 18, 2019.</p>
+
+<p>4. A&nbsp;$1,917.60 Event Grant for the McPherson Museum to be used for entertainment for the "What the Freak" event to be held at the McPherson Museum on April 1, 2019.</p>
+
+<p>5. A&nbsp;$750.00 Sports Grant for the MAYB Basketball Tournament to be held July 6-7, 2019.</p>
+
+<p>6. A&nbsp;$250.00 Sports Grant for the McPherson College Summer League High School Basketball Program beginning May 27, 2019, and ending July 1, 2019.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;<br>
+&nbsp;</p>
+</div>
+<div filetype="public" parentid="BADKEW4F6BE6" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BADQ3X653CA4">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>Fire Departmental Matters</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.1 </span>Fire Station Alerting System (Dispatch Side)</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">36,329.46</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">01-14-05700</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve payment to Mobile Radio Service, Inc. for the necessary equipment to install the Dispatch side of the Fire Station Alerting system for an amount not to exceed $36,329.46.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>The Fire Station Alerting system within the Fire Department was functioning intermittently. Commission approved Phase 1 of the replacement at the end of last year. Phase 2 is the dispatch side of the alerting system. This phase will allow the system to become fully operational and integrate with the County's new radio system. We request a motion to approve payment to Mobile Radio Service in the amount of $36,329.46 to install the dispatch side of the Fire Station Alerting system.</p>
+</div>
+<div filetype="public" parentid="BADQ3X653CA4" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BADQ43653CA6" href="/ks/comks/Board.nsf/files/BADQ43653CA6/$file/S45C-519031214560.pdf">S45C-519031214560.pdf (515 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BADQ466542D5">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>Fire Departmental Matters</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.2 </span>Approval of Annual Purchase of Uniforms</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">7,400.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">01-14-049100</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve payment to Stewart Sports &amp; Awards for the annual uniform order for an amount not to exceed $7,400.00.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Stewart Sports was the lowest bidder on uniforms for 2019. The uniforms are compliant with NFPA 1972 standards for base layer firefighting apparel. We request a motion to approve payment to Stewart Sports for the annual uniform order not to exceed $7,400.00.</p>
+</div>
+<div filetype="public" parentid="BADQ466542D5" class="bothcols ui-helper-clearfix">
+
+<a class="public-file" target="_blank" order="00001" unique="BADQ496542D6" href="/ks/comks/Board.nsf/files/BADQ496542D6/$file/MFD2.JPG">MFD2.JPG (75 KB)</a><a class="public-file" target="_blank" order="00002" unique="BADQ4C6542DD" href="/ks/comks/Board.nsf/files/BADQ4C6542DD/$file/GTMSportswear.png">GTMSportswear.png (831 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BADQ65654F56">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>Fire Departmental Matters</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.3 </span>Approval of FDIC Attendance and Travel Request</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Apr 08, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">2,080.80</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">01-14-04800</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve travel expenses for three members of the Fire Department to attend the annual Fire Department Instructors Conference (FDIC) on April 9-13, 2019, in Indianapolis, Indiana, for an amount not to exceed $2,080.80.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>The Fire Department is requesting to send 3 members to the annual Fire Department Instructors Conference (FDIC) April 9th - 13th. This conference is essential to meet ISO requirements on annual fire officer training, as well as advancing the skills of fire department members. We request a motion to approve the attendance and travel request for FDIC for an amount not to exceed $2,080.80.</p>
+</div>
+<div filetype="public" parentid="BADQ65654F56" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BADQ826569D6">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>Fire Departmental Matters</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.4 </span>Approval to begin Hiring Process for Deputy Chief</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">74,700.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">01-14-01040</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the commencement of the hiring process for the Fire Department Deputy Chief position.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p><span style="font-size:12px;">The Fire Department has a Deputy Chief position currently vacant. Under the supervision of the Fire Chief, the Deputy Fire Chief is an exempt position under FLSA.&nbsp; Protecting the lives and property of the citizens of McPherson is the primary goal of this position.&nbsp; This employee supervises and assumes command of subordinate personnel at emergency activities, including fire suppression, rescue, and hazardous materials responses.&nbsp; This employee assists the Fire Chief in the daily management of the Fire Department.&nbsp; This employee directly supervises the Captains, and in their absence is responsible for their assignments getting done.&nbsp; This employee should be able to remain poised and make critical decisions under difficult and hazardous circumstances. This employee should possess excellent communication, supervisory, organizational, and public relation skills; as well as a thorough knowledge of ICS. This employee assumes the role of Fire Chief in his absence. The pay range is $64,900 to $74,700 based on experience and credentials. We are requesting permission to seek candidates for the vacant Deputy Chief position. </span></p>
+</div>
+<div filetype="public" parentid="BADQ826569D6" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAFL4V52B9B4" href="/ks/comks/Board.nsf/files/BAFL4V52B9B4/$file/S45C-519032008230.pdf">S45C-519032008230.pdf (1,150 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BADQ8G65770C">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>Fire Departmental Matters</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.5 </span>Approval of Firefighter's Benefit Dunk Tank Storage</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve storing the dunk tank, owned by the Firefighter's Benefit Association, in the old landfill building in exchange for a donation of $50.00 or one half of the proceeds each time the dunk tank is rented to the Fire Prevention Fund.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p><span style="font-size:12px;">The Firefighter's Benefit is requesting to store the dunk tank at the old landfill building. In exchange for storage, the Benefit will donate half of the proceeds&nbsp;or $50&nbsp;to the Fire Prevention Fund each time the dunk tank is rented. The dunk tank will have no markings representing the City of McPherson Fire Department or the City of McPherson and the Firefighter's Benefit will carry liability insurance on the dunk tank. Requesting a motion to approve the Firefighters Benefit Association to store the dunk tank at the old land fill.</span></p>
+</div>
+<div filetype="public" parentid="BADQ8G65770C" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BADQ8Q657F03">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>Fire Departmental Matters</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.6 </span>Approval of Hose Donation</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the disposal/redistribution of six sections of old fire hose, no longer in service, to the YMCA.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>YMCA would like to have 6 sections of out-of-service hose.</p>
+
+<p>&nbsp;</p>
+
+<p>Recommend these 6 sections of hose:</p>
+
+<p>1.5 Hose #09.18</p>
+
+<p>1.5 Hose #09.16</p>
+
+<p>1.5 Hose #09.10</p>
+
+<p>1.5 Hose #09.14</p>
+
+<p>1.5 Hose #08.06</p>
+
+<p>1.5 Hose #08.14</p>
+</div>
+<div filetype="public" parentid="BADQ8Q657F03" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BADQSK680ED7">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>Fire Departmental Matters</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.7 </span>Approval of Intern Pay</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">100.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">01-14-01064</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve increasing pay for Christian Stuart, Intern Fire Fighter from $75.00/day to $100.00/day for a total of 10 days month, increasing the total from $750.00/month to $1,000/month, effective March 25, 2019.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Requesting pay increase of the intern position from $75.00 per day to $100.00 per day for a total of 10 days a month or $1,000 per month effective March 25th.</p>
+</div>
+<div filetype="public" parentid="BADQSK680ED7" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAEKUK52FF25">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>Police Departmental Matters</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">5.1 </span>Resignation of Teresa Tatro Animal Control Officer</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to accept the resignation of Teresa Tatro, Animal Control Officer, effective March 30, 2019, and allow the Police Department to fill the vacant position.</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAEKUK52FF25" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B7FTYC50ECB4">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">6. </span>Public Lands and Facilities Departmental Matters</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">6.1 </span>Authorize Additional TCGC Clubhouse Reimbursable Funds of $15,000</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">15,000.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">09.01.03521</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to authorize an additional $15,000.00 in Turkey Creek Golf Course reimbursable expenses for pro shop merchandise for an annual total amount not to exceed $35,000.00.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Staff is requesting clubhouse merchandise and product&nbsp;funds to be allocated&nbsp;for purchase of&nbsp;pro shop items for resale only.&nbsp; All&nbsp;merchandise expenses will be managed via a&nbsp;reimbursement process.&nbsp; All&nbsp;clubhouse pro shop&nbsp;expenditures should be accompanied with an invoice to be processed.&nbsp; On January 14, 2019 an initial amount of $20,000 in reimburseable pro shop expenses was authorized by the Commission.&nbsp; Having reached that authority, staff requests an additional $15,000.00 authorization for product funds for a total yearly amount not to exceed $35,000.00.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</div>
+<div filetype="public" parentid="B7FTYC50ECB4" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAGUDM6A8CAA">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">6. </span>Public Lands and Facilities Departmental Matters</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">6.2 </span>Approve Replacment of Outdoor Lockers at Water Park</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">2,009.83</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to purchase and replace two sets of outdoor lockers (Phase 1) at the Water Park from Lockers.com at a cost not to exceed $2,009.83.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p style="margin: 0in 0in 8pt;"><span style="font-size:12px;"><font face="Calibri">The proposed Water Park Outdoor Locker replacement program would be implemented in 3 phases over a span of approximately 3 years. The following describes each phase of the project:</font></span></p>
+
+<p style="margin: 0in 0in 8pt;"><span style="font-size:12px;"><font face="Calibri">Phase 1 (2019) of the proposed project will include removing three sets of the outdoor lockers that do not meet City of McPherson Water Park facility and amenities standards. Replace with two sets of outdoor lockers from Locker.com.</font></span></p>
+
+<p style="margin: 0in 0in 8pt;"><span style="font-size:12px;"><font face="Calibri">Phase 2 (2020) of the proposed project will include removing three sets of the outdoor lockers that do not meet City of McPherson Water Park facility and amenities standards. Replace with two sets of outdoor lockers from Locker.com.</font></span></p>
+
+<p style="margin: 0in 0in 8pt;"><span style="font-size:12px;"><font face="Calibri">Phase 3 (2021) of the proposed project will include removing three sets of the outdoor lockers that do not meet City of McPherson Water Park facility and amenities standards. Replace with two sets of outdoor lockers from Locker.com.</font></span></p>
+</div>
+<div filetype="public" parentid="BAGUDM6A8CAA" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAGUDT6A8CB1" href="/ks/comks/Board.nsf/files/BAGUDT6A8CB1/$file/SKM_C55819030423000.pdf">SKM_C55819030423000.pdf (70 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAHSB7681E38">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">6. </span>Public Lands and Facilities Departmental Matters</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">6.3 </span>Approve Surplus Property Donation - Metal Chairs and racks</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">No</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to donate approximately 150 metal folding chairs and racks to McPherson County Council on Aging, a not for profit corporation.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><div>
+<div>The City of McPherson Public Lands and Facilities Department has developed a surplus property inventory list. The City of McPherson Public Lands and Facilities Department respectfully requests your consideration and approval in donating approximately 150 metal folding chairs and racks to McPherson County Council on Aging, a not for profit corporation, for use at the All Schools Day parade.&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>Please contact me should you require additional information and/or to coordinate this donation, if approved. Thank you for your consideration of this request</div>
+
+<p>&nbsp;</p>
+</div>
+
+<div>&nbsp;</div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</div>
+<div filetype="public" parentid="BAHSB7681E38" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAG2FX73AD0E">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">7. </span>Public Works Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">7.1 </span>Engineering: Engineering Tech. Computer (Titan Computers)</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">5,289.55</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">01.12.03500</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the purchase of a Titan W422 Design Workstation PC from Titan Technologies, LLC for an amount not to exceed $5,289.55.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>The Engineering Technician's computer was scheduled to be replaced in 2017.&nbsp; I failed to get it replaced and accidently dropped it off of my Capitol Improvement Plan.&nbsp;&nbsp; This computer is now over 7 years old.&nbsp; A higher capacity processor workstation&nbsp;is required to run AutoDesk and GIS.&nbsp; Lee Burgess, IT Specialist,&nbsp;got several quotes.&nbsp; We believe a Titan W422 will best fit our needs.&nbsp; &nbsp;Titan Computers quoted us $5,289.55 for the Titan W422.</p>
+</div>
+<div filetype="public" parentid="BAG2FX73AD0E" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAG2G373AD1A" href="/ks/comks/Board.nsf/files/BAG2G373AD1A/$file/SKM_C55819031221060.pdf">SKM_C55819031221060.pdf (173 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAG2GB73C481">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">7. </span>Public Works Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">7.2 </span>Engineering: Federal Fund Exchange 2019 (Request to Exchange Federal Funds)</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">134,772.08</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the Request to Exchange Federal Funds 2019 under the Federal-Aid Fund Exchange Master Agreement and authorize the Mayor to sign.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>&nbsp;We have now received the Request to Exchange Federal Funds agreement for 2019.&nbsp; The request sets the exchange rate at $0.90/$1.00 (2018 exchange rate=$0.75/$1.00).&nbsp; &nbsp;We have a total of $149,746.75 Federal dollars to exchange.&nbsp; This exchange will yield&nbsp;a total of $134,772.08 State dollars to be used for one of our street projects.&nbsp; Our plan is to use these funds on the first project to be completed this year, which may be Walnut Street (Northview&nbsp;to Main).&nbsp;&nbsp;</p>
+</div>
+<div filetype="public" parentid="BAG2GB73C481" class="bothcols ui-helper-clearfix">
+
+
+<a class="public-file" target="_blank" order="00001" unique="BAG2GF73C483" href="/ks/comks/Board.nsf/files/BAG2GF73C483/$file/Request%20for%20Reimbursement.pdf">Request for Reimbursement.pdf (35 KB)</a><a class="public-file" target="_blank" order="00002" unique="BAG2GJ73C485" href="/ks/comks/Board.nsf/files/BAG2GJ73C485/$file/City%20of%20McPherson.pdf">City of McPherson.pdf (198 KB)</a><a class="public-file" target="_blank" order="00003" unique="BAG2GM73C486" href="/ks/comks/Board.nsf/files/BAG2GM73C486/$file/BLP%20Memo%2019-04%20City%20of%20McPherson.pdf">BLP Memo 19-04 City of McPherson.pdf (249 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAG2G573B863">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">7. </span>Public Works Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">7.3 </span>Street Department: Street Patch in 1200 block of Lyndon Rd</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">10,685.57</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">26.01.03490</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the street patch in the 1200 block of Lyndon Road for an amount not to exceed $10,685.57.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>We have an area of deteriorated curb,&nbsp;gutter and roadway in the 1200 block of&nbsp;Lyndon Road that is in need of repair.&nbsp;We have put together an estimate for a 570' x 7' street patch in the amount of $10,685.57, for materials only, to complete the work.&nbsp; This amount is greater than the amount discussed in study session by $482.43, due to an increase in concrete prices that will go&nbsp;into effect April&nbsp;1st.&nbsp;&nbsp;</p>
+</div>
+<div filetype="public" parentid="BAG2G573B863" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAGRCX5FEE40" href="/ks/comks/Board.nsf/files/BAGRCX5FEE40/$file/671-IWC%20Est..pdf">671-IWC Est..pdf (387 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFVF375A93E">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">7. </span>Public Works Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">7.4 </span>Street Department: Skid Steer Tires (Canton Service Center)</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">1,473.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">26.010245</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the purchase of a new set of tires for the Street Department skid steer from Canton Service Center, Canton, for a cost not to exceed $1,473.00 which is an increase of $37.00 from the March 4, 2019, approval.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>On March 4th, 2019, the Commission approved new tires for the skid steer&nbsp;from Canton Service Center for an amount not to exceed $1,436.00.&nbsp; They failed to add in the old tire disposal.&nbsp; We received the actual invoice in the amount of&nbsp;$1,473.00.&nbsp; Therefore, we need to increase the approval amount $37.&nbsp;&nbsp;</p>
+</div>
+<div filetype="public" parentid="BAFVF375A93E" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAFVF775A974" href="/ks/comks/Board.nsf/files/BAFVF775A974/$file/MMI%20%2391%20Tires.pdf">MMI #91 Tires.pdf (505 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAHH344612EC">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">7. </span>Public Works Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">7.5 </span>Street Department: Overrun on Trickle Channel for Alley off of 1400 block of North Maple</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">2,390.61</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to increase the cost of constructing a trickle channel along the alley in the 1400 block of North Maple, previously approved on January 14, 2019, for $1,994.68 for materials only, by $395.93, for a new total amount not to exceed $2,390.61.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>On January 14, 2019, the Commission approved the installation of a trickle channel in the alley off of the 1400 block of North Maple in the amount of $1,994.68.&nbsp; The trickle channel is now complete.&nbsp; The actual cost of materials to complete this work was $2,390.61, an overrun of $395.93.</p>
+</div>
+<div filetype="public" parentid="BAHH344612EC" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHLMC53B5ED" href="/ks/comks/Board.nsf/files/BAHLMC53B5ED/$file/1454%20N%20Maple-TrickleChannel.pdf">1454 N Maple-TrickleChannel.pdf (673 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAGQHP5D5A05">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">7. </span>Public Works Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">7.6 </span>Update on Potholes</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>With a winter worse than we have had in several years, potholes are plentiful.&nbsp; &nbsp;We appreciate residents calling the Public Works Department to report bad ones.&nbsp; To date, we have spent 113 man-hours filling potholes and have used 17.5 tons of patching material.</p>
+
+<p>&nbsp;</p>
+
+<p>In comparison, last year we used 33 tons of material and spent 488 man-hours.&nbsp; &nbsp;It goes without saying that by the end of the year, we will far exceed last years totals.</p>
+</div>
+<div filetype="public" parentid="BAGQHP5D5A05" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAG2K4742D43">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">7. </span>Public Works Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">7.7 </span>Update on Barnstormers-Premier Subdivisions Project</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Some dirt work has been accomplished.&nbsp; The Contractor is trying to schedule the completion of the seeding,&nbsp;rework of a settled portion of sidewalk and correction of a bad concrete pavement joint.</p>
+</div>
+<div filetype="public" parentid="BAG2K4742D43" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAG2L9743BA9">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">7. </span>Public Works Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">7.8 </span>Update on the Eagle's Wings Unit Two, Phase I and Phase II Construction Project</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Construction is now underway.&nbsp; On the south portion, which is being developed by Disability Supports and called Phase 1:&nbsp;The construction&nbsp;entrance is installed and part of Sonora Drive has been&nbsp;cut to grade.&nbsp; Sanitary sewer work is started.&nbsp; They are installing sewer main from the tie-in manhole to the south.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Phase II, or the north portion&nbsp;(West First Investments): The rock construction entrance has been installed.&nbsp; &nbsp;The contractor is cutting&nbsp;Mackenzie Court to street&nbsp;grade.&nbsp; Equipment and materials for the waterline are in the process of being delivered to the site.</p>
+</div>
+<div filetype="public" parentid="BAG2L9743BA9" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAGPLW59E3C4">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">8. </span>Planning and Zoning Matters</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">8.1 </span>Motion to adopt Ordinance No. 3298, Opera House with an Accessory Use as a Drinking Establishment</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action (Consent)</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">No</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to adopt Ordinance No. 3298, an ordinance approving a special use to allow the establishment of an Opera House with an Accessory Use as a Drinking Establishment in the B-3a Main Street Business Zoning District on certain lands located in the City of McPherson, Kansas, under the authority granted by the zoning regulations of the City as originally approved by Ordinance No. 3016 and authorize the Mayor to sign the Ordinance.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>The Planning Commission has recommended approval&nbsp;(proper notice was given&nbsp;and a hearing was held) as provided by law and under the authority and subject to the provisions of the City of McPherson Zoning Regulations. The protest period has expired. No protest was lodged.</p>
+</div>
+<div filetype="public" parentid="BAGPLW59E3C4" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAGPU75B491F" href="/ks/comks/Board.nsf/files/BAGPU75B491F/$file/Ord%203298.pdf">Ord 3298.pdf (35 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAGHBJ4781BE">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">9. </span>Administrative Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">9.1 </span>Sunday Liquor Sales Ordinance Modifying Ordinances</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">1) Motion to adopt Ordinance No. 3299 AN ORDINANCE OF THE CITY OF MCPHERSON, KANSAS REGULATING THE SALE OF CEREAL MALT BEVERAGE AND BEER CONTAINING NOT MORE THAN 6% ALCOHOL BY VOLUME WITHIN THE CITY OF MCPHERSON, KANSAS, REPEALING ORDINANCE 3297 AND ADDING A NEW ARTICLE V TO CHAPTER 6, AND REPEALING ALL CONFLICTING PARTS OF THE CODE OF ORDINANCES (2004) OF THE CITY OF MCPHERSON, KANSAS.<br>2)Motion to adopt Ordinance No. 3300 AN ORDINANCE OF THE CITY OF MCPHERSON, KANSAS AMENDING CHAPTER 6, ARTICLE III, DIVISION 2, SECTION 153 OF THE CODE OF THE CITY OF MCPHERSON, KANSAS DETAILING THE DAYS AND THE HOURS OF SALE OF ANY ALCOHOLIC LIQUOR WITHIN THE CITY LIMITS OF MCPHERSON, KANSAS. <br>3)Motion to adopt Ordinance No. 3301 AN ORDINANCE OF THE CITY OF MCPHERSON, KANSAS AMENDING CHAPTER 6, ARTICLE II, DIVISION 3, SECTION 92 OF THE CODE OF THE CITY OF MCPHERSON, KANSAS DETAILING THE OERATING HOURS OF THE SALE OF ANY ALCOHOLIC LIQUOR WITHIN THE CITY LIMITS OF MCPHERSON, KANSAS. <br>4) Motion to adopt Ordinance No. 3302 AN ORDINANCE OF THE CITY OF MCPHERSON, KANSAS AMENDING CHAPTER 6, ARTICLE II, DIVISION 2, SECTION 71 OF THE CODE OF THE CITY OF MCPHERSON, KANSAS DETAILING THE REQUIREMENTS FOR A SPECIAL EVENT PERMIT FOR THE SALE OF ANY ALCOHOLIC LIQUOR WITHIN THE CITY LIMITS OF MCPHERSON, KANSAS.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>On Monday, March 18, 2019, the City of McPherson received canvassed ballot results from the McPherson County Clerk from the March 12, 2019, Sunday Liquor Sales Ballot Question Election.&nbsp; The canvassed ballot results are attached below.&nbsp; The results of the March 12, 2019,&nbsp;election were as follows to the ballot question,&nbsp;<strong>"Shall the City of McPherson, Kansas allow the sale at retail of cereal malt beverage in original package on any Sunday, except Easter, between the hours of 12 noon and 8 p.m. with the City of McPherson, Kansas and the sale at retail of alcoholic liquor in the original package on any Sunday, except Easter, between the hours of 12 noon and 8 p.m. and on Memorial Day, Independence Day and Labor Day with the City of McPherson, Kansas?”:</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Yes - 516</strong></p>
+
+<p>No - 477</p>
+
+<p>Voided - 0</p>
+
+<p>Total Votes - 993</p>
+
+<p>&nbsp;</p>
+
+<p>As a result of this election, several ordinances have been drafted to change the current laws which currently do not allow Sunday retail&nbsp; sales.&nbsp;&nbsp; The combined effect of these ordinances changes the allowance for Sunday Liquor Sales from Noon to 8 p.m. to include allowances for the following consumption licenses:&nbsp; CMB Licenses (Beer 3.2% alcohol content and below), General Retail Enhanced CMB (Beer under 6% in alcohol in content),&nbsp; Limited Retail Enhance CMB (Beer under 6% in alcohol in content), Retail Alcoholic Beverage Licenses, and Special Event Permits. If the respective ordinances are passed, we anticipate publication of all ordinances on Wednesday, March 27, 2019.&nbsp; Upon publication, all ordinances go into effect.&nbsp;&nbsp; This would make CMB Sales and Alcoholic Retail Sales License Holders eligible for Sunday sales on March 31, 2019.&nbsp;&nbsp; Sale of Enhanced CMB on Sundays could begin on April 7, 2019, after enhanced CMB sales takes effect on April 1, 2019.</p>
+
+<p>&nbsp;</p>
+
+<p>The City Commission should consider adopting the following Ordinances:</p>
+
+<p>&nbsp;</p>
+
+<p>Draft Ordinance No. 3299 does several things.&nbsp; It cleans up and repeals Ordinance No. 3297 adopted last week, by placing it as a new article in Municipal Code, but also allows sale of enhanced cereal malt beverage (CMB) both at general retailers and limited retailers on Sundays from Noon to 8 p.m., except on Easter.</p>
+
+<p>&nbsp;</p>
+
+<p>Draft Ordinance No. 3300 allows sale of alcoholic beverage on Sundays from Noon to 8 p.m., except on Easter.&nbsp;&nbsp; It also allows alcoholic liquor sales on Memorial Day, Independence Day, and Labor Day.</p>
+
+<p>&nbsp;</p>
+
+<p>Draft Ordinance No. 3301&nbsp; allows sale of non-enhanced cereal malt beverage (CMB) both at general retailers and limited retailers on Sundays from Noon to 8 p.m., except on Easter.&nbsp; This ordinance applies for CMB less than 3.2% in alcohol content.&nbsp; With this going away on April 1, 2019, this will likely apply for one Sunday.</p>
+
+<p><br>
+&nbsp;</p>
+
+<p>Draft Ordinance No. 3302 allows for a special event permit to be issued on Sundays, except on Easter.</p>
+
+<p>&nbsp;</p>
+</div>
+<div filetype="public" parentid="BAGHBJ4781BE" class="bothcols ui-helper-clearfix">
+
+
+
+
+<a class="public-file" target="_blank" order="00001" unique="BAGHPQ48C540" href="/ks/comks/Board.nsf/files/BAGHPQ48C540/$file/Election%20Paperwork%2031219.pdf">Election Paperwork 31219.pdf (902 KB)</a><a class="public-file" target="_blank" order="00002" unique="BAHV627141E6" href="/ks/comks/Board.nsf/files/BAHV627141E6/$file/Ord%203299.pdf">Ord 3299.pdf (239 KB)</a><a class="public-file" target="_blank" order="00003" unique="BAHVAR71D02A" href="/ks/comks/Board.nsf/files/BAHVAR71D02A/$file/Ord%203300.pdf">Ord 3300.pdf (172 KB)</a><a class="public-file" target="_blank" order="00004" unique="BAHVAT71D037" href="/ks/comks/Board.nsf/files/BAHVAT71D037/$file/Ord%203301.pdf">Ord 3301.pdf (174 KB)</a><a class="public-file" target="_blank" order="00005" unique="BAHVAV71D047" href="/ks/comks/Board.nsf/files/BAHVAV71D047/$file/Ord%203302.pdf">Ord 3302.pdf (224 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BADQBV661028">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">9. </span>Administrative Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">9.2 </span>Health Insurance Plan Documents/Wellness - Attorney Fees</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve payment to Foulston Siefkin LLP for a review of the City of McPherson Wellness Policy and draft of a related Notice for an amount not to exceed $1,037.50.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Jason Lacey, Attorney with Foulston Siefken, LLP., reviewed our wellness program policy&nbsp;and reviewed our Summary Plan Document to see if there were any changes that needed to be made with regard to our wellness program.&nbsp; He created a Notice stating that our wellness program is voluntary and added all the ADA information and other items that are needed.&nbsp;I added this information to the manuals that go out to new employees.&nbsp; We are requesting to pay the attached invoice from Foulston Siefkin, LLP., for an amount not to exceed $1,037.50.&nbsp;&nbsp;</p>
+</div>
+<div filetype="public" parentid="BADQBV661028" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAHL7Q511B8D">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">9. </span>Administrative Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">9.3 </span>Transient Guest Tax - Charter Ordinance No. 43</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to adopt Charter Ordinance No. 43 A CHARTER ORDINANCE DELETING CHARTER ORDINANCE 17 AND EXEMPTING THE CITY OF MCPHERSON, KANSAS, FROM THE PROVISIONS OF K.S.A. 12-1696 TO 12-16, 101, INCLUSIVE, AND PROVIDING SUBSTITUTE AND ADDITIONAL PROVISIONS ON THE SAME SUBJECT RELATING TO THE LEVY OF A TRANSIENT GUEST TAX FOR TOURISM AND CONVENTIONS.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>The City Commission, in several discussions, has discussed the possibility of increasing the transient guest tax for hotels and motels in McPherson from 6% to 7%.&nbsp; A 7% transient guest tax is consistent with many cities similar in size and number of hospitality properties to McPherson.&nbsp; In order to change the rate, a Charter Ordinance must be passed by the Governing Body and must be published once each week for two consecutive weeks.&nbsp;&nbsp; Following the final publication in the official newspaper,&nbsp; there is a 61-day period by&nbsp;which the public can file a petition for referendum.&nbsp;&nbsp; The attached Charter Ordinance was prepared by the City Attorney.</p>
+
+<p>&nbsp;</p>
+</div>
+<div filetype="public" parentid="BAHL7Q511B8D" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHVXJ74C7A9" href="/ks/comks/Board.nsf/files/BAHVXJ74C7A9/$file/Charter%20Ord%20%2343.pdf">Charter Ord #43.pdf (168 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAEJE44B6049">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">9. </span>Administrative Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">9.4 </span>Approval of Wages</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the wages.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Christian Stuart, Fire Department</p>
+
+<p>Intern Fire Fighter</p>
+
+<p>$75.00/day to $100.00/day</p>
+
+<p>Effective 3/25/2019</p>
+
+<p>&nbsp;</p>
+
+<p>Jason Moen, Police Department</p>
+
+<p>Patrol Officer</p>
+
+<p>$19.40/hr to $21.34/hr</p>
+
+<p>Effective 3/25/2019</p>
+
+<p>&nbsp;</p>
+</div>
+<div filetype="public" parentid="BAEJE44B6049" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAGNZ9585E23">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">9. </span>Administrative Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">9.5 </span>Approval of Bond</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the bond.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Tip Top Tree, LLC,&nbsp;McPherson, KS, $5,000 Tree Trimmer&nbsp;Bond, Travelers Casualty and Surety Company of America, BD#106079116, 5/1/2019&nbsp;to 5/1/2020</p>
+
+<p>&nbsp;</p>
+</div>
+<div filetype="public" parentid="BAGNZ9585E23" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAKPM5653C20">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">10. </span>Executive Session</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">10.1 </span>Executive Session</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Procedural</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to go into Executive Session for personnel matters involving a non-elected personnel for 20 minutes from [current time] a.m. to [current time + amount of minutes] a.m.</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAKPM5653C20" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAEJEZ4B9D85">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">12. </span>Closing Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">12.1 </span>Study Sessions</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Procedural</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Following the adjournment of the regular&nbsp;City Commission meeting,&nbsp;the Governing Body meets in study session to hear preliminary requests regarding such items as expenditures over $1,000,&nbsp;preliminary discussions on policy, discussions regarding legislative issues, or project considerations.&nbsp; Commissioners can ask for further review or additional information at these meetings.&nbsp; No binding action can be taken in study session and all study sessions are open to the public. Study sessions are held in the East Board Room of the McPherson Municipal Center.</p>
+
+<p>&nbsp;</p>
+
+<p>Some of the items for Study Session this week include:</p>
+
+<p>&nbsp;</p>
+
+<p>Various Items Over $1,000.00 in Cost</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</div>
+<div filetype="public" parentid="BAEJEZ4B9D85" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA5UKW7C4EA6">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">12. </span>Closing Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">12.2 </span>Adjournment</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to adjourn</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BA5UKW7C4EA6" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+Found document: 
+	Title - Mar 25, 2019 (Mon)
+Study Session
+	Date - Mar 25, 2019 (Mon)
+Study Session
+	Link - null
+	Text - 
+<input name="agenda-item-unique" type="hidden" value="BAEW5R755514">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Fire Department</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.1 </span>Ladder Testing</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Apr 01, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Apr 01, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">1,522.60</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">01-14-02450</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve payment to American Test Center for annual Ladder Testing for an amount of $1,522.60.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>American Test Center conducted the annual ladder testing and inspection. Ladder 1 required a five-year test and all ground ladders were tested to the NFPA 1932 Standard. Request a motion to approve payment to American Test Center for an amount of $1,522.60.</p>
+</div>
+<div filetype="public" parentid="BAEW5R755514" class="bothcols ui-helper-clearfix">
+
+
+
+<a class="public-file" target="_blank" order="00001" unique="BAFKA24F9B06" href="/ks/comks/Board.nsf/files/BAFKA24F9B06/$file/S45C-519031808500.pdf">S45C-519031808500.pdf (260 KB)</a><a class="public-file" target="_blank" order="00002" unique="BAFKNG50665B" href="/ks/comks/Board.nsf/files/BAFKNG50665B/$file/S45C-519032008010.pdf">S45C-519032008010.pdf (5,799 KB)</a><a class="public-file" target="_blank" order="00003" unique="BAFKR750E5EA" href="/ks/comks/Board.nsf/files/BAFKR750E5EA/$file/S45C-519032008020.pdf">S45C-519032008020.pdf (2,766 KB)</a><a class="public-file" target="_blank" order="00004" unique="BAFKRH50F859" href="/ks/comks/Board.nsf/files/BAFKRH50F859/$file/S45C-519032008030.pdf">S45C-519032008030.pdf (1,801 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAGW4D6EEE03">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Public Lands and Facilities</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.1 </span>Discuss and Approval of Water Park start up and annual operations cost</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion, Information</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Apr 01, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Apr 01, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">61,722.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">Swimming Pool Maintenance and Operations Fund 20.01</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the 2019 Water Park start up and annual operations costs for an amount not to exceed $61,722.00 as presented by MRC staff.</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAGW4D6EEE03" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAGVT86CCB09">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Public Lands and Facilities</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.2 </span>Discuss and Approve Supervised Playground Installation</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion, Information</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 19, 2018</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 19, 2018</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">1,750.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">Park General Fund 19-0350</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve supervised installation of new play equipment at the Whitlock, Lakeside #4 and Countryside for an amount not to exceed $1,750.00.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>&nbsp;</p>
+
+<div style="font-size: 12.8px;">&nbsp;</div>
+</div>
+<div filetype="public" parentid="BAGVT86CCB09" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAH29W702578">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Public Lands and Facilities</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.3 </span>Discuss and Approve purchase two loads of engineered wood fiber playground safety surfacing</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion, Information</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Apr 01, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Apr 01, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">5,850.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">19-0350</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the purchase of engineered wood fiber safety surfacing material from Fry and Associates at a cost not to exceed $5,850.00.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p style="margin: 0in 0in 8pt;"><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Kids play hard, and are tough on playground equipment. That’s the way it should be! Let them enjoy their time at the park by providing them with the best-engineered wood fiber available, and they won’t notice the hours that pass as they play and grow at their favorite local playground.</span></span></p>
+</div>
+<div filetype="public" parentid="BAH29W702578" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAH4EF79730C">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>Public Works</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">3.1 </span>Street Department: Patch Material</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Apr 01, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">1,195.89</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">26.01.03490</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the purchase of nine tons of patching material from APAC Kansas for a cost not to exceed $1,195.89.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>We have various asphalt areas that require patching.&nbsp; We received another load invoiced at $1,195.89.</p>
+</div>
+<div filetype="public" parentid="BAH4EF79730C" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAH4SQ7C2D99" href="/ks/comks/Board.nsf/files/BAH4SQ7C2D99/$file/APAC.pdf">APAC.pdf (477 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAGN2P55CEF0">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>Public Works</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">3.2 </span>Safe Routes to School Project: Authority to Award (Pavers, Inc.)</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Apr 01, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">511,000.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the Authority to Award Contract and the Commitment of City Funds for the Safe Routes to School Project and authorize the City Engineer, City Clerk, Mayor and Commissioners to sign this and related documents.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>On Wednesday, March 20, 2019, the Kansas Department of Transportation let project 59 U 2336-01 TA-U233(601), which is the Safe Routes to School Project.&nbsp; &nbsp;KDOT received 4 bids ranging from $779,935.00 to $1,008,606.00.&nbsp; The lowest bid was received from Pavers Inc., Salina, Kansas.</p>
+
+<p>&nbsp;</p>
+
+<p>The grant participation was raised to the Maximum $400,000.00.&nbsp; This will make the City's share $379,935.00 for construction. This amount is slightly higher than the&nbsp; latest engineer's&nbsp;estimate of $744,479.40.&nbsp; The total local share will be $511,000.&nbsp; &nbsp;I have attached the Authority to Award Contract and Commitment of City Funds packet for your review.</p>
+</div>
+<div filetype="public" parentid="BAGN2P55CEF0" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAGVT76CC667" href="/ks/comks/Board.nsf/files/BAGVT76CC667/$file/_059_U-2336-01_ATA%20Packet.pdf">_059_U-2336-01_ATA Packet.pdf (4,858 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAGS6M636766">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>Planning and Zoning</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.1 </span>Re-Zoning Ordinance-Final Finish</div>
+<div class="leftcol">Type</div>
+<div class="rightcol"></div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Case number Z-19-01, an application to re-zone two residential lots generally located at 823 West Euclid Street, was heard on March 12, 2019, during our monthly Planning Commission meeting in conjunction with a site plan for the same property. The Planning Commission recommends approval of the enclosed ordinance.&nbsp; We are still in the protest period for this action (expires on March 26, 2019). The associated site plan was also approved at the same meeting.</p>
+</div>
+<div filetype="public" parentid="BAGS6M636766" class="bothcols ui-helper-clearfix">
+
+
+<a class="public-file" target="_blank" order="00001" unique="BAGS9563C5E3" href="/ks/comks/Board.nsf/files/BAGS9563C5E3/$file/Final%20Ordinance-Z-19-01.docx">Final Ordinance-Z-19-01.docx (15 KB)</a><a class="public-file" target="_blank" order="00002" unique="BAGS9A63CDF1" href="/ks/comks/Board.nsf/files/BAGS9A63CDF1/$file/Z-19-01%20Area%20Map.pdf">Z-19-01 Area Map.pdf (523 KB)</a><a class="public-file" target="_blank" order="00003" unique="BAGS9E63D5A5" href="/ks/comks/Board.nsf/files/BAGS9E63D5A5/$file/SR101%20Site%20Review%20SP-19-01%20Final%20Finish%20LLC.pdf">SR101 Site Review SP-19-01 Final Finish LLC.pdf (1,899 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAHVXU74DCEC">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 25, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>Administration</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">5.1 </span>McPherson County Tower Site Request</div>
+<div class="leftcol">Type</div>
+<div class="rightcol"></div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Nick Gregory, City Administrator,&nbsp;will discuss a request by McPherson County to place a communication tower on City property behind the Animal Shelter.</p>
+</div>
+<div filetype="public" parentid="BAHVXU74DCEC" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAJ22B75FFA7" href="/ks/comks/Board.nsf/files/BAJ22B75FFA7/$file/21912_McPhersonCo.%20(LEC)%20PR%20Dwgs_2019-03-06.pdf">21912_McPhersonCo. (LEC) PR Dwgs_2019-03-06.pdf (1,714 KB)</a></div>
+<br><br><br>
+
+Found document: 
+	Title - Mar 18, 2019 (Mon)
+City Commission Meeting
+	Date - Mar 18, 2019 (Mon)
+City Commission Meeting
+	Link - null
+	Text - 
+<input name="agenda-item-unique" type="hidden" value="B9NNQE6B79C6">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Opening Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.1 </span>Call to Order</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Procedural</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9NNQE6B79C6" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9NNQH6B79E3">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Opening Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.2 </span>Pledge of Allegiance</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Procedural</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9NNQH6B79E3" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9NNQL6B79E6">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Opening Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.3 </span>Moment of Silence/Prayer</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Procedural</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9NNQL6B79E6" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9NNQP6B79FD">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Opening Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.4 </span>Review/Approve Minutes</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Minutes</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve minutes of the 3/11/2019 meeting.</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9NNQP6B79FD" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BA9RBF6057AF" href="/ks/comks/Board.nsf/files/BA9RBF6057AF/$file/ccm2019%20031119.pdf">ccm2019 031119.pdf (214 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9NNQS6B7A13">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Opening Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.5 </span>Adoption of Appropriation Ordinance</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to adopt Appropriation Ordinance No. 11.</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9NNQS6B7A13" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BACSS676A13B" href="/ks/comks/Board.nsf/files/BACSS676A13B/$file/AP%2020190318.pdf">AP 20190318.pdf (960 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9NNQV6B7A16">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Opening Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.6 </span>Public Input Session</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Discussion, Information</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9NNQV6B7A16" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9NNQY6B7A19">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Opening Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.7 </span>Approval of Agenda</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve Agenda as stated</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9NNQY6B7A19" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA6MM3548B44">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Public Lands and Facilities Departmental Matters</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.1 </span>Approve Purchase of Crabapple Trees</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">1,041.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the purchase of 15 crabapple trees from Prairie Fire Tree Farm, Moundridge, KS, for an amount not to exceed $1,041.00</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p><span style="font-size: 12px;">City Forrester&nbsp;ordered 15 crabapple trees from Prairie Fire Tree Farm&nbsp;in Moundridge. The total will be $1,041 for the crabapple trees, with the intention of replacing some of those we have lost and more that we will lose over the next few years at Wall Park. </span></p>
+</div>
+<div filetype="public" parentid="BA6MM3548B44" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA6MM9548F24">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Public Lands and Facilities Departmental Matters</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.2 </span>Approve Purchase of Brush Bandit 250 XP (Disc) with 145 HP GM 4.3L Gas Engine Chipper</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">34,473.50</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">Equipment Fund</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the purchase of one Brush Bandit 250 XP gas engine chipper from Fairbank Equipment of Wichita at a cost not to exceed $34,473.50.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>City staff is requesting the chipper acquired in 1990 be replaced. There is concern that the attachments, gear boxes, and safety components are showing wear and will need to be replaced. It is at the end of its lifespan which was estimated at 15 years (2005)&nbsp;(+14 years) and will be replaced&nbsp;in 2019 with a new Brush Bandit 250 XP (Disc) with 145 HP GM 4.3L gas engine chipper.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Department justification: Need new chipper to maintain existing services and equipment safety concerns.</p>
+
+<p>&nbsp;</p>
+
+<p>Projected Cost: $34,473.50.</p>
+
+<p>&nbsp;</p>
+
+<p>Comes&nbsp;with full warranty 3 Years 3500 hrs on engine, 1 year on bolts and&nbsp;parts and 5 years on welded frame.</p>
+
+<p>&nbsp;</p>
+
+<p>Due to recent repairs and safety concerns&nbsp;the City Forrester and Staff recommends replacement of the 1990 1250 Brush Chipper.</p>
+
+<p>&nbsp;</p>
+</div>
+<div filetype="public" parentid="BA6MM9548F24" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAB2DE77C26D">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>Code Enforcement Matters</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">3.1 </span>KACE Conference - Travel Request</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action (Consent)</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">492.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">Sanitation</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve travel expenses (registration, lodging, meals) for Milton Collins, Code Enforcement Officer, to attend the Kansas Association of Code Enforcement Conference in Dodge City on April 10 - 12, 2019, for an amount not to exceed $492.00.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Requesting approval to travel to the Kansas Association of Code Enforcement Conference for an amount not to exceed $492.00.</p>
+</div>
+<div filetype="public" parentid="BAB2DE77C26D" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BACJPZ58CDC1" href="/ks/comks/Board.nsf/files/BACJPZ58CDC1/$file/Travel%20Request%20Form.pdf">Travel Request Form.pdf (40 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA8G956C9AED">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>Public Works Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.1 </span>WWTP: Sewer Point Repair at 1107 Glendale Road (Stevens Contractors)</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">3,743.12</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">17.01.02200</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve hiring Stevens Contractors, Inc. to complete the point repair at 1107 Glendale Road for a cost not to exceed $3,743.12.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>A point repair to a sewer main is needed&nbsp;behind 1107 Glendale.&nbsp; We received a quote in the amount of $3,743.12 from Stevens Contractors, Inc. to complete the work.</p>
+</div>
+<div filetype="public" parentid="BA8G956C9AED" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BA8G986C9AEE" href="/ks/comks/Board.nsf/files/BA8G986C9AEE/$file/Quote_McPherson%20Sewer%20Repair%20-%201107%20Glendale.pdf">Quote_McPherson Sewer Repair - 1107 Glendale.pdf (112 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA8G9Q6CB977">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>Public Works Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.2 </span>Update on Barnstormers-Premier Subdivisions Project</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Again, nothing new&nbsp;to report on the Barnstormers/Premier Subdivisions.&nbsp; No work due to unfavorable weather conditions.&nbsp; We are still hopeful that the work can be accomplished in the next couple of weeks.</p>
+</div>
+<div filetype="public" parentid="BA8G9Q6CB977" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA8G9Y6CC2C0">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>Public Works Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.3 </span>Update on the Eagle's Wings Unit Two, Phase I and Phase II Construction Project</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Eagle's Wings Estates, Unit Two.&nbsp; No&nbsp;work has been accomplished on either phase. The project was delayed due to weather.&nbsp; The contractor&nbsp;is ready and eager to get started as soon as the weather permits.&nbsp;</p>
+</div>
+<div filetype="public" parentid="BA8G9Y6CC2C0" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA9NB3565AC3">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>Administrative Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">5.1 </span>Update on Sunday Liquor Sales Special Election</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>The City of McPherson received word that an informal count of the special election held on Tuesday, March 12, 2019,&nbsp;to allow Sunday liquor sales resulted in&nbsp;509 votes in favor of Sunday liquor sales and 475 votes against Sunday liquor sales, with nine&nbsp;provisional ballots yet&nbsp;to be counted.&nbsp;&nbsp; The Canvass of Ballots to be performed by the County Clerk's office will&nbsp;happen on Monday, March 18, 2019, at 8:15 a.m.&nbsp; In anticipation of the final vote being&nbsp;in favor of Sunday sales,&nbsp;administrative staff will work with the City attorney to draft language formalizing the results.&nbsp;&nbsp; The legislation will become effective&nbsp;by ordinance at the earliest&nbsp;possible date.</p>
+</div>
+<div filetype="public" parentid="BA9NB3565AC3" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BACEKB49E00E">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>Administrative Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">5.2 </span>Cereal Malt Beverage License Update</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>In communication from the Kansas League of Municipalities, there was confusion as it relates to the model ordinance allowing "Enhanced Cereal Malt Beverage (CMB)" that the KLM created.&nbsp; The confusion was related to the need for new licenses for enhanced CMB for retailers that already possess a current CMB license.&nbsp;&nbsp; In the model ordinance, it did not address the need for new licenses.&nbsp; In our version of the ordinance (adopted on March 11, 2019), we made it clear that a new license was not required for those retailers to transition from a CMB to an Enhanced CMB license on April 1, 2019.&nbsp; A&nbsp;specific Enhanced CMB License be issued on the anniversary date of the renewal for existing retailers or when a new first time license is issued.&nbsp; Existing retailers&nbsp;will be given notice that their current CMB&nbsp;license&nbsp;will transition&nbsp;to an Enhanced CMB license on their license anniversary.</p>
+</div>
+<div filetype="public" parentid="BACEKB49E00E" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BACERL4B8AD5">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>Administrative Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">5.3 </span>Housing Study Public Input Meeting</div>
+<div class="leftcol">Type</div>
+<div class="rightcol"></div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>On January 28, 2019, the City of McPherson authorized contracting with RDG Schutte, Wilscam, Birge, Inc. to prepare a Housing Market Study for the McPherson community.&nbsp;&nbsp; The process of beginning the study started&nbsp;several weeks ago.&nbsp;&nbsp;&nbsp; Much of the activity for the study will occur behind the scenes with work being performed by the consultant, but the wheels are in motion to establish meetings to gather perceptions from those within the community about the housing market.&nbsp; The consultant will be hosting a public meeting for anyone wishing to provide input, opinions, and observances.&nbsp; <strong>The</strong><strong>&nbsp;Public Housing Input Meeting will on Tuesday, April 9th from 6 pm to 8 pm in&nbsp;the Gathering Hall at&nbsp;the McPherson Museum located at 1111 E. Kansas Avenue. </strong>&nbsp; The Consultant will be asking questions and seeking information from anyone in the public wishing to provide input.&nbsp; Within&nbsp;a week, the City will post information on a dedicated website hosted by the consultant&nbsp;where they can learn more about the study and the process.</p>
+
+<p>&nbsp;</p>
+</div>
+<div filetype="public" parentid="BACERL4B8AD5" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BACRDS6EC46E">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>Administrative Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">5.4 </span>Permission to Hire a Community Building Event Manager</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve beginning the hiring process for a Community Building Event Manager.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>In preparation for the re-opening of the McPherson Community Building,&nbsp;the City of McPherson has determined it is prudent to begin the hiring process for a Community Building Event Manager to promote, schedule, and maintain the Community Building upon its completion.&nbsp; We anticipate this job to be a salaried position (exempt from FLSA) with a range somewhere between $38,000 and $51,000 (depending on qualifications and other factors).&nbsp;&nbsp; We would like to request permission to post a 5-day Internal Notice before considering outside applications.&nbsp; We anticipate bringing a formal pay range for Commission adoption upon selection of a qualified applicant as there are several factors under consideration.</p>
+</div>
+<div filetype="public" parentid="BACRDS6EC46E" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BADGZ545E233" href="/ks/comks/Board.nsf/files/BADGZ545E233/$file/Community%20Building%20Event%20Manager.pdf">Community Building Event Manager.pdf (136 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA8TVJ7140B5">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>Administrative Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">5.5 </span>Approval of Wages</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the wages.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Drew Hanken, Turkey Creek Golf Course</p>
+
+<p>Seasonal Clubhouse</p>
+
+<p>$8.00/hr</p>
+
+<p>Effective 3/25/2019</p>
+
+<p>&nbsp;</p>
+
+<p>Bailea Crist, Turkey Creek Golf Course</p>
+
+<p>Seasonal Clubhouse</p>
+
+<p>$8.00/hr</p>
+
+<p>Effective 4/8/2019</p>
+
+<p>&nbsp;</p>
+
+<p>Kennedy Shober, Turkey Creek Golf Course</p>
+
+<p>Seasonal Clubhouse</p>
+
+<p>$8.00/hr</p>
+
+<p>Effective 4/8/2019</p>
+
+<p>&nbsp;</p>
+
+<p>Jacob Pearson, Police Department</p>
+
+<p>Patrol Officer</p>
+
+<p>$21.34/hr to $22.47/hr</p>
+
+<p>Effective 3/25/2019</p>
+
+<p>&nbsp;</p>
+
+<p>Tyler Watts, Police Department</p>
+
+<p>Patrol Officer</p>
+
+<p>$24.75/hr to $25.86/hr</p>
+
+<p>Effective 3/25/2019</p>
+
+<p>&nbsp;</p>
+
+<p>Casie&nbsp;Criswell, Street Department</p>
+
+<p>Equipment&nbsp;Operator I</p>
+
+<p>$18.62/hr to $19.51/hr</p>
+
+<p>Effective 3/25/2019</p>
+
+<p>&nbsp;</p>
+
+<p>Cami&nbsp;Richardson, Turkey Creek Golf Course</p>
+
+<p>Seasonal</p>
+
+<p>$8.50/hr to $9.00/hr</p>
+
+<p>Effective 3/25/2019</p>
+
+<p>&nbsp;</p>
+
+<p>Bill Rheault, Cemetery</p>
+
+<p>Cemetery Maintenance</p>
+
+<p>$18.63/hr to $19.47/hr</p>
+
+<p>Effective 3/25/2019</p>
+
+<p>&nbsp;</p>
+
+<p>Lisa Faust, Administration</p>
+
+<p>Assistant City Clerk</p>
+
+<p>$21.79/hr to $22.77/hr</p>
+
+<p>Effective 3/25/2019</p>
+
+<p>&nbsp;</p>
+
+<p>Chris Huff, Waste Water Treatment Plant</p>
+
+<p>Collection Operator I</p>
+
+<p>$19.52/hr to $20.40/hr</p>
+
+<p>Effective 4/8/2019</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</div>
+<div filetype="public" parentid="BA8TVJ7140B5" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA8JAA4A096B">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>Administrative Report</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">5.6 </span>Cereal Malt Beverage License Approval</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the CMB License.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>City of McPherson - Turkey Creek Golf Course, 1000 Fox Run, McPherson, KS 67460, #131954, For consumption on the premises, 3-22-2019&nbsp;to 3-21-2020</p>
+
+<p>&nbsp;</p>
+</div>
+<div filetype="public" parentid="BA8JAA4A096B" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA8JC54A79A8">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">7. </span>Closing Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">7.1 </span>Study Sessions</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Procedural</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Following the adjournment of the regular&nbsp;City Commission meeting,&nbsp;the Governing Body meets in study session to hear preliminary requests regarding such items as expenditures over $1,000,&nbsp;preliminary discussions on policy, discussions regarding legislative issues, or project considerations.&nbsp; Commissioners can ask for further review or additional information at these meetings.&nbsp; No binding action can be taken in study session and all study sessions are open to the public. Study sessions are held in the East Board Room of the McPherson Municipal Center.</p>
+
+<p>&nbsp;</p>
+
+<p>Some of the items for Study Session this week include:</p>
+
+<p>&nbsp;</p>
+
+<p>Various Items Over $1,000.00 in Cost</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</div>
+<div filetype="public" parentid="BA8JC54A79A8" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9NNRM6B7A2E">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - City Commission Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">7. </span>Closing Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">7.2 </span>Adjournment</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to adjourn</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9NNRM6B7A2E" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+Found document: 
+	Title - Mar 18, 2019 (Mon)
+Study Session
+	Date - Mar 18, 2019 (Mon)
+Study Session
+	Link - null
+	Text - 
+<input name="agenda-item-unique" type="hidden" value="BA454H5858C2">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>NLC Service Line Program - 9:30 a.m.</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.1 </span>NLC Service Line Program</div>
+<div class="leftcol">Type</div>
+<div class="rightcol"></div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Rob Meston&nbsp;will be present.</p>
+</div>
+<div filetype="public" parentid="BA454H5858C2" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAB2PT797526">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Fire Department</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.1 </span>Fire Station Alerting System (Dispatch Side)</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">36,329.46</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">01-14-05700</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve payment to Mobile Radio Service, Inc. for the necessary equipment to install the Dispatch side of the Fire Station Alerting system for an amount not to exceed $36,329.46.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>The Fire Station Alerting within the Fire Department was functioning intermittently. Commission approved phase 1 of the replacement at the end of last year. Phase 2 is the Dispatch side of the alerting system. This phase will allow the system to become fully operational and integrate with the County's new radio system. We request a motion to approve payment to Mobile Radio Service in the amount of $36,329.46 to install the Dispatch side of the Fire Station Alerting.</p>
+</div>
+<div filetype="public" parentid="BAB2PT797526" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAB3PE8223CF" href="/ks/comks/Board.nsf/files/BAB3PE8223CF/$file/S45C-519031214560.pdf">S45C-519031214560.pdf (515 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA8VK37B5C5D">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Fire Department</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.2 </span>Annual Purchase of Uniforms</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">7,400.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">01-14-049100</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve payment to Stewart Sports &amp; Awards for the annual uniform order for an amount not to exceed $7,400.00.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Stewart sports was the lowest bidder on uniforms for 2019. The uniforms are compliant with NFPA 1972 standards for base layer firefighting apparel. We request a motion to approve payment to Stewart sports for the annual uniform order not to exceed $7,400.00.</p>
+</div>
+<div filetype="public" parentid="BA8VK37B5C5D" class="bothcols ui-helper-clearfix">
+
+<a class="public-file" target="_blank" order="00001" unique="BA8VLU7BBFDC" href="/ks/comks/Board.nsf/files/BA8VLU7BBFDC/$file/MFD2.JPG">MFD2.JPG (75 KB)</a><a class="public-file" target="_blank" order="00002" unique="BA8VMJ7BDEC8" href="/ks/comks/Board.nsf/files/BA8VMJ7BDEC8/$file/GTMSportswear.png">GTMSportswear.png (831 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BACKL85BAB8B">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Fire Department</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.3 </span>Approval of FDIC Attendance and Travel Request</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Apr 08, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">2,080.80</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">01-14-04800</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve travel expenses for three members of the Fire Department to attend the annual Fire Department Instructors Conference (FDIC) on April 9-13, 2019, in Indianapolis, Indiana, for an amount not to exceed $2,080.80.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>The Fire Department is requesting to send 3 members to the annual Fire Department Instructors Conference (FDIC) April 9th - 13th. This conference is essential to meet ISO requirements on annual fire officer training as well as advancing the skills of fire department members. We request a motion to approve the attendance and travel request for FDIC for an amount not to exceed $2,080.80.</p>
+</div>
+<div filetype="public" parentid="BACKL85BAB8B" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BACLHV5D7784">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Fire Department</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.4 </span>Intern Pay</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Discussion</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Requesting pay increase of the intern position from $75.00 per day to $100.00 per day for a total of 10 days a month or $1000 per month.</p>
+</div>
+<div filetype="public" parentid="BACLHV5D7784" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BACLFW5D3757">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Fire Department</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.5 </span>Deputy Chief</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Discussion</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Request permission to seek candidates for vacant Deputy Chief position.</p>
+</div>
+<div filetype="public" parentid="BACLFW5D3757" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BACLJN5DAB55">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Fire Department</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.6 </span>Firefighter's Benefit Dunk Tank</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Discussion</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>The Firefighter's Benefit is requesting to store the dunk tank at the old landfill building. In exchange for storage the Benefit will donate half of the proceeds or $50 to the Fire Prevention Fund each time the dunk tank is rented. The dunk tank will have no markings representing the City of McPherson Fire Department or the City of McPherson and the Firefighter's Benefit will carry liability insurance on the dunk tank.</p>
+</div>
+<div filetype="public" parentid="BACLJN5DAB55" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BACTLE7C546F">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Fire Department</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.7 </span>Hose Donation</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Discussion</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>YMCA would like to have 6 sections of Out of Service hose.</p>
+
+<p>&nbsp;</p>
+
+<p>Recommend these 6 sections of hose:</p>
+
+<p>1.5 Hose #09.18</p>
+
+<p>1.5 Hose #09.16</p>
+
+<p>1.5 Hose #09.10</p>
+
+<p>1.5 Hose #09.14</p>
+
+<p>1.5 Hose #08.06</p>
+
+<p>1.5 Hose #08.14</p>
+</div>
+<div filetype="public" parentid="BACTLE7C546F" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA2ABY7837D0">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>Public Lands and Facilities</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">3.1 </span>Replace Outdoor Lockers at Water Park</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Discussion, Information</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p style="margin: 0in 0in 8pt;"><font face="Calibri"><font size="3">The proposed Water Park Outdoor Locker replacement program would be implemented in 3 phases over a span of approximately 3 years. The following describes each phase of the project:</font></font></p>
+
+<p style="margin: 0in 0in 8pt;"><font face="Calibri"><font size="3">Phase 1 (2019) of the proposed project will include removing three sets of the outdoor lockers that do not meet City of McPherson Water Park facility and amenities standards. </font><font size="3">Replace with two sets of outdoor lockers from Locker.com.</font></font></p>
+
+<p style="margin: 0in 0in 8pt;"><font face="Calibri"><font size="3">Phase 2 (2020) of the proposed project will include removing three sets of the outdoor lockers that do not meet City of McPherson Water Park facility and amenities standards. </font><font size="3">Replace with two sets of outdoor lockers from Locker.com.</font></font></p>
+
+<p style="margin: 0in 0in 8pt;"><font face="Calibri"><font size="3">Phase 3 (2021) of the proposed project will include removing three sets of the outdoor lockers that do not meet City of McPherson Water Park facility and amenities standards. </font><font size="3">Replace with two sets of outdoor lockers from Locker.com.</font></font></p>
+</div>
+<div filetype="public" parentid="BA2ABY7837D0" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BA2ACA78579E" href="/ks/comks/Board.nsf/files/BA2ACA78579E/$file/SKM_C55819030423000.pdf">SKM_C55819030423000.pdf (70 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BACAFM754F5E">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>Public Lands and Facilities</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">3.2 </span>Surplus Property Donation - Metal Chairs and racks</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">No</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to donate approximately 100 metal folding chairs and racks to McPherson County Council on Aging, a not for profit corporation, for use at the All Schools Day parade.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><div>
+<div>The City of McPherson Public Lands and Facilities Department has developed a surplus property inventory list. The City of McPherson Public Lands and Facilities Department respectfully requests your consideration and approval in donating approximately 100 metal folding chairs and racks to McPherson County Council on Aging, a not for profit corporation, for use at the All Schools Day parade.&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>Please contact me should you require additional information and/or to coordinate this donation, if approved. Thank you for your consideration of this request</div>
+
+<p>&nbsp;</p>
+</div>
+
+<div>&nbsp;</div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</div>
+<div filetype="public" parentid="BACAFM754F5E" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAGUE76A91D8">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>Public Lands and Facilities</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">3.4 </span>Copy of Authorize TCGC Clubhouse $15,000.00 Reimbursable Funds</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion, Information</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">20,000.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">09.01.03521</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to authorize Turkey Creek Golf Course reimbursable expenses for pro shop merchandise for an amount not to exceed $15,000.00.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Staff is requesting clubhouse merchandise and product&nbsp;funds to be allocated&nbsp;for purchase of&nbsp;pro shop items for resale only.&nbsp; All&nbsp;merchandise expenses will be managed via a&nbsp;reimbursement process.&nbsp; All&nbsp;clubhouse pro shop&nbsp;expenditures should be accompanied with an invoice to be processed.&nbsp; Staff requests authorization for an amount not to exceed $15,000.00 for startup costs.&nbsp;&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</div>
+<div filetype="public" parentid="BAGUE76A91D8" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA9LKU51D4BA">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>CVB</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.1 </span>Sports Grant Request</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">400.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">35.01.04880 Marketing Grants</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve a $400.00 Sports Grant for the McPherson Area Cyclists to be used for the Mowbray Metric bicycle weekend to be held July 20 &amp; 21, 2019.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>I would like to request Commission approval for a $400 Sports Grant for McPherson Area Cyclists.&nbsp; This grant will be used for the Mowbray Metric Bicycle Weekend which will be July 20 &amp; 21, 2019.&nbsp;&nbsp;</p>
+</div>
+<div filetype="public" parentid="BA9LKU51D4BA" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA9LQE524BC5">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>CVB</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.2 </span>Sports Grant Request</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">750.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">35.01.04880 Marketing Grants</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve a $750.00 Sports Grant for United Way of McPherson County to be used for the annual McPherson County United Way Triathlon to be held on August 3, 2019, in McPherson.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>I would like to request Commission approval for a $750 Sports Grant for United Way of McPherson.&nbsp; This grant will be used for their annual Triathlon that will be held August 3, 2019.&nbsp;&nbsp;</p>
+</div>
+<div filetype="public" parentid="BA9LQE524BC5" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA9LSP52C238">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>CVB</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.3 </span>Sports Grant Request</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">100.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">35.01.04880 Marketing Grant</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve a $100.00 Sports Grant for McPherson Housing Coalition to be used for the BAMFAM event to be held on May 18, 2019.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>I would like to request Commission approval for a $100 Sports Grant for McPherson Housing Coalition.&nbsp; This grant will be used for their BAM FAM event that will be held May 18, 2019.&nbsp;&nbsp;</p>
+</div>
+<div filetype="public" parentid="BA9LSP52C238" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA9LUD530AA9">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>CVB</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.4 </span>Event Grant Request</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">1,917.60</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">35.01.04880 Marketing Grant</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve a $1,917.60 Event Grant for the McPherson Museum to be used for entertainment for the "What the Freak" event to be held at the McPherson Museum on April 1, 2019.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>I would like to request Commission approval for a $1,917.60 Event Grant for the McPherson Museum.&nbsp; This grant will be used for entertainment for their "What the Freak" event that will be held on April 1, 2019.&nbsp;&nbsp;</p>
+</div>
+<div filetype="public" parentid="BA9LUD530AA9" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA9MWJ543B85">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>CVB</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.5 </span>Sports Grant Request</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">750.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">35.01.04880 Marketing Grant</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve a $750.00 Sports Grant for the MAYB Basketball Tournament to be held July 6-7, 2019, in McPherson.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>I would like to request Commission approval for a $750 Sports Grant for the McPherson MAYB Basketball Tournament which will be held July 6 &amp; 7, 2019.&nbsp;</p>
+</div>
+<div filetype="public" parentid="BA9MWJ543B85" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA9MYV54929E">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>CVB</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.6 </span>Sports Grant Request</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 18, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">250.00</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">35.01.04880 Marketing Grant</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve a $250.00 Sports Grant for the McPherson College Summer League High School Basketball Program beginning May 27, 2019, and ending July 1, 2019.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>I would like to request Commission approval for a $250 Sports Grant for the McPherson College Summer League HS Basketball program.&nbsp; These league games will begin May 27 and end on July 1, 2019.&nbsp;&nbsp;</p>
+</div>
+<div filetype="public" parentid="BA9MYV54929E" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA8M3V57675A">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>Public Works</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">5.1 </span>Engineering: Engineering Tech. Computer (Titan Computers)</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">5,289.55</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">01.12.03500</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the purchase of a Titan W422 Design Workstation PC from Titanus Technologies LLC for an amount not to exceed $5,289.55.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>The Engineering Technician's computer was scheduled to be replaced in 2017.&nbsp; I failed to get it replaced and accidently dropped it off of my Capitol Improvement Plan.&nbsp;&nbsp; This computer is now over 7 years old.&nbsp; Justin contacted Lee to get his assistance in cleaning it up&nbsp;to enhance its performance.&nbsp; Lee told him&nbsp;he was not going to waste his time, he just needed to replace it.&nbsp; A bigger computer is required to run AutoDesk and GIS.&nbsp; Lee got several quotes.&nbsp; We believe a Titan W422 will best fit our needs.&nbsp; &nbsp;Titan Computers quoted us $5,289.55 for the Titan W422.</p>
+</div>
+<div filetype="public" parentid="BA8M3V57675A" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BA8SJ36B932E" href="/ks/comks/Board.nsf/files/BA8SJ36B932E/$file/SKM_C55819031221060.pdf">SKM_C55819031221060.pdf (173 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA8GA96CDA8A">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>Public Works</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">5.2 </span>Street Department: Street Patch in 1200 block of Lyndon Rd</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">10,202.57</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Budget Source</div>
+<div class="rightcol">26.01.03490</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the street patch in the 1200 block of Lyndon Road for an amount not to exceed $10,202.57.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>We have an area of deteriorated curb,&nbsp;gutter and roadway in the 1200 block of&nbsp;Lyndon Road that is in need of repair.&nbsp; Gerry has put together an estimate for a 570' x 7' street patch in the amount of $10,202.57, for materials only, to complete the work.</p>
+</div>
+<div filetype="public" parentid="BA8GA96CDA8A" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BA8GAV6D0585" href="/ks/comks/Board.nsf/files/BA8GAV6D0585/$file/671-IWC%20Est..pdf">671-IWC Est..pdf (387 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAAQHS5FED93">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>Public Works</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">5.3 </span>Resolution authorizing the updating and installation of railway-highway crossing signals and related work on East 1st Street – Resolution No. 19-??</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to adopt Resolution #19-??, A RESOLUTION AUTHORIZING THE UPDATING AND INSTALLATION OF RAILWAY-HIGHWAY CROSSING SIGNALS AND RELATED WORK ON EAST 1st STREET IN THE CITY OF McPHERSON, KANSAS, AND EXECUTION OF RELATED DOCUMENTS, and authorize the Mayor to sign the Resolution.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>The Commission needs to consider approval of Resolution No. 19-??, A RESOLUTION AUTHORIZING THE UPDATING AND INSTALLATION OF RAILWAY-HIGHWAY CROSSING SIGNALS AND RELATED WORK ON EAST 1st&nbsp;STREET IN THE CITY OF McPHERSON, KANSAS, AND EXECUTION OF RELATED DOCUMENTS, and authorize the Mayor to sign. This Resolution will allow the Mayor to sign Agreement No. 6193005&nbsp;with K &amp; O Railroad regarding the installation of crossing signals, flashing light cantilever type and gates at a grade crossing on East 1st&nbsp;Street.</p>
+</div>
+<div filetype="public" parentid="BAAQHS5FED93" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAAUY66F4269" href="/ks/comks/Board.nsf/files/BAAUY66F4269/$file/RESOLUTION%20E%201st%20Street%20RR%20Crossing.pdf">RESOLUTION E 1st Street RR Crossing.pdf (312 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAAPX85BAE06">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>Public Works</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">5.4 </span>Railroad Crossing Agreement: 1st Street Crossing (K&amp;O Railroad)(Kansas Department of Transportation)</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the attached Agreement No. 006193005 for Project No. 59 X-3049-01 and DOT No. 010494Y between the Kansas and Oklahoma Railroad Company, the City of McPherson, and the Secretary of Transportation, providing for the installation of railway-highway crossing signals, flashing light cantilever type and gates at a grade crossing on East 1st Street, in the City of McPherson, and authorize the Mayor to sign the Agreement.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>We received an agreement to put gates&nbsp;at the 1st Street crossing.&nbsp; The agreement&nbsp;&nbsp;requires the City to install and maintain advanced warning.&nbsp; We install and maintain advanced warning on all RR crossings anyway.&nbsp; This agreement is under review&nbsp;by the City Attorney.&nbsp; I was not sure if the Commission would be amenable to sign this agreement before the Access&nbsp;Easement was granted.&nbsp;&nbsp;</p>
+</div>
+<div filetype="public" parentid="BAAPX85BAE06" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAAUAA6CB1DD" href="/ks/comks/Board.nsf/files/BAAUAA6CB1DD/$file/E%201st%20Agreement.pdf">E 1st Agreement.pdf (807 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAAT96684283">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>Public Works</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">5.5 </span>Engineering: Federal Fund Exchange 2019 (Request to Exchange Federal Funds)</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 25, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Dollar Amount</div>
+<div class="rightcol">134,772.08</div>
+<div class="leftcol">Budgeted</div>
+<div class="rightcol">Yes</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the Request to Exchange Federal Funds 2019 under the Federal-Aid Fund Exchange Master Agreement and authorize the Mayor to sign.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>&nbsp;We have now received the Request to Exchange Federal Funds agreement for 2019.&nbsp; The request sets the exchange rate at $0.90/$1.00 (2018 exchange rate=$0.75/$1.00).&nbsp; &nbsp;We have a total of $149,746.75 Federal dollars to exchange.&nbsp; This exchange will yield&nbsp;a total of $134,772.08 State dollars to use on one of our street projects.&nbsp; Our plan is to use these funds on the first project to be completed this year, which may be Walnut Street (Northview&nbsp;to Main).&nbsp;&nbsp;</p>
+</div>
+<div filetype="public" parentid="BAAT96684283" class="bothcols ui-helper-clearfix">
+
+
+<a class="public-file" target="_blank" order="00001" unique="BAATCR6901C2" href="/ks/comks/Board.nsf/files/BAATCR6901C2/$file/Request%20for%20Reimbursement.pdf">Request for Reimbursement.pdf (35 KB)</a><a class="public-file" target="_blank" order="00002" unique="BAATCT69030E" href="/ks/comks/Board.nsf/files/BAATCT69030E/$file/City%20of%20McPherson.pdf">City of McPherson.pdf (198 KB)</a><a class="public-file" target="_blank" order="00003" unique="BAATCV6904E8" href="/ks/comks/Board.nsf/files/BAATCV6904E8/$file/BLP%20Memo%2019-04%20City%20of%20McPherson.pdf">BLP Memo 19-04 City of McPherson.pdf (249 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BA2N68596975">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>Public Works</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">5.6 </span>City Connecting Link Improvement Program (CCLIP): Call for Projects</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve submitting a CCLIP application for a Round-about (GI)/Intersection Pavement Restoration(PR) for the intersection of US 56/81 Bypass and authorize the Director of Public Works to sign the application.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>I received a call for projects for the City&nbsp;Connecting Link Improvement Program (CCLIP).&nbsp; The intersection of US 56/81 Bypass is deteriorating&nbsp;quickly.&nbsp; &nbsp;This intersection is one of the City's high accident locations.&nbsp; We propose constructing&nbsp;a round-a-bout at this location under the Geometric&nbsp;Improvement (GI).&nbsp; Our other option is to replace the pavement under the Pavement Restoration (PR) portion of the CCLIP.</p>
+
+<p>&nbsp;</p>
+
+<p>The project limit for each of the two categories is $1,000,000.00 and the cost share is 90/10.&nbsp; All costs are covered except ROW purchases.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Our first hurdle is to address KDOT's concerns about being able to accommodate&nbsp;wind turbines through the US 56/81 Bypass intersection.&nbsp; Attached please find a conceptual drawing.&nbsp; The preliminary estimate for this concept is 1.4M.</p>
+</div>
+<div filetype="public" parentid="BA2N68596975" class="bothcols ui-helper-clearfix">
+
+
+
+<a class="public-file" target="_blank" order="00001" unique="BA2N6C596978" href="/ks/comks/Board.nsf/files/BA2N6C596978/$file/CCLIP%20Prog%20Guidelines.pdf">CCLIP Prog Guidelines.pdf (97 KB)</a><a class="public-file" target="_blank" order="00002" unique="BA8SSN6CF378" href="/ks/comks/Board.nsf/files/BA8SSN6CF378/$file/Wind%20Turbine%20Video.mp4">Wind Turbine Video.mp4 (3,395 KB)</a><a class="public-file" target="_blank" order="00003" unique="BAD5ZR12B572" href="/ks/comks/Board.nsf/files/BAD5ZR12B572/$file/Roundabout%20Package.pdf">Roundabout Package.pdf (1,397 KB)</a><a class="public-file" target="_blank" order="00004" unique="BAD5ZU12B8AE" href="/ks/comks/Board.nsf/files/BAD5ZU12B8AE/$file/Intersection%20Package.pdf">Intersection Package.pdf (2,325 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BADJ9U4C2419">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 18, 2019 - Study Session</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">6. </span>Police Department</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">6.1 </span>Purchase of Tasers</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Discussion</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BADJ9U4C2419" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+Found document: 
+	Title - Mar 13, 2019 (Wed)
+CVB Board Meeting
+	Date - Mar 13, 2019 (Wed)
+CVB Board Meeting
+	Link - null
+	Text - 
+<input name="agenda-item-unique" type="hidden" value="B9HVQ974C523">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 13, 2019 - CVB Board Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Opening Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.1 </span>Call to Order</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Procedural</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Board Members:</p>
+
+<p>Lisa Tinkler&nbsp;(24/7)<br>
+Wayne Burns (McPherson Park Department)&nbsp;<br>
+Tiffani Eilrich (Home State Bank/Citizens State Bank)&nbsp;<br>
+Nick Gregory (City of McPherson)&nbsp;<br>
+Dawn Korbe (Holiday Inn Express)&nbsp;<br>
+Anna Ruxlow (McPherson Museum)</p>
+
+<p>Monica Rice (McPherson College)</p>
+
+<p>&nbsp;</p>
+
+<p>Ex-Officio Members:</p>
+
+<p>Katie Selzer (CVB)<br>
+Jennifer Burch (Chamber of Commerce)&nbsp;<br>
+Ann Engel (McPherson Main Street)<br>
+Anne Kirchner (CVB)&nbsp;<br>
+Joni Regnier (CVB)</p>
+
+<p>&nbsp;</p>
+
+<p>Guests:</p>
+
+<p>Diane Fallis</p>
+</div>
+<div filetype="public" parentid="B9HVQ974C523" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9HVQC74C528">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 13, 2019 - CVB Board Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Opening Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.2 </span>Approval of Minutes</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Minutes</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the minutes as presented.</div>
+<div class="leftcol">Minutes</div>
+<div class="rightcol"><a href="#" class="btn-view-minutes" key="B9HVQ774C520">View Minutes</a> for Mar 13, 2019 - CVB Board Meeting</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9HVQC74C528" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9HVQG74C52C">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 13, 2019 - CVB Board Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Reports</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.1 </span>Ex-Officio Reports</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information, Reports</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9HVQG74C52C" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9HVQK74C52F">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 13, 2019 - CVB Board Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Reports</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.2 </span>CVB Director's Reports</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information, Reports</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>1. Financials</p>
+
+<p>2. Updates and Upcoming Events</p>
+</div>
+<div filetype="public" parentid="B9HVQK74C52F" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BA54LQ790DB6" href="/ks/comks/Board.nsf/files/BA54LQ790DB6/$file/March%202019%20directors%20report.docx">March 2019 directors report.docx (40 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9HVQN74C532">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 13, 2019 - CVB Board Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Reports</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.3 </span>Grants</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Motion to approve the six grants.</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9HVQN74C532" class="bothcols ui-helper-clearfix">
+
+
+
+
+
+<a class="public-file" target="_blank" order="00001" unique="BA474U5E83A4" href="/ks/comks/Board.nsf/files/BA474U5E83A4/$file/Mac%20Area%20Cyclists%20Grant%20Request.pdf">Mac Area Cyclists Grant Request.pdf (368 KB)</a><a class="public-file" target="_blank" order="00002" unique="BA47545E8F42" href="/ks/comks/Board.nsf/files/BA47545E8F42/$file/McPherson%20Housing%20%20Grant%20Request.pdf">McPherson Housing  Grant Request.pdf (312 KB)</a><a class="public-file" target="_blank" order="00003" unique="BA475Z5E947F" href="/ks/comks/Board.nsf/files/BA475Z5E947F/$file/McPherson%20Colleg%20MAYB.pdf">McPherson Colleg MAYB.pdf (228 KB)</a><a class="public-file" target="_blank" order="00004" unique="BA47635E988E" href="/ks/comks/Board.nsf/files/BA47635E988E/$file/McPherson%20Colleg%20Summer%20League.pdf">McPherson Colleg Summer League.pdf (231 KB)</a><a class="public-file" target="_blank" order="00005" unique="BA476C5E9E16" href="/ks/comks/Board.nsf/files/BA476C5E9E16/$file/Museum%20WTF%20Event.pdf">Museum WTF Event.pdf (289 KB)</a><a class="public-file" target="_blank" order="00006" unique="BA476F5EA241" href="/ks/comks/Board.nsf/files/BA476F5EA241/$file/United%20Way%20Grant%20.pdf">United Way Grant .pdf (372 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9HVQR74C535">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 13, 2019 - CVB Board Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Reports</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.4 </span>Activities &amp; Convention Report</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information, Reports</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9HVQR74C535" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BA7S9P5B47C5" href="/ks/comks/Board.nsf/files/BA7S9P5B47C5/$file/March%202019%20Group%20Bookings.pdf">March 2019 Group Bookings.pdf (40 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9HVQX74C53B">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 13, 2019 - CVB Board Meeting</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>Closing Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.1 </span>Next CVB Board Meeting</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>The next CVB Board Meeting will be held on 04/10/19&nbsp;at&nbsp;the CVB office.</p>
+</div>
+<div filetype="public" parentid="B9HVQX74C53B" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+Found document: 
+	Title - Mar 12, 2019 (Tue)
+Planning Commission
+	Date - Mar 12, 2019 (Tue)
+Planning Commission
+	Link - null
+	Text - 
+<input name="agenda-item-unique" type="hidden" value="B9XNQS5958C6">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 12, 2019 - Planning Commission</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Planning Commission Procedural Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.1 </span>Agenda</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 12, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 12, 2019</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Review and modify the agenda as necessary, then approve.</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9XNQS5958C6" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9XNQU5958C8">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 12, 2019 - Planning Commission</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>Planning Commission Procedural Items</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">1.2 </span>Minutes</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 12, 2019</div>
+<div class="leftcol">Absolute Date</div>
+<div class="rightcol">Mar 12, 2019</div>
+<div class="leftcol">Fiscal Impact</div>
+<div class="rightcol">No</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Review and modify the minutes of February 5th and 12th, 2019 as necessary, then approve.</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9XNQU5958C8" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BA4AUK6985AB" href="/ks/comks/Board.nsf/files/BA4AUK6985AB/$file/Planning%20Commission%20Minutes%20February%205%20%26%2012%202019.pdf">Planning Commission Minutes February 5 &amp; 12 2019.pdf (328 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9XNQX5958CB">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 12, 2019 - Planning Commission</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Committee and Staff Reports</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.1 </span>Zoning Administrator</div>
+<div class="leftcol">Type</div>
+<div class="rightcol"></div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>2 Zoning Permits</p>
+
+<p>3 Zoning Verifications</p>
+
+<p>&nbsp;</p>
+
+<p>Resignation of Bryan Anderson</p>
+
+<p>Responses to the Assistance Visit with KS Dept. of Agriculture-DWR for floodplain issues in support of participation in the Community Rating System.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</div>
+<div filetype="public" parentid="B9XNQX5958CB" class="bothcols ui-helper-clearfix">
+
+<a class="public-file" target="_blank" order="00001" unique="B9Y7EP783A4B" href="/ks/comks/Board.nsf/files/B9Y7EP783A4B/$file/Scan0016.pdf">Scan0016.pdf (188 KB)</a><a class="public-file" target="_blank" order="00002" unique="BA4AY36A2757" href="/ks/comks/Board.nsf/files/BA4AY36A2757/$file/Response-McPherson%20KS%20as%20of%203-8-19.pdf">Response-McPherson KS as of 3-8-19.pdf (209 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9XNQZ5958CD">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 12, 2019 - Planning Commission</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Committee and Staff Reports</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.2 </span>Building Inspection</div>
+<div class="leftcol">Type</div>
+<div class="rightcol"></div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9XNQZ5958CD" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="B9Y7E8781B1F" href="/ks/comks/Board.nsf/files/B9Y7E8781B1F/$file/February%202019%20PP.pptx">February 2019 PP.pptx (4,177 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9XNR35958CF">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 12, 2019 - Planning Commission</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Committee and Staff Reports</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.3 </span>Board of Zoning Appeals</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>BZA did not meet in February</p>
+
+<p>&nbsp;</p>
+
+<p>Appointment of Tom Stinemetze to BZA in March</p>
+</div>
+<div filetype="public" parentid="B9XNR35958CF" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9XNR55958D1">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 12, 2019 - Planning Commission</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Committee and Staff Reports</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.4 </span>County Planning Commission Liaison</div>
+<div class="leftcol">Type</div>
+<div class="rightcol"></div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9XNR55958D1" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9XNR75958D3">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 12, 2019 - Planning Commission</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Committee and Staff Reports</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.5 </span>Public Works Director</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Update on Construction Projects.&nbsp;</p>
+</div>
+<div filetype="public" parentid="B9XNR75958D3" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BA8G726C3637" href="/ks/comks/Board.nsf/files/BA8G726C3637/$file/19-03%20Planning%20Commission%20Construction%20Update.pdf">19-03 Planning Commission Construction Update.pdf (436 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9XNR95958D5">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 12, 2019 - Planning Commission</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Committee and Staff Reports</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.6 </span>Development Committee</div>
+<div class="leftcol">Type</div>
+<div class="rightcol"></div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Did Not Meet</p>
+</div>
+<div filetype="public" parentid="B9XNR95958D5" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9XNRB5958D7">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 12, 2019 - Planning Commission</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>Committee and Staff Reports</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">2.7 </span>Planning Consultant's Report</div>
+<div class="leftcol">Type</div>
+<div class="rightcol"></div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9XNRB5958D7" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9XNRE5958DA">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 12, 2019 - Planning Commission</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>Planning Commission New Business</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">3.1 </span>Z-19-01-Final Finish Rezoning</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion, Information</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 12, 2019</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Review the preliminary report of findings, input from the applicant and the public, and approve or disprove with recommended conditions.</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p style="margin: 0in 0.5in 0.0001pt;"><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;"><span arial="">This case has been brought about by the desire of the applicants, </span>Nate Carlson of 650 Navajo Rd, McPherson Kansas to change the zoning district classification of the properties located at INTERSTATE ADDITION, S29, T19, R03, BLOCK 1, Lots 8 and 9 from I-2 Heavy Industrial District to I-1 Light Industrial District. This application is made in conjunction with a site plan review for the subject property.</span></span></p>
+</div>
+<div filetype="public" parentid="B9XNRE5958DA" class="bothcols ui-helper-clearfix">
+
+
+
+
+<a class="public-file" target="_blank" order="00001" unique="B9XQ4G5B7311" href="/ks/comks/Board.nsf/files/B9XQ4G5B7311/$file/Zoning%20Admin.%20Report.pdf">Zoning Admin. Report.pdf (265 KB)</a><a class="public-file" target="_blank" order="00002" unique="B9XQ625B8407" href="/ks/comks/Board.nsf/files/B9XQ625B8407/$file/Z-19-01%20Notification%20Map.pdf">Z-19-01 Notification Map.pdf (39 KB)</a><a class="public-file" target="_blank" order="00003" unique="B9XQBK5BE3AE" href="/ks/comks/Board.nsf/files/B9XQBK5BE3AE/$file/Address%20Verification-Z-19-01.pdf">Address Verification-Z-19-01.pdf (56 KB)</a><a class="public-file" target="_blank" order="00004" unique="B9XQ745B88EC" href="/ks/comks/Board.nsf/files/B9XQ745B88EC/$file/Z-19-01%20Area%20Map.pdf">Z-19-01 Area Map.pdf (523 KB)</a><a class="public-file" target="_blank" order="00005" unique="B9XQ775B8BB7" href="/ks/comks/Board.nsf/files/B9XQ775B8BB7/$file/Z-19-01%20Close%20Up.pdf">Z-19-01 Close Up.pdf (433 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9XR835EC9F0">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 12, 2019 - Planning Commission</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>Planning Commission New Business</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">3.2 </span>SP-19-01-Final Finish Site Plan</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action, Discussion, Information</div>
+<div class="leftcol">Preferred Date</div>
+<div class="rightcol">Mar 12, 2019</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">After discussion and review, approve SP-19-01, with recommended conditions</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;"><span>This case has been brought about by the desire of the applicants, </span>Nate Carlson of 650 Navajo Rd, McPherson Kansas to erect a 50' x 80' (4000 Square Feet) pre-engineered building for the purpose of renting work space to McPherson College Antique Car Restoration Students. This application is made in conjunction with a request to change the zoning district classification of the subject properties located at INTERSTATE ADDITION, S29, T19, R03, BLOCK 1, Lots 8 and 9 from I-2 Heavy Industrial District to I-1 Light Industrial District. </span></span></p>
+</div>
+<div filetype="public" parentid="B9XR835EC9F0" class="bothcols ui-helper-clearfix">
+
+
+
+<a class="public-file" target="_blank" order="00001" unique="B9XSDN6304AD" href="/ks/comks/Board.nsf/files/B9XSDN6304AD/$file/SP-19-01%20Area%20Map.pdf">SP-19-01 Area Map.pdf (523 KB)</a><a class="public-file" target="_blank" order="00002" unique="B9XSDQ630676" href="/ks/comks/Board.nsf/files/B9XSDQ630676/$file/SP-19-01%20Close%20Up.pdf">SP-19-01 Close Up.pdf (433 KB)</a><a class="public-file" target="_blank" order="00003" unique="B9XSD962F6A7" href="/ks/comks/Board.nsf/files/B9XSD962F6A7/$file/Z-19-01%20Zoning_Administrators_Report.pdf">Z-19-01 Zoning_Administrators_Report.pdf (194 KB)</a><a class="public-file" target="_blank" order="00004" unique="BAASMW65C436" href="/ks/comks/Board.nsf/files/BAASMW65C436/$file/SR101%20Site%20Review%20SP-19-01%20Final%20Finish%20LLC.pdf">SR101 Site Review SP-19-01 Final Finish LLC.pdf (1,899 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9XNRK5958DF">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 12, 2019 - Planning Commission</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>Planning Commission Old Business</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">4.1 </span>NONE</div>
+<div class="leftcol">Type</div>
+<div class="rightcol"></div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9XNRK5958DF" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="B9XNRN5958E2">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 12, 2019 - Planning Commission</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>Miscellaneous Business</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">5.1 </span>Next Meeting-April 2, 2019</div>
+<div class="leftcol">Type</div>
+<div class="rightcol"></div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="B9XNRN5958E2" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+
+Ending process
+Found 6 documents
+================================================

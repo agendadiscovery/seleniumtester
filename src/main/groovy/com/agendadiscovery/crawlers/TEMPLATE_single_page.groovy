@@ -29,7 +29,7 @@ class TEMPLATE_single_page extends BaseCrawler {
             }
             catch (Exception e) {
                 log.debug(e.message)
-                e.printStackTrace(log.debug)  //skip bad lines but print errors
+                e.printStackTrace(System.out)  //skip bad lines but print errors
             }
         } catch (Exception e) {
             log.debug(e.message)

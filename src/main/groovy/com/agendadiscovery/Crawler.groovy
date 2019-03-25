@@ -74,6 +74,7 @@ class Crawler {
                     out.println "\tTitle - ${dw.title}"
                     out.println "\tDate - ${dw.dateStr.toString()}"
                     out.println "\tLink - ${dw.link}"
+                    out.println "\tText - ${dw.text}"
                 }
                 out.println "\nEnding process"
                 out.println "Found ${dws.size()} documents"
