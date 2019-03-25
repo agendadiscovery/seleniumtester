@@ -10,8 +10,8 @@ import org.slf4j.LoggerFactory
 import java.time.Year
 import java.util.concurrent.TimeUnit
 import java.util.regex.Matcher
-//BoardDocs  Raw html grab
-class KS_mcpherson_citycouncil_agenda extends BaseCrawler {
+//Java applet.  Raw html grab
+class TEMPLATE_BoardDocs extends BaseCrawler {
     private static final Logger log = LoggerFactory.getLogger(this.class)
     int current_year = Year.now().getValue()
     List<WebElement> docList = []
@@ -37,15 +37,15 @@ class KS_mcpherson_citycouncil_agenda extends BaseCrawler {
                 meetings.click()
                 sleep(2000)
                 //make list of "unique" attribute for each agenda
-                 List<WebElement> agendas= driver.findElementsByXPath("//div[contains(@class,\"wrap-year\")][position() < 2]/a")
-                 List<String> unique_tags = []
-                 for(WebElement agenda: agendas){
+                List<WebElement> agendas= driver.findElementsByXPath("//div[contains(@class,\"wrap-year\")][position() < 2]/a")
+                List<String> unique_tags = []
+                for(WebElement agenda: agendas){
                     unique_tags.add(agenda.getAttribute("unique"))
-                 }
+                }
                 //cycle through agendas using unique tag
                 int index = 0
                 for(String unique: unique_tags) {
-                    if(index > 7){break}
+                    if(index > 5){break}
                     getDocumentByPage(driver,unique)
                     index++
                 }//for loop

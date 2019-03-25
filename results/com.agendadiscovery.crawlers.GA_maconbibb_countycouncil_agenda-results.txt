@@ -1,0 +1,1057 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.GA_maconbibb_countycouncil_agenda
+https://www.boarddocs.com/ga/maconbibb/Board.nsf/Public
+Found document: 
+	Title - Mar 26, 2019 (Tue)
+2 - COMMITTEE OF THE WHOLE
+	Date - Mar 26, 2019 (Tue)
+2 - COMMITTEE OF THE WHOLE
+	Link - null
+	Text - 
+<input name="agenda-item-unique" type="hidden" value="BAFL3T52960A">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 2 - COMMITTEE OF THE WHOLE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>APPROVAL OF MINUTES</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>Approval of minutes from the March 12, 2019 Committee Meeting</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Minutes</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL3T52960A" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHM9U599898" href="/ga/maconbibb/Board.nsf/files/BAHM9U599898/$file/3-12-2019.pdf">3-12-2019.pdf (22 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAHJGR4D1AD9">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 2 - COMMITTEE OF THE WHOLE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>ALCOHOLIC BEVERAGE LICENSE FR AMSTAR 16</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>New Alcoholic Beverage License for Southern Star, LLC d.b.a. Amstar 16-Macon located at 5996 Zebulon Road, Macon, GA 31210</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action (Consent)</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Item was referred back to Committee at the March 19, 2019 meeting</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAHJGR4D1AD9" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJMR4D7962" href="/ga/maconbibb/Board.nsf/files/BAHJMR4D7962/$file/3-19-2019%20-%20New%20Lic%20-%20AmStar%2016-Macon%20at%205996%20Zebulon%20Rd.pdf">3-19-2019 - New Lic - AmStar 16-Macon at 5996 Zebulon Rd.pdf (263 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAHJFC4CF3C0">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 2 - COMMITTEE OF THE WHOLE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>BOARD OF ELECTIONS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>Appointment of Chairperson and Vice-Chairperson for Board of Elections</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAHJFC4CF3C0" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJGM4D17FC" href="/ga/maconbibb/Board.nsf/files/BAHJGM4D17FC/$file/3-26-2019%20-%20Election%20of%20Officers%20March%2021%202019%20-%20Chair%20and%20Vice%20Chair%20-%20Letter%20to%20the%20Mayor.pdf">3-26-2019 - Election of Officers March 21 2019 - Chair and Vice Chair - Letter to the Mayor.pdf (158 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAHM7X5602D0">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 2 - COMMITTEE OF THE WHOLE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>LEASE AGREEMENT WITH THE INDUSTRIAL AUTHORITY</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution authorizing Macon-Bibb County to enter into an Intergovernmental Ground Lease Agreement with the Macon-Bibb County Industrial Authority relating to the former Yulista Hangar and Boeing Building at the Middle Georgia Regional Airport so that the Authority will be authorized and enabled to take such actions necessary to find and secure a new industrial tenant</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Sponsored by Mayor Robert A B. Reichert</p>
+</div>
+<div filetype="public" parentid="BAHM7X5602D0" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHM6D597271" href="/ga/maconbibb/Board.nsf/files/BAHM6D597271/$file/3-26-2019%20-%20Res%20Authorizing%20IGA%20with%20MBCIA%20to%20Lease%20Former%20Boeing%20and%20Yulista%20Hangars.pdf">3-26-2019 - Res Authorizing IGA with MBCIA to Lease Former Boeing and Yulista Hangars.pdf (3,140 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL5752DE55">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 2 - COMMITTEE OF THE WHOLE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>BONDS FOR BLIGHT</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to authorize further necessary investigation and action to secure $35,000,000 in bonds for the purpose of vacant lot maintenance, blighed housing demolition and other infrastructure beautification in Macon-Bibb County</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Sponsored by Commissioner Bert Bivins and Commissioner Virgil Watkins</p>
+</div>
+<div filetype="public" parentid="BAFL5752DE55" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHM6F5977DB" href="/ga/maconbibb/Board.nsf/files/BAHM6F5977DB/$file/3-26-2019%20-%20Res%20Blight%20Infrastructure%20Beautification%20Bonds.pdf">3-26-2019 - Res Blight Infrastructure Beautification Bonds.pdf (238 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL7L535E42">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 2 - COMMITTEE OF THE WHOLE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">6. </span>GUARANTEED MINIMUM INTEREST RATE</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to authorize the Human Resources Director to select that option approved by the Commission for purpose of changing the guaranteed minimum interest rate of the Fixed Annuity Contract available under the Bibb County OBRA457(B) Deferred Compensation Retirement Program</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL7L535E42" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHM9K598E77" href="/ga/maconbibb/Board.nsf/files/BAHM9K598E77/$file/3-19-2019%20-%20Res%20Selection%20of%20Option%20for%20Guaranteed%20Minimum%20Interest%20Rate%20under%20Nationwide%20Bibb%20County%20OBRA%20Program.pdf">3-19-2019 - Res Selection of Option for Guaranteed Minimum Interest Rate under Nationwide Bibb County OBRA Program.pdf (580 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAHKRF52C956">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 2 - COMMITTEE OF THE WHOLE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">7. </span>REQUEST FOR STATE COURT TO TAKE OVER MUNICIPAL COURT</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to request that the local Legislative Delegation introduce during the 2017 Session of the Georgia General Assembly local legislation to provide for the State Court to take on the Municipal Court caseload in accordance with the proposal attached</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">The Resolution was tabled on December 13, 2016</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAHKRF52C956" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHKVB52FD98" href="/ga/maconbibb/Board.nsf/files/BAHKVB52FD98/$file/12-13-2016%20-%20Res%20Request%20for%20State%20Court%20to%20take%20over%20Municipal%20Court%20Caseload.pdf">12-13-2016 - Res Request for State Court to take over Municipal Court Caseload.pdf (731 KB)</a></div>
+<br><br><br>
+
+Found document: 
+	Title - Mar 26, 2019 (Tue)
+5 - FACILITIES AND ENGINEERING COMMITTEE
+	Date - Mar 26, 2019 (Tue)
+5 - FACILITIES AND ENGINEERING COMMITTEE
+	Link - null
+	Text - 
+<input name="agenda-item-unique" type="hidden" value="BAFL44529D5E">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 5 - FACILITIES AND ENGINEERING COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>APPROVAL OF MINUTES</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>Approval of Minutes from the March 12, 2019 Committee Meeting</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Minutes</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL44529D5E" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ2L4AC4D8" href="/ga/maconbibb/Board.nsf/files/BAHJ2L4AC4D8/$file/3-12-2019.pdf">3-12-2019.pdf (20 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFMJM566FB8">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 5 - FACILITIES AND ENGINEERING COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>ROUNDABOUT AT EISENHOWER PARKWAY AND FULTON MILL ROAD</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to request that the Georgia Department of Transportation install a roundabout at the intersection of Eisenhower Parkway and Fulton Mill Road</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFMJM566FB8" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ2W4ACCB4" href="/ga/maconbibb/Board.nsf/files/BAHJ2W4ACCB4/$file/3-19-2019%20-%20Res%20Roundabout%20-%20Fulton%20Mill%20and%20Eisenhower.pdf">3-19-2019 - Res Roundabout - Fulton Mill and Eisenhower.pdf (202 KB)</a></div>
+<br><br><br>
+
+Found document: 
+	Title - Mar 26, 2019 (Tue)
+3 - OPERATIONS AND FINANCE COMMITTEE
+	Date - Mar 26, 2019 (Tue)
+3 - OPERATIONS AND FINANCE COMMITTEE
+	Link - null
+	Text - 
+<input name="agenda-item-unique" type="hidden" value="BAFL4C52A82E">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>APPROVAL OF MINUTES</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>Approval of Minutes from the March 12 2019 Committee Meeting</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Minutes</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL4C52A82E" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ5Z4B02E2" href="/ga/maconbibb/Board.nsf/files/BAHJ5Z4B02E2/$file/3-12-2019.pdf">3-12-2019.pdf (24 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAH323744DB4">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>FINANCIAL UPDATE</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>Financial Information</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAH323744DB4" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFMGH561DD8">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>GRANTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to authorize the Mayor to execute an agreement between the Macon-Bibb County Government Economic and Community Development Department and the Macon-Bibb Economic Opportunity Council, Inc. providing for an Emergency Solution Grant in an amount not to exceed $60,000 to implement the Rapid Rehousing Program</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFMGH561DD8" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ7B4B280F" href="/ga/maconbibb/Board.nsf/files/BAHJ7B4B280F/$file/3-19-2019%20-%20Res%20Agrmt%20with%20MBC%20Economic%20Opportunity%20Council%20for%20an%20Emergency%20Solution%20Grant%20%2460000%20for%20Rapid%20Rehousing%20Program.pdf">3-19-2019 - Res Agrmt with MBC Economic Opportunity Council for an Emergency Solution Grant $60000 for Rapid Rehousing Program.pdf (3,002 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFMG8561155">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>GRANTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">B. </span>A Resolution to authorize the Mayor to execute an agreement between the Macon-Bibb County Government Economic And Community Development Department and the Macon-Bibb Economic Opportunity Council, Inc providing for an Emergency Solution Grant in an amount not to exceed $60,000 to implement the Homelessness Prevention Program</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFMG8561155" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ7H4B2F02" href="/ga/maconbibb/Board.nsf/files/BAHJ7H4B2F02/$file/3-19-2019%20-%20Res%20Agrmt%20with%20MBC%20Economic%20Opportunity%20Council%20for%20an%20Emergency%20Solution%20Grant%20%2460000%20for%20Homelessness%20Prevention%20Program.pdf">3-19-2019 - Res Agrmt with MBC Economic Opportunity Council for an Emergency Solution Grant $60000 for Homelessness Prevention Program.pdf (3,806 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFMGG561C4B">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>GRANTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">C. </span>A Resolution to authorize the Mayor to execute an agreement between the Macon-Bibb County Government Economic and Community Development Department and Family Advancement Ministries, Inc providing for an Emergency Solution Grant in an amount not to exceed $12,276 to implement the Family Advancement Ministries Emergency Solution Grant - Homelessness Prevention Program</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFMGG561C4B" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ7P4B37FE" href="/ga/maconbibb/Board.nsf/files/BAHJ7P4B37FE/$file/3-19-2019%20-%20Res%20Approve%20Emergency%20Solution%20Grant%20with%20Family%20Advancement%20Ministries%20%2412276.pdf">3-19-2019 - Res Approve Emergency Solution Grant with Family Advancement Ministries $12276.pdf (2,946 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAGM3A58B174">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>GRANTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">D. </span>A Resolution authorizing the acceptance of a Criminal Justice Coordinating Council 2018 Violence Against Women Act (VAWA) Allocation in the amount of $50,000 requiring matching funds in the amount of $16,667 to the Bibb County Solicitor General</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Sponsored by Mayor Robert A B. Reichert</p>
+</div>
+<div filetype="public" parentid="BAGM3A58B174" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ874B4A6C" href="/ga/maconbibb/Board.nsf/files/BAHJ874B4A6C/$file/3-26-2019%20-%20Res%20Violence%20Against%20Women%20Act%20(VAWA)%20Grant%20Award%20-%20Solicitor%20General.pdf">3-26-2019 - Res Violence Against Women Act (VAWA) Grant Award - Solicitor General.pdf (709 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAHTSZ755AF0">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>GRANTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">E. </span>An Ordinance authorizing the Mayor to apply for a 2019 Local Maintenance and Improvement Grant Safety Action Plan Grant in the amount of approximately $50,000; authorizing the acceptance of said funds and appropriating the required 30% local match of approximately $15,000 to be paid from SPLOST Bond Proceeds and / or SPLOST Revenues identifying the list of road projects to be funded</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Sponsored by Mayor Robert A B. Reichert</p>
+</div>
+<div filetype="public" parentid="BAHTSZ755AF0" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHTTX75AAFD" href="/ga/maconbibb/Board.nsf/files/BAHTTX75AAFD/$file/3-26-2019%20-%20Ord%20Application%20for%20FY19%20LMIG%20Safety%20Action%20Plan%20Grant.pdf">3-26-2019 - Ord Application for FY19 LMIG Safety Action Plan Grant.pdf (737 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL69532089">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>SPLOST PROJECTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>n Ordinance approving and authorizing the appropriation of $240,355 from SPLOST Bond Proceeds and / or SPLOST Revenues form 2019 Public Safety - Sheriff's Vehicles Line Item as shown on the 2018 SPLOST Project Timeline and Budget</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL69532089" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ8D4B5403" href="/ga/maconbibb/Board.nsf/files/BAHJ8D4B5403/$file/3-26-2019%20-%20Ord%20Appropriate%20%24240355%20of%20SPLOST%20Bond%20Proceeds%20and%20or%20SPLOST%20Revenues%20Public%20Safety%20-%20Sheriffs%20Vehicles.pdf">3-26-2019 - Ord Appropriate $240355 of SPLOST Bond Proceeds and or SPLOST Revenues Public Safety - Sheriffs Vehicles.pdf (271 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL7Q536E9A">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>SPLOST PROJECTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">B. </span>A Resolution to authorize the Mayor to execute an independent contractor agreement between Macon-Bibb County and Sam Hall &amp; Sons, Inc in the amount of $267,486 for drainage improvements on Oxford Road, to be paid from 2017 SPLOST Bond Proceeds and/or 2018 SPLOST Revenues</div>
+<div class="leftcol">Type</div>
+<div class="rightcol"></div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL7Q536E9A" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ8U4B7AB5" href="/ga/maconbibb/Board.nsf/files/BAHJ8U4B7AB5/$file/3-19-2019%20-%20Resolution%20-%20Agreement%20-%20Sam%20Hall%20-%20Repair%20Oxford%20Road%20-%20%24267%2C486.pdf">3-19-2019 - Resolution - Agreement - Sam Hall - Repair Oxford Road - $267,486.pdf (6,981 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL7Y5379D0">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>SPLOST PROJECTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">C. </span>A Resolution authorizing the Mayor to execute an agreement with on Site Communications Services, Inc. in the amount of $665,750 for services related to the construction of a new communications facility and replacement of communications equipment on the Town Creek Radio Tower to be paid by SPLOST Bond Proceeds and/or SPLOST Revenues</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL7Y5379D0" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ8Z4B8395" href="/ga/maconbibb/Board.nsf/files/BAHJ8Z4B8395/$file/3-19-2019%20-%20Res%20Agreement%20with%20On%20Site%20Communications%20Services%20for%20Town%20Creek%20Tower%20Project%20%24665750.00.pdf">3-19-2019 - Res Agreement with On Site Communications Services for Town Creek Tower Project $665750.00.pdf (17,773 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAGTV3723492">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>SPLOST PROJECTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">D. </span>A Resolution to authorize the Mayor to execute the second intergovernmental agreement with the Macon-Bibb County Urban Development Authority Agreement related to the Tubman Museum to provide for the use of SPLOST Bond Proceeds/Revenues in the amount of $482,500 for Facility Capital Improvements</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Sponsored by Commissioner Al Tillman</p>
+</div>
+<div filetype="public" parentid="BAGTV3723492" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJA74BD649" href="/ga/maconbibb/Board.nsf/files/BAHJA74BD649/$file/3-26-2019%20-%20Res%202nd%20Intergovernmental%20Agrmt%20with%20UDA%20related%20to%20use%20of%20%24482500%20of%20SPLOST%20Bond%20Proceeds-Revenues%20to%20fund%20improvements%20at%20Tubman%20Museum.pdf">3-26-2019 - Res 2nd Intergovernmental Agrmt with UDA related to use of $482500 of SPLOST Bond Proceeds-Revenues to fund improvements at Tubman Museum.pdf (1,261 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL8A538646">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>MACON-BIBB COUNTY AIRPORTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution authorizing the Mayor to enter a contract with the Georgia Department of Transportation for the purpose of performing crack sealing and remarking on Runway 5/23 and the Taxiway at the Middle Georgia Regional Airport, to be funded in the amount of $324,342 in Federal Funds, $7,632.17 in State Funds and $9,438.73 plus any project overruns, to be paid as a local match from the airport Budget - Interfund Local Match Line Item</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL8A538646" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAJQ7D4BF278" href="/ga/maconbibb/Board.nsf/files/BAJQ7D4BF278/$file/3-19-2019%20-%20Res%20Agrmt%20with%20GDOT%20for%20Crack%20Seal%20and%20Remarking%20of%20MRGA.pdf">3-19-2019 - Res Agrmt with GDOT for Crack Seal and Remarking of MRGA.pdf (1,282 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL94539A63">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>MACON-BIBB COUNTY AIRPORTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">B. </span>A Resolution authorizing the Mayor to enter a contract with the Georgia Department of Transportation for the purpose of performing crack sealing and remarking on runway 10/28 and the taxiway at the Macon Downtown Airport to be funded in the amount of $282,614 in federal funds, $13,894 in State Funds and $17,508 plus any project overruns to be paid as a local match from the Airport Budget - Interfund Local Match Line item</div>
+<div class="leftcol">Type</div>
+<div class="rightcol"></div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL94539A63" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJAG4BF902" href="/ga/maconbibb/Board.nsf/files/BAHJAG4BF902/$file/3-19-2019%20-%20Res%20Agrmt%20with%20GDOT%20for%20Crack%20Seal%20and%20Remarking%20of%20Downtown%20Airport.pdf">3-19-2019 - Res Agrmt with GDOT for Crack Seal and Remarking of Downtown Airport.pdf (1,279 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAHTHV49C288">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">6. </span>PEACHTREE RECOVERY SERVICES</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to authorize the Mayor to enter an agreement with Peachtree Recovery Services, Inc. for property damage recovery services</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Sponsored by Mayor Robert A B. Reichert</p>
+</div>
+<div filetype="public" parentid="BAHTHV49C288" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJAU4C09F3" href="/ga/maconbibb/Board.nsf/files/BAHJAU4C09F3/$file/3-26-2019%20-%20Res%20Agrmt%20with%20Peachtree%20Recovery%20Services%20for%20Property%20Damage%20Recovery%20Services.pdf">3-26-2019 - Res Agrmt with Peachtree Recovery Services for Property Damage Recovery Services.pdf (2,912 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL5L52F78D">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">7. </span>SUPPLEMENTAL APPROPRIATION</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>An Ordinance to approve a Supplemental Appropriation for the transfer of $29,039.00 from Fund Balance in the FY19 Budget to the Macon-Bibb County Animal Welfare Small Equipment and Improvements General Account for the purchase of two washing machines and two dryers</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Sponsored by Mayor Robert A B. Reichert</p>
+</div>
+<div filetype="public" parentid="BAFL5L52F78D" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJAW4C0FC4" href="/ga/maconbibb/Board.nsf/files/BAHJAW4C0FC4/$file/3-26-2019%20-%20Ord%20Supplemental%20Appropriation%20for%20Animal%20Welfare%20for%20two%20washing%20machines%20and%20two%20dryers%20%2429039.00%20(002).pdf">3-26-2019 - Ord Supplemental Appropriation for Animal Welfare for two washing machines and two dryers $29039.00 (002).pdf (308 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFMHP564C53">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">8. </span>TRANSIT AUTHORITY</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to direct that written notice be timely given to the Macon-Bibb County Transit Authority of Macon-Bibb County's Intent to terminate the Bi-Party Agreement dated June 28, 2016 between the Macon-Bibb County Transit Authority and Macon-Bibb County</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFMHP564C53" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJB44C1C8F" href="/ga/maconbibb/Board.nsf/files/BAHJB44C1C8F/$file/3-19-2019%20-%20Res%20Terminate%20Bi-Party%20Funding%20Agreement%20with%20Macon%20Transit%20Authority.pdf">3-19-2019 - Res Terminate Bi-Party Funding Agreement with Macon Transit Authority.pdf (811 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL6Z532D52">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">9. </span>SMALL BUSINESS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to reaffirm Macon-Bibb County's Commitment and Support regarding Minority and Small Local Business Enterprise participation in the Procurement process</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL6Z532D52" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJBB4C2EFE" href="/ga/maconbibb/Board.nsf/files/BAHJBB4C2EFE/$file/3-26-2019%20-%20Res%20Supporting%20Minority%20and%20SBLE%20Participation%20in%20Procurement%20Process.pdf">3-26-2019 - Res Supporting Minority and SBLE Participation in Procurement Process.pdf (190 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL75533891">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">9. </span>SMALL BUSINESS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">B. </span>A Resolution requesting an Official Report regarding Minority and Small Local Business Enterprise participation in the procurement process from January 1, 2014 to March 1, 2019</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL75533891" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAJQFP4C4669" href="/ga/maconbibb/Board.nsf/files/BAJQFP4C4669/$file/3-26-2019%20-%20Res%20Requesting%20Official%20Report%20Regarding%20Minority%20and%20SBLE%20Participation%20in%20Procurement%20Process.pdf">3-26-2019 - Res Requesting Official Report Regarding Minority and SBLE Participation in Procurement Process.pdf (207 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAJ7KG566097">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">10. </span>PENSION FOR DISTRICT ATTORNEY</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>An Ordinance to amend Appendix I of the charter of Macon-Bibb County relating to the Macon Bibb County Pension Plan pursuant to the Authority granted Macon-Bibb County under the Georgia Public Retirement Systems Standards Act so as to allow the District Attorney for the Macon Judicial Circuit to receive supplemental retirement benefits under the plan</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Sponsored by Commissioner Schlesinger</p>
+</div>
+<div filetype="public" parentid="BAJ7KG566097" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAJQFU4C4CBB" href="/ga/maconbibb/Board.nsf/files/BAJQFU4C4CBB/$file/3-26-2019%20-%20Ord%20Amend%20Appendix%201%20to%20Charter%20Relating%20to%20the%20M-BC%20Pension%20Plan%20to%20add%20DA.pdf">3-26-2019 - Ord Amend Appendix 1 to Charter Relating to the M-BC Pension Plan to add DA.pdf (538 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL8R5394F4">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">11. </span>NEW HIRE DIVIDEND PROGRAM</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to create the "New Hire Dividend Program" for the Bibb County Sheriff's Office for the purpose of attracting and retaining new deputies</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL8R5394F4" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAJQG74C58DD" href="/ga/maconbibb/Board.nsf/files/BAJQG74C58DD/$file/3-19-2019%20-%20Res%20Creat%20Sheriff's%20New%20Hire%20Divided%20Program.pdf">3-19-2019 - Res Creat Sheriff's New Hire Divided Program.pdf (606 KB)</a></div>
+<br><br><br>
+
+Found document: 
+	Title - Mar 26, 2019 (Tue)
+1 - MACON-BIBB COUNTY COMMITTEE MEETING SCHEDULE
+	Date - Mar 26, 2019 (Tue)
+1 - MACON-BIBB COUNTY COMMITTEE MEETING SCHEDULE
+	Link - null
+	Text - 
+Found document: 
+	Title - Mar 26, 2019 (Tue)
+4 - ECONOMIC AND COMMUNITY DEVELOPMENT COMMITTEE
+	Date - Mar 26, 2019 (Tue)
+4 - ECONOMIC AND COMMUNITY DEVELOPMENT COMMITTEE
+	Link - null
+	Text - 
+<input name="agenda-item-unique" type="hidden" value="BAGLAU55910B">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 4 - ECONOMIC AND COMMUNITY DEVELOPMENT COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>APPROVAL OF MINUTES</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>Approval of Minutes from the February 26, 2019 Committee Meeting</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Minutes</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAGLAU55910B" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAJS4Y4FB97F" href="/ga/maconbibb/Board.nsf/files/BAJS4Y4FB97F/$file/2-26-2019.pdf">2-26-2019.pdf (107 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAGLAU55910B">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 4 - ECONOMIC AND COMMUNITY DEVELOPMENT COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>APPROVAL OF MINUTES</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>Approval of Minutes from the February 26, 2019 Committee Meeting</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Minutes</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAGLAU55910B" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAJS4Y4FB97F" href="/ga/maconbibb/Board.nsf/files/BAJS4Y4FB97F/$file/2-26-2019.pdf">2-26-2019.pdf (107 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAGLAU55910B">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 4 - ECONOMIC AND COMMUNITY DEVELOPMENT COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>APPROVAL OF MINUTES</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>Approval of Minutes from the February 26, 2019 Committee Meeting</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Minutes</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAGLAU55910B" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAJS4Y4FB97F" href="/ga/maconbibb/Board.nsf/files/BAJS4Y4FB97F/$file/2-26-2019.pdf">2-26-2019.pdf (107 KB)</a></div>
+<br><br><br>
+
+Found document: 
+	Title - Mar 26, 2019 (Tue)
+2 - COMMITTEE OF THE WHOLE
+	Date - Mar 26, 2019 (Tue)
+2 - COMMITTEE OF THE WHOLE
+	Link - null
+	Text - 
+<input name="agenda-item-unique" type="hidden" value="BAFL3T52960A">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 2 - COMMITTEE OF THE WHOLE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>APPROVAL OF MINUTES</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>Approval of minutes from the March 12, 2019 Committee Meeting</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Minutes</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL3T52960A" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHM9U599898" href="/ga/maconbibb/Board.nsf/files/BAHM9U599898/$file/3-12-2019.pdf">3-12-2019.pdf (22 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAHJGR4D1AD9">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 2 - COMMITTEE OF THE WHOLE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>ALCOHOLIC BEVERAGE LICENSE FR AMSTAR 16</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>New Alcoholic Beverage License for Southern Star, LLC d.b.a. Amstar 16-Macon located at 5996 Zebulon Road, Macon, GA 31210</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action (Consent)</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">Item was referred back to Committee at the March 19, 2019 meeting</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAHJGR4D1AD9" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJMR4D7962" href="/ga/maconbibb/Board.nsf/files/BAHJMR4D7962/$file/3-19-2019%20-%20New%20Lic%20-%20AmStar%2016-Macon%20at%205996%20Zebulon%20Rd.pdf">3-19-2019 - New Lic - AmStar 16-Macon at 5996 Zebulon Rd.pdf (263 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAHJFC4CF3C0">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 2 - COMMITTEE OF THE WHOLE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>BOARD OF ELECTIONS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>Appointment of Chairperson and Vice-Chairperson for Board of Elections</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAHJFC4CF3C0" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJGM4D17FC" href="/ga/maconbibb/Board.nsf/files/BAHJGM4D17FC/$file/3-26-2019%20-%20Election%20of%20Officers%20March%2021%202019%20-%20Chair%20and%20Vice%20Chair%20-%20Letter%20to%20the%20Mayor.pdf">3-26-2019 - Election of Officers March 21 2019 - Chair and Vice Chair - Letter to the Mayor.pdf (158 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAHM7X5602D0">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 2 - COMMITTEE OF THE WHOLE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>LEASE AGREEMENT WITH THE INDUSTRIAL AUTHORITY</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution authorizing Macon-Bibb County to enter into an Intergovernmental Ground Lease Agreement with the Macon-Bibb County Industrial Authority relating to the former Yulista Hangar and Boeing Building at the Middle Georgia Regional Airport so that the Authority will be authorized and enabled to take such actions necessary to find and secure a new industrial tenant</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Sponsored by Mayor Robert A B. Reichert</p>
+</div>
+<div filetype="public" parentid="BAHM7X5602D0" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHM6D597271" href="/ga/maconbibb/Board.nsf/files/BAHM6D597271/$file/3-26-2019%20-%20Res%20Authorizing%20IGA%20with%20MBCIA%20to%20Lease%20Former%20Boeing%20and%20Yulista%20Hangars.pdf">3-26-2019 - Res Authorizing IGA with MBCIA to Lease Former Boeing and Yulista Hangars.pdf (3,140 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL5752DE55">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 2 - COMMITTEE OF THE WHOLE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>BONDS FOR BLIGHT</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to authorize further necessary investigation and action to secure $35,000,000 in bonds for the purpose of vacant lot maintenance, blighed housing demolition and other infrastructure beautification in Macon-Bibb County</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Sponsored by Commissioner Bert Bivins and Commissioner Virgil Watkins</p>
+</div>
+<div filetype="public" parentid="BAFL5752DE55" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL7L535E42">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 2 - COMMITTEE OF THE WHOLE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">6. </span>GUARANTEED MINIMUM INTEREST RATE</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to authorize the Human Resources Director to select that option approved by the Commission for purpose of changing the guaranteed minimum interest rate of the Fixed Annuity Contract available under the Bibb County OBRA457(B) Deferred Compensation Retirement Program</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL7L535E42" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHM9K598E77" href="/ga/maconbibb/Board.nsf/files/BAHM9K598E77/$file/3-19-2019%20-%20Res%20Selection%20of%20Option%20for%20Guaranteed%20Minimum%20Interest%20Rate%20under%20Nationwide%20Bibb%20County%20OBRA%20Program.pdf">3-19-2019 - Res Selection of Option for Guaranteed Minimum Interest Rate under Nationwide Bibb County OBRA Program.pdf (580 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAHKRF52C956">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 2 - COMMITTEE OF THE WHOLE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">7. </span>REQUEST FOR STATE COURT TO TAKE OVER MUNICIPAL COURT</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to request that the local Legislative Delegation introduce during the 2017 Session of the Georgia General Assembly local legislation to provide for the State Court to take on the Municipal Court caseload in accordance with the proposal attached</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<div class="leftcol">Recommended Action</div>
+<div class="rightcol">The Resolution was tabled on December 13, 2016</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAHKRF52C956" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHKVB52FD98" href="/ga/maconbibb/Board.nsf/files/BAHKVB52FD98/$file/12-13-2016%20-%20Res%20Request%20for%20State%20Court%20to%20take%20over%20Municipal%20Court%20Caseload.pdf">12-13-2016 - Res Request for State Court to take over Municipal Court Caseload.pdf (731 KB)</a></div>
+<br><br><br>
+
+Found document: 
+	Title - Mar 26, 2019 (Tue)
+5 - FACILITIES AND ENGINEERING COMMITTEE
+	Date - Mar 26, 2019 (Tue)
+5 - FACILITIES AND ENGINEERING COMMITTEE
+	Link - null
+	Text - 
+<input name="agenda-item-unique" type="hidden" value="BAFL44529D5E">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 5 - FACILITIES AND ENGINEERING COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>APPROVAL OF MINUTES</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>Approval of Minutes from the March 12, 2019 Committee Meeting</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Minutes</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL44529D5E" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ2L4AC4D8" href="/ga/maconbibb/Board.nsf/files/BAHJ2L4AC4D8/$file/3-12-2019.pdf">3-12-2019.pdf (20 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFMJM566FB8">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 5 - FACILITIES AND ENGINEERING COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>ROUNDABOUT AT EISENHOWER PARKWAY AND FULTON MILL ROAD</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to request that the Georgia Department of Transportation install a roundabout at the intersection of Eisenhower Parkway and Fulton Mill Road</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFMJM566FB8" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+Found document: 
+	Title - Mar 26, 2019 (Tue)
+3 - OPERATIONS AND FINANCE COMMITTEE
+	Date - Mar 26, 2019 (Tue)
+3 - OPERATIONS AND FINANCE COMMITTEE
+	Link - null
+	Text - 
+<input name="agenda-item-unique" type="hidden" value="BAFL4C52A82E">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">1. </span>APPROVAL OF MINUTES</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>Approval of Minutes from the March 12 2019 Committee Meeting</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Minutes</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL4C52A82E" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ5Z4B02E2" href="/ga/maconbibb/Board.nsf/files/BAHJ5Z4B02E2/$file/3-12-2019.pdf">3-12-2019.pdf (24 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAH323744DB4">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">2. </span>FINANCIAL UPDATE</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>Financial Information</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Information</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAH323744DB4" class="bothcols ui-helper-clearfix"></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFMGH561DD8">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>GRANTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to authorize the Mayor to execute an agreement between the Macon-Bibb County Government Economic and Community Development Department and the Macon-Bibb Economic Opportunity Council, Inc. providing for an Emergency Solution Grant in an amount not to exceed $60,000 to implement the Rapid Rehousing Program</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFMGH561DD8" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ7B4B280F" href="/ga/maconbibb/Board.nsf/files/BAHJ7B4B280F/$file/3-19-2019%20-%20Res%20Agrmt%20with%20MBC%20Economic%20Opportunity%20Council%20for%20an%20Emergency%20Solution%20Grant%20%2460000%20for%20Rapid%20Rehousing%20Program.pdf">3-19-2019 - Res Agrmt with MBC Economic Opportunity Council for an Emergency Solution Grant $60000 for Rapid Rehousing Program.pdf (3,002 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFMGH561DD8">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>GRANTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to authorize the Mayor to execute an agreement between the Macon-Bibb County Government Economic and Community Development Department and the Macon-Bibb Economic Opportunity Council, Inc. providing for an Emergency Solution Grant in an amount not to exceed $60,000 to implement the Rapid Rehousing Program</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFMGH561DD8" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ7B4B280F" href="/ga/maconbibb/Board.nsf/files/BAHJ7B4B280F/$file/3-19-2019%20-%20Res%20Agrmt%20with%20MBC%20Economic%20Opportunity%20Council%20for%20an%20Emergency%20Solution%20Grant%20%2460000%20for%20Rapid%20Rehousing%20Program.pdf">3-19-2019 - Res Agrmt with MBC Economic Opportunity Council for an Emergency Solution Grant $60000 for Rapid Rehousing Program.pdf (3,002 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFMGH561DD8">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>GRANTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to authorize the Mayor to execute an agreement between the Macon-Bibb County Government Economic and Community Development Department and the Macon-Bibb Economic Opportunity Council, Inc. providing for an Emergency Solution Grant in an amount not to exceed $60,000 to implement the Rapid Rehousing Program</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFMGH561DD8" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ7B4B280F" href="/ga/maconbibb/Board.nsf/files/BAHJ7B4B280F/$file/3-19-2019%20-%20Res%20Agrmt%20with%20MBC%20Economic%20Opportunity%20Council%20for%20an%20Emergency%20Solution%20Grant%20%2460000%20for%20Rapid%20Rehousing%20Program.pdf">3-19-2019 - Res Agrmt with MBC Economic Opportunity Council for an Emergency Solution Grant $60000 for Rapid Rehousing Program.pdf (3,002 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFMGH561DD8">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>GRANTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to authorize the Mayor to execute an agreement between the Macon-Bibb County Government Economic and Community Development Department and the Macon-Bibb Economic Opportunity Council, Inc. providing for an Emergency Solution Grant in an amount not to exceed $60,000 to implement the Rapid Rehousing Program</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFMGH561DD8" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ7B4B280F" href="/ga/maconbibb/Board.nsf/files/BAHJ7B4B280F/$file/3-19-2019%20-%20Res%20Agrmt%20with%20MBC%20Economic%20Opportunity%20Council%20for%20an%20Emergency%20Solution%20Grant%20%2460000%20for%20Rapid%20Rehousing%20Program.pdf">3-19-2019 - Res Agrmt with MBC Economic Opportunity Council for an Emergency Solution Grant $60000 for Rapid Rehousing Program.pdf (3,002 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFMGH561DD8">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>GRANTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to authorize the Mayor to execute an agreement between the Macon-Bibb County Government Economic and Community Development Department and the Macon-Bibb Economic Opportunity Council, Inc. providing for an Emergency Solution Grant in an amount not to exceed $60,000 to implement the Rapid Rehousing Program</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFMGH561DD8" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ7B4B280F" href="/ga/maconbibb/Board.nsf/files/BAHJ7B4B280F/$file/3-19-2019%20-%20Res%20Agrmt%20with%20MBC%20Economic%20Opportunity%20Council%20for%20an%20Emergency%20Solution%20Grant%20%2460000%20for%20Rapid%20Rehousing%20Program.pdf">3-19-2019 - Res Agrmt with MBC Economic Opportunity Council for an Emergency Solution Grant $60000 for Rapid Rehousing Program.pdf (3,002 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFMGH561DD8">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>GRANTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to authorize the Mayor to execute an agreement between the Macon-Bibb County Government Economic and Community Development Department and the Macon-Bibb Economic Opportunity Council, Inc. providing for an Emergency Solution Grant in an amount not to exceed $60,000 to implement the Rapid Rehousing Program</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFMGH561DD8" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ7B4B280F" href="/ga/maconbibb/Board.nsf/files/BAHJ7B4B280F/$file/3-19-2019%20-%20Res%20Agrmt%20with%20MBC%20Economic%20Opportunity%20Council%20for%20an%20Emergency%20Solution%20Grant%20%2460000%20for%20Rapid%20Rehousing%20Program.pdf">3-19-2019 - Res Agrmt with MBC Economic Opportunity Council for an Emergency Solution Grant $60000 for Rapid Rehousing Program.pdf (3,002 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFMGH561DD8">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">3. </span>GRANTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to authorize the Mayor to execute an agreement between the Macon-Bibb County Government Economic and Community Development Department and the Macon-Bibb Economic Opportunity Council, Inc. providing for an Emergency Solution Grant in an amount not to exceed $60,000 to implement the Rapid Rehousing Program</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFMGH561DD8" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ7B4B280F" href="/ga/maconbibb/Board.nsf/files/BAHJ7B4B280F/$file/3-19-2019%20-%20Res%20Agrmt%20with%20MBC%20Economic%20Opportunity%20Council%20for%20an%20Emergency%20Solution%20Grant%20%2460000%20for%20Rapid%20Rehousing%20Program.pdf">3-19-2019 - Res Agrmt with MBC Economic Opportunity Council for an Emergency Solution Grant $60000 for Rapid Rehousing Program.pdf (3,002 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL7Y5379D0">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>SPLOST PROJECTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">C. </span>A Resolution authorizing the Mayor to execute an agreement with on Site Communications Services, Inc. in the amount of $665,750 for services related to the construction of a new communications facility and replacement of communications equipment on the Town Creek Radio Tower to be paid by SPLOST Bond Proceeds and/or SPLOST Revenues</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL7Y5379D0" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJ8Z4B8395" href="/ga/maconbibb/Board.nsf/files/BAHJ8Z4B8395/$file/3-19-2019%20-%20Res%20Agreement%20with%20On%20Site%20Communications%20Services%20for%20Town%20Creek%20Tower%20Project%20%24665750.00.pdf">3-19-2019 - Res Agreement with On Site Communications Services for Town Creek Tower Project $665750.00.pdf (17,773 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAGTV3723492">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">4. </span>SPLOST PROJECTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">D. </span>A Resolution to authorize the Mayor to execute the second intergovernmental agreement with the Macon-Bibb County Urban Development Authority Agreement related to the Tubman Museum to provide for the use of SPLOST Bond Proceeds/Revenues in the amount of $482,500 for Facility Capital Improvements</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Sponsored by Commissioner Al Tillman</p>
+</div>
+<div filetype="public" parentid="BAGTV3723492" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJA74BD649" href="/ga/maconbibb/Board.nsf/files/BAHJA74BD649/$file/3-26-2019%20-%20Res%202nd%20Intergovernmental%20Agrmt%20with%20UDA%20related%20to%20use%20of%20%24482500%20of%20SPLOST%20Bond%20Proceeds-Revenues%20to%20fund%20improvements%20at%20Tubman%20Museum.pdf">3-26-2019 - Res 2nd Intergovernmental Agrmt with UDA related to use of $482500 of SPLOST Bond Proceeds-Revenues to fund improvements at Tubman Museum.pdf (1,261 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL8A538646">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>MACON-BIBB COUNTY AIRPORTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution authorizing the Mayor to enter a contract with the Georgia Department of Transportation for the purpose of performing crack sealing and remarking on Runway 5/23 and the Taxiway at the Middle Georgia Regional Airport, to be funded in the amount of $324,342 in Federal Funds, $7,632.17 in State Funds and $9,438.73 plus any project overruns, to be paid as a local match from the airport Budget - Interfund Local Match Line Item</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL8A538646" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAJQ7D4BF278" href="/ga/maconbibb/Board.nsf/files/BAJQ7D4BF278/$file/3-19-2019%20-%20Res%20Agrmt%20with%20GDOT%20for%20Crack%20Seal%20and%20Remarking%20of%20MRGA.pdf">3-19-2019 - Res Agrmt with GDOT for Crack Seal and Remarking of MRGA.pdf (1,282 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL94539A63">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">5. </span>MACON-BIBB COUNTY AIRPORTS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">B. </span>A Resolution authorizing the Mayor to enter a contract with the Georgia Department of Transportation for the purpose of performing crack sealing and remarking on runway 10/28 and the taxiway at the Macon Downtown Airport to be funded in the amount of $282,614 in federal funds, $13,894 in State Funds and $17,508 plus any project overruns to be paid as a local match from the Airport Budget - Interfund Local Match Line item</div>
+<div class="leftcol">Type</div>
+<div class="rightcol"></div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL94539A63" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJAG4BF902" href="/ga/maconbibb/Board.nsf/files/BAHJAG4BF902/$file/3-19-2019%20-%20Res%20Agrmt%20with%20GDOT%20for%20Crack%20Seal%20and%20Remarking%20of%20Downtown%20Airport.pdf">3-19-2019 - Res Agrmt with GDOT for Crack Seal and Remarking of Downtown Airport.pdf (1,279 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAHTHV49C288">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">6. </span>PEACHTREE RECOVERY SERVICES</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to authorize the Mayor to enter an agreement with Peachtree Recovery Services, Inc. for property damage recovery services</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Sponsored by Mayor Robert A B. Reichert</p>
+</div>
+<div filetype="public" parentid="BAHTHV49C288" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJAU4C09F3" href="/ga/maconbibb/Board.nsf/files/BAHJAU4C09F3/$file/3-26-2019%20-%20Res%20Agrmt%20with%20Peachtree%20Recovery%20Services%20for%20Property%20Damage%20Recovery%20Services.pdf">3-26-2019 - Res Agrmt with Peachtree Recovery Services for Property Damage Recovery Services.pdf (2,912 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL5L52F78D">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">7. </span>SUPPLEMENTAL APPROPRIATION</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>An Ordinance to approve a Supplemental Appropriation for the transfer of $29,039.00 from Fund Balance in the FY19 Budget to the Macon-Bibb County Animal Welfare Small Equipment and Improvements General Account for the purchase of two washing machines and two dryers</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Sponsored by Mayor Robert A B. Reichert</p>
+</div>
+<div filetype="public" parentid="BAFL5L52F78D" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJAW4C0FC4" href="/ga/maconbibb/Board.nsf/files/BAHJAW4C0FC4/$file/3-26-2019%20-%20Ord%20Supplemental%20Appropriation%20for%20Animal%20Welfare%20for%20two%20washing%20machines%20and%20two%20dryers%20%2429039.00%20(002).pdf">3-26-2019 - Ord Supplemental Appropriation for Animal Welfare for two washing machines and two dryers $29039.00 (002).pdf (308 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFMHP564C53">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">8. </span>TRANSIT AUTHORITY</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to direct that written notice be timely given to the Macon-Bibb County Transit Authority of Macon-Bibb County's Intent to terminate the Bi-Party Agreement dated June 28, 2016 between the Macon-Bibb County Transit Authority and Macon-Bibb County</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFMHP564C53" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJB44C1C8F" href="/ga/maconbibb/Board.nsf/files/BAHJB44C1C8F/$file/3-19-2019%20-%20Res%20Terminate%20Bi-Party%20Funding%20Agreement%20with%20Macon%20Transit%20Authority.pdf">3-19-2019 - Res Terminate Bi-Party Funding Agreement with Macon Transit Authority.pdf (811 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL6Z532D52">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">9. </span>SMALL BUSINESS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to reaffirm Macon-Bibb County's Commitment and Support regarding Minority and Small Local Business Enterprise participation in the Procurement process</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL6Z532D52" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAHJBB4C2EFE" href="/ga/maconbibb/Board.nsf/files/BAHJBB4C2EFE/$file/3-26-2019%20-%20Res%20Supporting%20Minority%20and%20SBLE%20Participation%20in%20Procurement%20Process.pdf">3-26-2019 - Res Supporting Minority and SBLE Participation in Procurement Process.pdf (190 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL75533891">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">9. </span>SMALL BUSINESS</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">B. </span>A Resolution requesting an Official Report regarding Minority and Small Local Business Enterprise participation in the procurement process from January 1, 2014 to March 1, 2019</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL75533891" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAJQFP4C4669" href="/ga/maconbibb/Board.nsf/files/BAJQFP4C4669/$file/3-26-2019%20-%20Res%20Requesting%20Official%20Report%20Regarding%20Minority%20and%20SBLE%20Participation%20in%20Procurement%20Process.pdf">3-26-2019 - Res Requesting Official Report Regarding Minority and SBLE Participation in Procurement Process.pdf (207 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAJ7KG566097">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">10. </span>PENSION FOR DISTRICT ATTORNEY</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>An Ordinance to amend Appendix I of the charter of Macon-Bibb County relating to the Macon Bibb County Pension Plan pursuant to the Authority granted Macon-Bibb County under the Georgia Public Retirement Systems Standards Act so as to allow the District Attorney for the Macon Judicial Circuit to receive supplemental retirement benefits under the plan</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"><p>Sponsored by Commissioner Schlesinger</p>
+</div>
+<div filetype="public" parentid="BAJ7KG566097" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAJQFU4C4CBB" href="/ga/maconbibb/Board.nsf/files/BAJQFU4C4CBB/$file/3-26-2019%20-%20Ord%20Amend%20Appendix%201%20to%20Charter%20Relating%20to%20the%20M-BC%20Pension%20Plan%20to%20add%20DA.pdf">3-26-2019 - Ord Amend Appendix 1 to Charter Relating to the M-BC Pension Plan to add DA.pdf (538 KB)</a></div>
+<br><br><br>
+
+<input name="agenda-item-unique" type="hidden" value="BAFL8R5394F4">
+<h2>Agenda Item Details</h2>
+<div class="leftcol">Meeting</div>
+<div class="rightcol">Mar 26, 2019 - 3 - OPERATIONS AND FINANCE COMMITTEE</div>
+<div class="leftcol">Category</div>
+<div class="rightcol"><span class="agendanumber">11. </span>NEW HIRE DIVIDEND PROGRAM</div>
+<div class="leftcol">Subject</div>
+<div class="rightcol" id="ai-name"><span class="agendanumber">A. </span>A Resolution to create the "New Hire Dividend Program" for the Bibb County Sheriff's Office for the purpose of attracting and retaining new deputies</div>
+<div class="leftcol">Type</div>
+<div class="rightcol">Action</div>
+<br><br>
+<div class="bothcols" key="publicbody"></div>
+<div filetype="public" parentid="BAFL8R5394F4" class="bothcols ui-helper-clearfix">
+<a class="public-file" target="_blank" order="00001" unique="BAJQG74C58DD" href="/ga/maconbibb/Board.nsf/files/BAJQG74C58DD/$file/3-19-2019%20-%20Res%20Creat%20Sheriff's%20New%20Hire%20Divided%20Program.pdf">3-19-2019 - Res Creat Sheriff's New Hire Divided Program.pdf (606 KB)</a></div>
+<br><br><br>
+
+
+Ending process
+Found 8 documents
+================================================
