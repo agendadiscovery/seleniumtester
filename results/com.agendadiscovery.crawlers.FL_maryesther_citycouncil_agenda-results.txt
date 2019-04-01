@@ -1,0 +1,612 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.FL_maryesther_citycouncil_agenda
+http://cityofmaryesther.com/DocumentCenter/Index/153
+Found document: 
+	Title - 10-20-14 Amended Workshop Agenda
+	Date - 10-20-14 Amended Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1569/10-20-14-Amended-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 10-20-14 Workshop Agenda
+	Date - 10-20-14 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1568/10-20-14-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 10-6-14 Legislative Agenda
+	Date - 10-6-14 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1570/10-6-14-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 11-17-14 Workshop Agenda
+	Date - 11-17-14 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1566/11-17-14-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 11-3-14 Legislative Agenda
+	Date - 11-3-14 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1567/11-3-14-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 1-21-14 Amended Agenda w Attachment
+	Date - 1-21-14 Amended Agenda w Attachment
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1598/1-21-14--Amended-Agenda-w-Attachment
+	Text - null
+Found document: 
+	Title - 12-1-14 Legislative Agenda
+	Date - 12-1-14 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1565/12-1-14-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 1-21-14 Workshop Agenda
+	Date - 1-21-14 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1597/1-21-14-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 12-15-14 Workshop Agenda
+	Date - 12-15-14 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1564/12-15-14-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 1-6-14 Legislative Agenda
+	Date - 1-6-14 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1599/1-6-14-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 2-17-14 Fair Housing Workshop
+	Date - 2-17-14 Fair Housing Workshop
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1595/2-17-14-Fair-Housing-Workshop
+	Text - null
+Found document: 
+	Title - 2-17-14 Workshop Agenda
+	Date - 2-17-14 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1594/2-17-14-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 2-3-14 Legislative Agenda
+	Date - 2-3-14 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1596/2-3-14-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 3-17-14 Workshop Agenda
+	Date - 3-17-14 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1592/3-17-14-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 3-3-14 Legislative Agenda
+	Date - 3-3-14 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1593/3-3-14-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 4-21-14 Workshop Agenda
+	Date - 4-21-14 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1590/4-21-14-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 4-7-14 Legislative Agenda
+	Date - 4-7-14 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1591/4-7-14-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 5-19-14 Exec Session Agenda
+	Date - 5-19-14 Exec Session Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1588/5-19-14-Exec-Session-Agenda
+	Text - null
+Found document: 
+	Title - 5-19-14 Workshop Agenda
+	Date - 5-19-14 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1587/5-19-14-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 5-5-14 Legislative Agenda
+	Date - 5-5-14 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1589/5-5-14-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 6-16-14 Workshop Agenda
+	Date - 6-16-14 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1585/6-16-14--Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 6-2-14 Legislative Agenda
+	Date - 6-2-14 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1586/6-2-14-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 7-10-14 Budget Workshop
+	Date - 7-10-14 Budget Workshop
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1582/7-10-14-Budget-Workshop
+	Text - null
+Found document: 
+	Title - 7-21-14 Workshop Agenda
+	Date - 7-21-14 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1581/7-21-14-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 7-31-14 Budget Workshop 2
+	Date - 7-31-14 Budget Workshop 2
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1580/7-31-14-Budget-Workshop-2
+	Text - null
+Found document: 
+	Title - 01-20-15 Workshop Agenda
+	Date - 01-20-15 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1796/01-20-15-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 01-5-15 Legislative Agenda
+	Date - 01-5-15 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1797/01-5-15-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 02-16-15 Workshop Agenda
+	Date - 02-16-15 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1794/02-16-15-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 02-2-15 Legislative Agenda
+	Date - 02-2-15 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1795/02-2-15-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 03-16-15 Workshop Agenda
+	Date - 03-16-15 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1792/03-16-15-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 03-2-15 Legislative Agenda
+	Date - 03-2-15 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1793/03-2-15-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 03-25-15 Exec Session Agenda
+	Date - 03-25-15 Exec Session Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1791/03-25-15-Exec-Session-Agenda
+	Text - null
+Found document: 
+	Title - 04-20-15 Special Legislative Agenda
+	Date - 04-20-15 Special Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1789/04-20-15-Special-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 04-20-15 Workshop Agenda
+	Date - 04-20-15 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1788/04-20-15-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 04-6-15 Legislative Agenda
+	Date - 04-6-15 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1790/04-6-15-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 05-18-15 Workshop Agenda
+	Date - 05-18-15 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1785/05-18-15-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 05-4-15 LPA PHrng - EAR Matrix and Report
+	Date - 05-4-15 LPA PHrng - EAR Matrix and Report
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1787/05-4-15--LPA-PHrng---EAR-Matrix-and-Report
+	Text - null
+Found document: 
+	Title - 05-4-15 Legislative Agenda
+	Date - 05-4-15 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1786/05-4-15-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 06-01-15 Agenda
+	Date - 06-01-15 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1784/06-01-15-Agenda
+	Text - null
+Found document: 
+	Title - 06-15-15 Workshop Agenda
+	Date - 06-15-15 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1783/06-15-15-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 06-22-15 Special Legislative Agenda
+	Date - 06-22-15 Special Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1782/06-22-15-Special-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 07-14-15 Budget Workshop 1
+	Date - 07-14-15 Budget Workshop 1
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1780/07-14-15-Budget-Workshop-1
+	Text - null
+Found document: 
+	Title - 07-14-15 Exec Session Agenda
+	Date - 07-14-15 Exec Session Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1779/07-14-15-Exec-Session-Agenda
+	Text - null
+Found document: 
+	Title - 07-16-15 Budget Workshop 2
+	Date - 07-16-15 Budget Workshop 2
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1778/07-16-15-Budget-Workshop-2
+	Text - null
+Found document: 
+	Title - 07-20-15 Workshop Agenda
+	Date - 07-20-15 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1777/07-20-15-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 07-21-15 Budget Workshop 3
+	Date - 07-21-15 Budget Workshop 3
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1776/07-21-15-Budget-Workshop-3
+	Text - null
+Found document: 
+	Title - 07-28-15 Budget Workshop 4
+	Date - 07-28-15 Budget Workshop 4
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1775/07-28-15-Budget-Workshop-4
+	Text - null
+Found document: 
+	Title - 07-30-15 Budget Workshop 5
+	Date - 07-30-15 Budget Workshop 5
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1774/07-30-15-Budget-Workshop-5
+	Text - null
+Found document: 
+	Title - 07-6-15 Legislative Agenda
+	Date - 07-6-15 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1781/07-6-15-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 08-11-15 Budget Workshop 8
+	Date - 08-11-15 Budget Workshop 8
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1771/08-11-15-Budget-Workshop-8
+	Text - null
+Found document: 
+	Title - 01-19-16 LPA Agenda
+	Date - 01-19-16 LPA Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1836/01-19-16-LPA-Agenda
+	Text - null
+Found document: 
+	Title - 01-19-16 Workshop Agenda
+	Date - 01-19-16 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1835/01-19-16-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 02-1-16 Legislative Agenda
+	Date - 02-1-16 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1834/02-1-16-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 02-15-16 Workshop Agenda
+	Date - 02-15-16 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1833/02-15-16-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 03-21-16 Council Public Hearing Agenda
+	Date - 03-21-16 Council Public Hearing Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1830/03-21-16-Council-Public-Hearing-Agenda
+	Text - null
+Found document: 
+	Title - 03-21-16 Public Hearing Agenda
+	Date - 03-21-16 Public Hearing Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1829/03-21-16-Public-Hearing-Agenda
+	Text - null
+Found document: 
+	Title - 03-21-16 Special Legislative
+	Date - 03-21-16 Special Legislative
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1828/03-21-16-Special-Legislative
+	Text - null
+Found document: 
+	Title - 03-21-16 Workshop Agenda
+	Date - 03-21-16 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1827/03-21-16-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 03-7-16 Legislative Agenda
+	Date - 03-7-16 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1832/03-7-16-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 03-7-16 LPA Public Hearing Agenda
+	Date - 03-7-16 LPA Public Hearing Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1831/03-7-16-LPA-Public-Hearing-Agenda
+	Text - null
+Found document: 
+	Title - 04-04-16 Legislative Agenda
+	Date - 04-04-16 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1826/04-04-16-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 04-18-16 Workshop Agenda
+	Date - 04-18-16 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1825/04-18-16-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 04-25-16 Special Legislative Agenda
+	Date - 04-25-16 Special Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1824/04-25-16-Special-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 05-02-16 Legislative Agenda
+	Date - 05-02-16 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1822/05-02-16-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 05-02-16 Legislative Agenda - Amended
+	Date - 05-02-16 Legislative Agenda - Amended
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1823/05-02-16-Legislative-Agenda---Amended
+	Text - null
+Found document: 
+	Title - 05-16-16 Spec Legislative Meeting
+	Date - 05-16-16 Spec Legislative Meeting
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1821/05-16-16-Spec-Legislative-Meeting
+	Text - null
+Found document: 
+	Title - 05-16-16 Workshop Agenda
+	Date - 05-16-16 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1820/05-16-16-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 06-06-16 Legislative Agenda
+	Date - 06-06-16 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1819/06-06-16-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 06-20-16 Council Public Hearing Agenda
+	Date - 06-20-16 Council Public Hearing Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1818/06-20-16-Council-Public-Hearing-Agenda
+	Text - null
+Found document: 
+	Title - 06-20-16 Workshop Agenda
+	Date - 06-20-16 Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1817/06-20-16-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 06-21-16 AmendedSpecial Legislative - Interim CM Interview
+	Date - 06-21-16 AmendedSpecial Legislative - Interim CM Interview
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1816/06-21-16-AmendedSpecial-Legislative---Interim-CM-Interview
+	Text - null
+Found document: 
+	Title - 06-21-16 Special Legislative - Interim CM Interview
+	Date - 06-21-16 Special Legislative - Interim CM Interview
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1815/06-21-16-Special-Legislative---Interim-CM-Interview
+	Text - null
+Found document: 
+	Title - 06-27-16 Special Legislative
+	Date - 06-27-16 Special Legislative
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1814/06-27-16-Special-Legislative
+	Text - null
+Found document: 
+	Title - 07-05-16 Legislative Agenda
+	Date - 07-05-16 Legislative Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1813/07-05-16-Legislative-Agenda
+	Text - null
+Found document: 
+	Title - 07-12-16 Budget Workshop 1
+	Date - 07-12-16 Budget Workshop 1
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1812/07-12-16-Budget-Workshop-1
+	Text - null
+Found document: 
+	Title - 01-17-17 Agenda
+	Date - 01-17-17 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1857/01-17-17-Agenda
+	Text - null
+Found document: 
+	Title - 02-06-17 Agenda
+	Date - 02-06-17 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1856/02-06-17-Agenda
+	Text - null
+Found document: 
+	Title - 02-20-17 Agenda
+	Date - 02-20-17 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1854/02-20-17-Agenda
+	Text - null
+Found document: 
+	Title - 02-6-17 Exec Session Agenda
+	Date - 02-6-17 Exec Session Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1855/02-6-17-Exec-Session-Agenda
+	Text - null
+Found document: 
+	Title - 03-20-17 Agenda
+	Date - 03-20-17 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1853/03-20-17-Agenda
+	Text - null
+Found document: 
+	Title - 04-03-17 Agenda
+	Date - 04-03-17 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1852/04-03-17-Agenda
+	Text - null
+Found document: 
+	Title - 05-01-17 Agenda
+	Date - 05-01-17 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1851/05-01-17-Agenda
+	Text - null
+Found document: 
+	Title - 05-04-17 Special Meeting
+	Date - 05-04-17 Special Meeting
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1850/05-04-17--Special-Meeting
+	Text - null
+Found document: 
+	Title - 06-05-17 Agenda
+	Date - 06-05-17 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1849/06-05-17-Agenda
+	Text - null
+Found document: 
+	Title - 07-03-17 Agenda
+	Date - 07-03-17 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1848/07-03-17-Agenda
+	Text - null
+Found document: 
+	Title - 07-03-17 Budget Workshop Agenda
+	Date - 07-03-17 Budget Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1847/07-03-17-Budget-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 07-24-17 Budget Workshop Agenda
+	Date - 07-24-17 Budget Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1846/07-24-17-Budget-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 08-21-17 Budget Workshop Agenda
+	Date - 08-21-17 Budget Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1844/08-21-17-Budget-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 08-23-17 Budget Workshop Agenda
+	Date - 08-23-17 Budget Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1843/08-23-17-Budget-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 08-30-17 Budget Workshop Agenda
+	Date - 08-30-17 Budget Workshop Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1842/08-30-17-Budget-Workshop-Agenda
+	Text - null
+Found document: 
+	Title - 08-7-17 Agenda
+	Date - 08-7-17 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1845/08-7-17-Agenda
+	Text - null
+Found document: 
+	Title - 09-07-17 Agenda
+	Date - 09-07-17 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1841/09-07-17-Agenda
+	Text - null
+Found document: 
+	Title - 09-18-17 Agenda
+	Date - 09-18-17 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1840/09-18-17-Agenda
+	Text - null
+Found document: 
+	Title - 10-02-17 Agenda
+	Date - 10-02-17 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1839/10-02-17-Agenda
+	Text - null
+Found document: 
+	Title - 11-06-17 Agenda
+	Date - 11-06-17 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1838/11-06-17-Agenda
+	Text - null
+Found document: 
+	Title - 12-04-17 Agenda
+	Date - 12-04-17 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1837/12-04-17-Agenda
+	Text - null
+Found document: 
+	Title - 01-10-18 Agenda
+	Date - 01-10-18 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1858/01-10-18-Agenda
+	Text - null
+Found document: 
+	Title - 02-05-18 Agenda
+	Date - 02-05-18 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1859/02-05-18-Agenda
+	Text - null
+Found document: 
+	Title - 02-12-18 Spcial Meeting Agenda
+	Date - 02-12-18 Spcial Meeting Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1860/02-12-18-Spcial-Meeting-Agenda
+	Text - null
+Found document: 
+	Title - 03-05-18 Agenda
+	Date - 03-05-18 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1861/03-05-18-Agenda
+	Text - null
+Found document: 
+	Title - 04-02-18 Agenda
+	Date - 04-02-18 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1862/04-02-18-Agenda
+	Text - null
+Found document: 
+	Title - 05-07-18 Agenda
+	Date - 05-07-18 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1863/05-07-18-Agenda
+	Text - null
+Found document: 
+	Title - 06-04-18 Agenda
+	Date - 06-04-18 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1864/06-04-18-Agenda
+	Text - null
+Found document: 
+	Title - 06-18-18 Special Mtg Agenda
+	Date - 06-18-18 Special Mtg Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1865/06-18-18-Special-Mtg-Agenda
+	Text - null
+Found document: 
+	Title - 07-02-18 Agenda
+	Date - 07-02-18 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1866/07-02-18-Agenda
+	Text - null
+Found document: 
+	Title - 07-16-18 Special Mtg Agenda
+	Date - 07-16-18 Special Mtg Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1867/07-16-18-Special-Mtg-Agenda
+	Text - null
+Found document: 
+	Title - 08-06-18 Regular Mtg Agenda
+	Date - 08-06-18 Regular Mtg Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1869/08-06-18-Regular-Mtg-Agenda
+	Text - null
+Found document: 
+	Title - 08-06-18 Regular Mtg Agenda, Amended
+	Date - 08-06-18 Regular Mtg Agenda, Amended
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1868/08-06-18-Regular-Mtg-Agenda-Amended
+	Text - null
+Found document: 
+	Title - 08-20-18 Special Mtg Agenda
+	Date - 08-20-18 Special Mtg Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1983/08-20-18-Special-Mtg-Agenda
+	Text - null
+Found document: 
+	Title - 09-05-18 Agenda
+	Date - 09-05-18 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/1988/09-05-18-Agenda
+	Text - null
+Found document: 
+	Title - 09-17-18 Special Mtg Packet - Amended
+	Date - 09-17-18 Special Mtg Packet - Amended
+	Link - http://cityofmaryesther.com/DocumentCenter/View/2004/09-17-18-Special-Mtg-Packet---Amended
+	Text - null
+Found document: 
+	Title - 10-01-18 Agenda (Amended)
+	Date - 10-01-18 Agenda (Amended)
+	Link - http://cityofmaryesther.com/DocumentCenter/View/2046/10-01-18-Agenda-Amended
+	Text - null
+Found document: 
+	Title - 11-05-18 Regular Mtg Agenda
+	Date - 11-05-18 Regular Mtg Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/2139/11-05-18-Regular-Mtg-Agenda
+	Text - null
+Found document: 
+	Title - 12-03-18 Agenda
+	Date - 12-03-18 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/2159/12-03-18-Agenda
+	Text - null
+Found document: 
+	Title - 01-07-19 Agenda
+	Date - 01-07-19 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/2432/01-07-19-Agenda
+	Text - null
+Found document: 
+	Title - 01-22-19 Special Mtg Agenda
+	Date - 01-22-19 Special Mtg Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/2441/01-22-19-Special-Mtg-Agenda
+	Text - null
+Found document: 
+	Title - 02-04-19 Agenda
+	Date - 02-04-19 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/2446/02-04-19-Agenda
+	Text - null
+Found document: 
+	Title - 03-04-19 LPA Agenda
+	Date - 03-04-19 LPA Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/2467/03-04-19-LPA-Agenda
+	Text - null
+Found document: 
+	Title - 03-04-19 Regular Mtg Agenda
+	Date - 03-04-19 Regular Mtg Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/2470/03-04-19-Regular-Mtg-Agenda
+	Text - null
+Found document: 
+	Title - 04-01-19 Agenda
+	Date - 04-01-19 Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/2493/04-01-19-Agenda
+	Text - null
+Found document: 
+	Title - 04-01-19 LPA Agenda
+	Date - 04-01-19 LPA Agenda
+	Link - http://cityofmaryesther.com/DocumentCenter/View/2499/04-01-19-LPA-Agenda
+	Text - null
+
+Ending process
+Found 121 documents
+================================================
