@@ -1,0 +1,152 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.CA_missionviejo_citycouncil_agenda
+http://missionviejo.granicus.com/ViewPublisher.php?view_id=12
+Found document: 
+	Title - City Council Meeting Summary
+	Date - Mar 26, 2019
+	Link - https://dms.cityofmissionviejo.org/OnBaseAgendaOnline/Documents/Downloadfile/City_Council_Meeting_7829_Agenda_Packet_3_26_2019_5_00_00_PM.pdf?documentType=5&meetingId=7829&isAttachment=True
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Mar 12, 2019
+	Link - https://dms.cityofmissionviejo.org/OnBaseAgendaOnline/Documents/Downloadfile/City_Council_Meeting_7828_Agenda_Packet_3_12_2019_5_00_00_PM.pdf?documentType=5&meetingId=7828&isAttachment=True
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Feb 26, 2019
+	Link - https://dms.cityofmissionviejo.org/OnBaseAgendaOnline/Documents/Downloadfile/City_Council_Meeting_7822_Agenda_Packet_2_26_2019_5_00_00_PM.pdf?documentType=5&meetingId=7822&isAttachment=True
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Feb 12, 2019
+	Link - https://dms.cityofmissionviejo.org/OnBaseAgendaOnline/Documents/Downloadfile/City_Council_Meeting_7820_Agenda_Packet_2_12_2019_5_00_00_PM.pdf?documentType=5&meetingId=7820&isAttachment=True
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Jan 22, 2019
+	Link - https://dms.cityofmissionviejo.org/OnBaseAgendaOnline/Documents/Downloadfile/City_Council_Meeting_7823_Agenda_Packet_1_22_2019_5_00_00_PM.pdf?documentType=5&meetingId=7823&isAttachment=True
+	Text - null
+Found document: 
+	Title - City Council Meeting Summary
+	Date - Jan 8, 2019
+	Link - https://dms.cityofmissionviejo.org/OnBaseAgendaOnline/Documents/Downloadfile/City_Council_Meeting_7815_Agenda_Packet_1_8_2019_5_00_00_PM.pdf?documentType=5&meetingId=7815&isAttachment=True
+	Text - null
+Found document: 
+	Title - Town Hall Meeting on SDG&E Rates
+	Date - Jan 7, 2019
+	Link - null
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Dec 11, 2018
+	Link - https://dms.cityofmissionviejo.org/OnBaseAgendaOnline/Documents/Downloadfile/City_Council_Meeting_7778_Agenda_Packet_12_11_2018_5_00_00_PM.pdf?documentType=5&meetingId=7778&isAttachment=True
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Nov 27, 2018
+	Link - https://dms.cityofmissionviejo.org/OnBaseAgendaOnline/Documents/Downloadfile/City_Council_Meeting_7777_Agenda_Packet_11_27_2018_5_00_00_PM.pdf?documentType=5&meetingId=7777&isAttachment=True
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Nov 13, 2018
+	Link - https://dms.cityofmissionviejo.org/OnBaseAgendaOnline/Documents/Downloadfile/City_Council_Meeting_7779_Agenda_Packet_11_13_2018_5_00_00_PM.pdf?documentType=5&meetingId=7779&isAttachment=True
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Oct 23, 2018
+	Link - https://dms.cityofmissionviejo.org/OnBaseAgendaOnline/Documents/Downloadfile/City_Council_Meeting_7775_Agenda_Packet_10_23_2018_5_00_00_PM.pdf?documentType=5&meetingId=7775&isAttachment=True
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Oct 9, 2018
+	Link - https://dms.cityofmissionviejo.org/OnBaseAgendaOnline/Documents/Downloadfile/City_Council_Meeting_7774_Agenda_Packet_10_9_2018_5_00_00_PM.pdf?documentType=5&meetingId=7774&isAttachment=True
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Sep 25, 2018
+	Link - https://dms.cityofmissionviejo.org/OnBaseAgendaOnline/Documents/Downloadfile/City_Council_Meeting_7773_Agenda_Packet_9_25_2018_5_00_00_PM.pdf?documentType=5&meetingId=7773&isAttachment=True
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Sep 11, 2018
+	Link - https://dms.cityofmissionviejo.org/OnBaseAgendaOnline/Documents/Downloadfile/City_Council_Meeting_7765_Agenda_Packet_9_11_2018_5_00_00_PM.pdf?documentType=5&meetingId=7765&isAttachment=True
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Aug 28, 2018
+	Link - https://dms.cityofmissionviejo.org/OnBaseAgendaOnline/Documents/Downloadfile/City_Council_Meeting_7760_Agenda_Packet_8_28_2018_5_00_00_PM.pdf?documentType=5&meetingId=7760&isAttachment=True
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Jul 10, 2018
+	Link - https://dms.cityofmissionviejo.org/OnBaseAgendaOnline/Documents/Downloadfile/City_Council_Meeting_7743_Agenda_Packet_7_10_2018_5_00_00_PM.pdf?documentType=5&meetingId=7743&isAttachment=True
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Jun 26, 2018
+	Link - https://dms.cityofmissionviejo.org/OnBaseAgendaOnline/Documents/Downloadfile/City_Council_Meeting_7549_Agenda_Packet_6_26_2018_5_00_00_PM.pdf?documentType=5&meetingId=7549&isAttachment=True
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Jun 12, 2018
+	Link - https://dms.cityofmissionviejo.org/OnBaseAgendaOnline/Documents/Downloadfile/City_Council_Meeting_7548_Agenda_Packet_6_12_2018_5_00_00_PM.pdf?documentType=5&meetingId=7548&isAttachment=True
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - May 22, 2018
+	Link - null
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - May 8, 2018
+	Link - null
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Apr 24, 2018
+	Link - null
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Apr 10, 2018
+	Link - null
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Mar 27, 2018
+	Link - null
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Mar 13, 2018
+	Link - null
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Feb 27, 2018
+	Link - null
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Feb 13, 2018
+	Link - null
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Jan 23, 2018
+	Link - null
+	Text - null
+Found document: 
+	Title - Districting Workshop (Audio)
+	Date - Jan 12, 2018
+	Link - null
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Jan 9, 2018
+	Link - null
+	Text - null
+
+Ending process
+Found 29 documents
+================================================
