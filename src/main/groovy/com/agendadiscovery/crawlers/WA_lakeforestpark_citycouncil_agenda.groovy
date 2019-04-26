@@ -65,11 +65,11 @@ class WA_lakeforestpark_citycouncil_agenda extends BaseCrawler{
             try {
                 //grab document stuff
                 doc.title = driver.findElementByXPath("//div[@id=\"videoTitle\"]").getText()
-                log.info("\tTitle: ${doc.title}")
+                //log.info("\tTitle: ${doc.title}")
                 doc.dateStr = driver.findElementByXPath("//span[@id=\"videoRecorded\"]").getText()
-                log.info("\tDate: ${doc.dateStr}")
+                //log.info("\tDate: ${doc.dateStr}")
                 doc.link = driver.findElementByXPath("//iframe[@id=\"docIframe\"]").getAttribute('src')
-                log.info("\tlink: ${doc.link}")
+                //log.info("\tlink: ${doc.link}")
             }
             catch (Exception e) {
                 log.debug(e.message)
