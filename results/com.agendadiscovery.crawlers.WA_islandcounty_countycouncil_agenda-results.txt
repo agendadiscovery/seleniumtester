@@ -1,0 +1,452 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.WA_islandcounty_countycouncil_agenda
+https://media.avcaptureall.com/#/?prefilter=278%2c-1&target=_blank&tabs=rec%7Cupc&regcode=
+Found document: 
+	Title - Island County BOCC
+	Date - 04/23/2019, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F220a4941-a9f9-4aba-9120-fb432ce24b83%2FApril_23_2019.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 04/16/2019, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fb0f72ca4-f0ca-4557-98d7-8731340df0c9%2FApril_16_2019.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 04/09/2019, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F05d0d3c3-7a50-4234-b6fc-dfa655469cbb%2FApril_9_2019.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 04/02/2019, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F0d653d3f-c72d-4616-99a1-f5dac00984b0%2FApril_2_2019.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 03/26/2019, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Feb591dd9-01fc-4fc1-bb7a-a8313834b97a%2FMarch_26_2019.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 03/19/2019, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F2f670433-d92b-4c91-a689-9c2d339f0904%2FMarch_19_2019.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 03/12/2019, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F6aa72b21-a0dc-41e4-8d17-16f50e01b51d%2FMarch_12_2019.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 03/05/2019, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fbcedaf15-bd20-4fad-b2ac-6166e617964b%2FMarch_5_2019.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 02/26/2019, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F6af61fb4-66ae-414d-b453-5bed65fb3133%2FFebruary_26_2019.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 02/19/2019, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fca3916a2-4567-473a-ab07-4ef1c052a863%2FFebruary_19_2019.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 02/12/2019, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fbdd969ff-32ab-49f8-aeee-b267dcdec8d6%2FFebruary_12_2019.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 02/05/2019, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F0e2ab157-9b46-4a65-8c79-700ea321e6c7%2FFebruary_5_2019.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC w Finance Committee
+	Date - 01/22/2019, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Ffba8a448-1da6-43d6-90c9-509d2a76711c%2FJanuary_22_2019.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 01/15/2019, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fa206e1fc-bfca-4260-811b-63a1dccfb208%2FJanuary_15_2019.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 01/08/2019, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F1b873a63-9f5e-4b87-a181-399f7b4b806f%2FJanuary_8_2019.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 12/18/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F4f94d5a1-5a8d-45fd-9fed-548c3011df02%2FDecember_18_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 12/11/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fdd3f75e4-f770-4d96-8229-b711a854eb89%2FDecember_11_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 12/04/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fbd368126-4b69-4b5e-8393-975cad7d1b68%2FDecember_4_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC - Budget
+	Date - 12/03/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F4c7e5d8a-ac4f-4227-990b-408038b70644%2FDecember_3_2018_Special_Session_Budget.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 11/27/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F06af0dfd-624e-4fbc-95ca-ed4715d3e3c7%2FNovember_27_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 11/20/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F4936cd81-6b81-43b8-a140-bbfff46019df%2FNovember_20_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 11/13/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fa12587f6-aad0-4201-b560-5810a95bf735%2FNovember_13_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 11/06/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fad1d0275-f7fc-4a68-accd-17391eab3435%2FNovember_6_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC Budget
+	Date - 10/24/2018, 1:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fffa6fdd2-d6af-4074-baf4-6aa59577abc0%2FOctober_23_2018_Meeting_Reconvened_for_Budget_Workshop.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 10/23/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fbfbe4d0d-a28f-4a3a-8978-0f585de710f3%2FOctober_23_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - BOCC Special Session - Budget
+	Date - 10/22/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fd6cf7188-e530-4953-9427-e1a21a911c08%2FOctober_22_2018_Budget_Workshop_SS.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 10/16/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fd8a6cab8-3c83-4fcf-82d3-c1609ec8c700%2FOctober_16_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC incl Budget
+	Date - 10/09/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F48ba1588-db7d-4caf-af6e-c5a4f1380d07%2FOctober_9_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 10/02/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fbc526f42-386d-4b45-8e2c-1aa7180e8d5d%2FOctober_2_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC Final
+	Date - 09/25/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fe6a7e296-e22b-41e0-8f03-05e0cbbdd4e2%2FSeptember_25_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 09/18/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F653939d3-3e72-4402-a5b0-b30514cbf0d4%2FSeptember_18_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 09/11/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F2cf460c0-14f0-432a-a5aa-504c5402881c%2FSeptember_11_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 09/04/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F4922b5df-af81-486d-8bb6-e8d076ca5a48%2FSeptember_4_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 08/28/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F68a4d9cc-b0c7-42d1-96f8-0db30ca93b1d%2FAugust_28_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 08/21/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F178cdd70-a4b5-4595-91b8-129d6fcaafe5%2FAugust_21_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 08/14/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F68326d9b-9fdc-4fc2-aed6-7d217a485e66%2FAugust_14_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 08/07/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F9d76857e-0e28-46bd-92e1-ee14579384d8%2FAugust_7_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 07/24/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F0ae87c48-ee09-4f90-bccb-6896e9ff9bd6%2FJuly_24_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 07/17/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F1fd8292b-e546-46d5-863e-84efabf33684%2FJuly_17_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 07/10/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fbf64d7d4-7cdd-4490-b534-764786e7fc47%2FJuly_10_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 07/03/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fd1db1aba-a3a4-431c-b4e2-349ad29253f9%2FJuly_3_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 06/26/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F2011cbf3-7390-4f0f-ada4-52934db573aa%2FJune_26_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 06/19/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F526e5bb7-ebc8-493d-b11e-57ae866c00df%2FJune_19_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 06/12/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F6d7c460c-76be-4b41-b60c-6a16c689d73c%2FJune_12_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 06/05/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F53f452ea-044c-4701-b770-9c0302206221%2FJune_5_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County B.O.C.C.
+	Date - 05/22/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fad3c92ce-d12f-4521-beba-f4e451a5c03d%2FMay_22_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 05/15/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fcd166595-01eb-4e97-8768-081423efe14e%2FMay_15_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 05/08/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Ff6a51ce8-bb63-4447-907a-56974084012d%2FMay_8_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 05/01/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F82142a16-67d7-4c3a-be50-121b657a8902%2FMay_1_2018_Regular_Session.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 04/24/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fc2f8d0c3-c016-4452-ba94-acd141cc1413%2FApril_24_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 04/17/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F8b4911fb-70c5-448e-aeab-86767680985d%2FApril_17_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 04/10/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F4976a4e1-2d69-422b-b409-5d5f4d3ea9fc%2FApril_10_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 04/03/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F88a0c0a8-bcda-4f4c-9b1a-116f19b8217d%2FApril_3_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 03/27/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fbfedfdac-062c-4468-a8e3-44967bae3629%2FMarch_27_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 03/20/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F912760b6-d109-436b-a56b-b5d4cdd89a11%2FMarch_20_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 03/13/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F3b245949-543e-43a0-8aee-3de367a1f193%2FMarch_13_2018_2.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 03/06/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F356a1722-ad4e-4384-82d3-909a44a177cb%2FMarch_6_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 02/27/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fc0706054-af3b-4d42-a772-fdebd2db0b2b%2FFebruary_27_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 02/20/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F1f1ce0ca-8df3-4f68-bf20-5587e01ac838%2FFebruary_20_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC - PM
+	Date - 02/20/2018, 1:30 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F0c48b472-2995-4ebc-b9f9-cca3afba3c89%2FFebruary_20_2018_MCO_Presentation.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 02/13/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fd3c8b3e6-d3bf-413a-973d-172058350670%2FFebruary_13_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 02/06/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F399210b5-dea5-4f20-b7b7-a3fecb44afa6%2FFebruary_6_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC Special Session
+	Date - 01/30/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Ff6f08c1d-9759-4cbc-bf15-6036389905e7%2FJanuary_30_2018_Special_Session_-_Barnum_Point.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 01/23/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fc1c1f723-94b4-4351-842e-088b6e7fd1d7%2FJanuary_23_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 01/16/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fd4bc759c-a705-426a-8916-6cda06f91cfd%2FJanuary_16_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 01/09/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F8a7f46b0-544d-4bef-932e-39ca0ea0a425%2FJanuary_9_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 01/02/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fd3b4549e-70e5-4720-9b75-8cea24869ce7%2FJanuary_2_2018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 12/26/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fb9b1c9ed-75df-442f-b416-84d7c46ae114%2FDecember_26_2017.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 12/19/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F0b2d562e-ceef-43e7-b65d-15f29f5bdd22%2FDecember_19_2017.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC Final
+	Date - 12/12/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fc13b572b-ff9d-4dff-8ba1-8adf4a1333e3%2FDecember_12_2017.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC - Legislators
+	Date - 12/05/2017, 1:30 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F92fa44fb-a790-47de-b73b-9aefc77ba25e%2FDecember_5_2017_Meeting_Legislators.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 12/05/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F8d4630ef-44ae-4537-a1c7-c0ccd0e2743b%2FDecember_5_2017.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC Special Session
+	Date - 12/04/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F1b4962c7-cc1a-4e92-bc11-1abf319d26c5%2FDecember_4_2017_Special_Session_Budget.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC Final
+	Date - 11/28/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F1a1aebb8-de3a-4f84-9367-fb942790e391%2FNovember_28_2017.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 11/21/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F42182819-6e0a-45cf-acd8-827a491947ec%2FNovember_21_2017.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 11/14/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F1c848ad4-4909-4bff-a8ef-0cf49e6e4a0a%2FNovember_14_2017.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 11/07/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fb761b473-238b-45a8-b943-f64c9f63994a%2FNovember_7_2017.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC Budget
+	Date - 11/06/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Ff1bfc842-8859-47d2-937f-1d5ba8a7c541%2FNovember_6_2017_Budget_Special_Session.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC Budget PM
+	Date - 10/31/2017, 2:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F58306d25-315b-4a61-87a0-b7cec2d9ee19%2FOctober_31_2017_Budget_Special_Session.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC Budget
+	Date - 10/31/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F40aa857c-7a29-4a62-8564-25d88d671bec%2FOctober_31_2017_Budget_Special_Session.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC Budget
+	Date - 10/30/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fc6eb2982-12e3-4172-98e3-6165b4436765%2FOctober_30_2017_Budget_Special_Session.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 10/24/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F64d7647b-f824-455e-b08f-bf186aef352f%2FOctober_24_2017.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC Budget
+	Date - 10/19/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F964288a6-badf-4d28-9d19-d8b600b003b8%2FOctober_19_2017_Budget.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 10/17/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F4ff71f2f-6957-4368-b2ec-4f9009b74f1f%2FOctober_17_2017.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 10/10/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fec02fe28-a8cf-4c52-acb7-2529a111f335%2FOctober_10_2017.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 10/03/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2F74e05fcc-f4a1-4e5f-b34e-10a21b12d309%2FOctober_3_2017.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 09/26/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fb7418f61-6b93-4881-b297-73212c9a0ba1%2FSeptember_26%2C_2017.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC
+	Date - 09/19/2017, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Faa344ccc-48d2-4ad7-ad36-33fe80827640%2FSeptember_19_2017.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Island County BOCC Budget PM
+	Date - 09/18/2017, 2:30 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F278%2Fbe1cfdc9-6f42-4697-84d7-88aa44bf5226%2FSpecial_Session_September_18_2017(2)_Budget.pdf#zoom=auto
+	Text - null
+
+Ending process
+Found 89 documents
+================================================

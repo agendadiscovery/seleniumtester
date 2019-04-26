@@ -1,0 +1,402 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.WA_gigharbor_citycouncil_agenda
+http://media.avcaptureall.com/#/?prefilter=761%2c4551&target=_blank&view=list&tabs=rec%7Cupc
+Found document: 
+	Title - City Council
+	Date - 04/22/2019, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F67fd3c4a-78a6-41f9-9cb8-4aa6a54495ba%2FCC_Agenda_04-22-19.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 04/08/2019, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F3d240de4-08f6-490a-92dc-793c91488d4d%2FCC_Agenda_04-08-19.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Study Session
+	Date - 04/01/2019, 4:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F8f60eba3-9bf8-4286-b445-d2c689ade30a%2FCC_Study_Session_Agenda_04-01-19.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 03/25/2019, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F2293f681-096b-4ac2-9990-ef35f67b99a1%2FCC_Agenda_03-25-19.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 03/18/2019, 5:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fb36d6904-cb7e-4397-b64f-cb81afbeee15%2FCC_Study_Session_Agenda_03-18-19.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Public Works Committee
+	Date - 03/12/2019, 3:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F8641a0d6-1462-4259-8acd-0271bf41cf65%2FPWC_Agenda-REV_3-12-19_AV.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 03/11/2019, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F8acb5b12-bfe7-4d86-a0ae-fd3a43947788%2FCC_Agenda_03-11-19.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Retreat
+	Date - 03/02/2019, 8:30 AM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F017b8840-bb2b-43c2-88e4-6b80200b6303%2FCouncil_Retreat_Agenda_03-02-19.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Worksession
+	Date - 02/28/2019, 1:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F828795be-3c32-4fae-b568-bb20b21c6114%2FAgenda_02_28_19.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 02/25/2019, 5:32 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fdd099a4e-5392-4914-beaf-75d3858c2eb1%2FCC_Agenda_02-25-19.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 02/20/2019, 4:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fb5337ac5-99cb-416a-bc62-ad07faeaa008%2FCC_Agenda_01-20-19.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Study Session
+	Date - 02/04/2019, 4:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fc8df282f-f99b-4f71-acd0-a9167ad42ef5%2FAgenda_02_04_19.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 01/28/2019, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fd450d231-1166-47d5-8e38-788d6bb89140%2FCC_Agenda_01-28-19_updated_version.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Study Session
+	Date - 01/22/2019, 4:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Faebc0dd5-9146-4ef2-8a33-2fc56c4b7b6e%2FCC_Agenda_01-22-19.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 01/14/2019, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fd2e9820b-633a-4df6-aeef-24e3a029a056%2FCC_Agenda_01-14-19.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Study Session
+	Date - 12/17/2018, 4:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fee3f44bd-1c8b-417c-82e0-d3db3c4e477e%2FCC_Agenda_12-17-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 12/10/2018, 5:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F640680c5-2a16-4d47-9f9b-b412428f6c69%2FCC_Agenda_12-10-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - 11/26/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F4aca5e82-5d05-4649-967e-beaec6004dd4%2FCC_Agenda_11-26-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - 11/13/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F11cfeecb-ec05-4c4a-be28-5b968f468248%2FCC_Agenda_11-13-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Special Meeting
+	Date - 11/01/2018, 3:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fcb4ffd9a-1e22-4e6f-8e7b-d5353f8cdb95%2FCC_Agenda_11-01-18_Special_Meeting.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Study Session
+	Date - 10/29/2018, 4:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F8125f448-0b0a-4cd8-ad62-c2f815028ec5%2FCC_Agenda_10-29-18_Study_Session.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Study Session Special Meeting
+	Date - 10/23/2018, 3:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F5e59644a-ac98-4988-8a47-16925ae63aec%2FCC_Agenda_10-23-18_Budget_III.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council & Study Session
+	Date - 10/22/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fc0c31251-058f-483a-a4bf-0ab2065cd918%2FCC_Agenda_10-22-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Special Meeting
+	Date - 10/18/2018, 4:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fe590d3f3-5d44-418f-b5b3-a54099962887%2FCC_Agenda_10-18-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Special Meeting
+	Date - 10/17/2018, 3:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F8dc537fd-cb18-423b-a342-d1c6f542a5f3%2FCC_Agenda_10-17-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Study Session
+	Date - 10/16/2018, 3:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fd6a4d7d9-0ab5-413c-b65e-28ba869733f0%2FCC_Agenda_10-16-18_Budget_II.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Study Session
+	Date - 10/15/2018, 3:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Faf99e654-4133-4b66-8c46-43f75d9f7412%2FCC_Agenda_10-15-18_Budget_I.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Study Session
+	Date - 10/10/2018, 3:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fe8d61288-ba39-4b99-852e-d84ac732990b%2FCC_Study_Session_Agenda_10_10_18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 10/08/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F4bde927f-29e1-45c5-81d3-e8bda08ce477%2FCC_Agenda_10-08-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Study Session
+	Date - 09/26/2018, 3:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F65b57c37-cc13-4ef6-aa65-ccc8b60253db%2FCC_Agenda_09-26-18_Study_Session.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 09/24/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F02d92602-fa4c-4715-8b6a-42e872a7c98f%2FCC_Agenda_09-24-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Study Session
+	Date - 09/18/2018, 3:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F7bcdbb3c-fc94-45e7-bf80-c64e3b1a8a61%2FAgenda_09-18-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council and Planning Commission Joint Study Session
+	Date - 09/17/2018, 5:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F9461fe05-3127-491c-9473-1d49072f3b59%2FCC_Study_Session_Agenda_09_17_18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Arts Commission
+	Date - 09/12/2018, 10:00 AM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fc8fdb788-23e5-4c53-b4b3-23e949e85d3e%2FGHAC_Agenda_09-12-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Study Session
+	Date - 09/11/2018, 3:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F24e0f540-8533-4bfd-b833-6834cdc021a1%2FAgenda_09-11-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 09/10/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F15a7c266-c3d8-47c6-b1e8-d0add104023c%2FCC_Agenda_09-10-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 08/13/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fe22f0cf3-3dbd-4b36-8389-4e27ce234ff1%2FCC_Agenda_08-13-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Study Session
+	Date - 07/30/2018, 5:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F2e97850a-a5f8-4124-ab0e-79a787089ff8%2F7.30.18_CC_Study_Session_agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 07/23/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Ff018911e-59d5-4219-b547-b2d99954b673%2FCC_Agenda_07-23-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Study Session
+	Date - 07/16/2018, 5:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fd184f4f1-55bc-428f-aba2-d7c084da5a88%2F7.16.18_CC_work-study_meeting_agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 07/09/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fdf5070b7-cd52-40ac-87c9-b9b357629779%2FCC_Agenda_07-09-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Worksession
+	Date - 06/27/2018, 4:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F32868e73-9b94-46f9-8c98-538fc309c996%2F6.27.18_CC_work-study_meeting_agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 06/25/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fbf4e4260-0d67-4b29-9d94-3db4c8a94020%2FCC_Agenda_06-25-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Worksession
+	Date - 06/18/2018, 5:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fae4e75d8-a3df-4f7b-970c-2c8bea6b39ee%2FCC_Agenda_06-18-18_Worksession_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 06/11/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Ff6a0c644-d0c0-4ecb-9c85-6ff61ffda4fb%2FCC_Agenda_06-11-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Worksession
+	Date - 06/06/2018, 4:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fb914920d-a2a1-44ce-8014-9d55f503e21f%2FCC_Agenda_06-06-18_Worksession_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Worksession
+	Date - 05/29/2018, 7:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Ff4b4eff4-0e13-4885-8eab-a5852d24b88d%2FCC_Agenda_05-29-18_Worksession_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 05/29/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F0b5b0256-016f-4b72-9686-e3cf8d1eb69b%2FCC_Agenda_05-29-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 05/14/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F2972ec70-261f-45c8-8dbd-8a7606a128d8%2FCC_Agenda_05-14-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Worksession
+	Date - 04/30/2018, 3:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F1f616b70-f1ee-4f0d-abca-37daeb6cd63b%2FCC_Agenda_04-30-18_Worksession_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 04/23/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F983afb07-6943-4e7f-aa11-923efd410594%2FCC_Agenda_04-23-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 04/09/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F8c86cb51-8fa9-4074-a883-02bde50cca7e%2FCC_04-09-18_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 03/26/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fc4f067de-81a7-4d3b-bb01-e8832b8fb259%2FCC_03-26-18_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 03/12/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fd87602b4-c4e1-4555-a594-7c18d0c6b0ce%2FCC_Agenda_03-12-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Special
+	Date - 03/06/2018, 4:02 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F075dbed6-11e3-4a25-ae6a-28131b318e18%2F3-6-18_Special_City_Council_Mtg.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Worksession
+	Date - 03/05/2018, 3:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Ffd5ab230-ab37-400d-92e7-be7e72b1c411%2F3-5-18_Worksession_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 02/26/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F0b99906d-32f5-49c6-b7b8-4129099c8d41%2FCC_Agenda_02-26-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 02/12/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F77d35ecc-2966-419f-aa03-c9bf4e8a1cf6%2FCC_Agenda_02-12-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Worksession
+	Date - 02/10/2018, 8:00 AM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F1899ff4a-eb34-4162-bda3-89890af2da11%2FCity_Council_Retreat.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Worksession
+	Date - 02/06/2018, 3:00 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fafb8e93e-5336-4690-a498-371e0fe8baee%2FCC_02-06-18_Worksession_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Worksession
+	Date - 02/05/2018, 4:29 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F93bd07a1-8824-42fb-a22d-27cdbf1c6345%2F2-5-18_Worksession_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 01/31/2018, 8:00 AM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F1c9781d8-f7e4-4382-96c4-bbb606797d92%2FAgenda_City_Council-Staff_Retreat.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 01/22/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F6fa86964-4753-4c28-8719-4bf44a1ed3d5%2FCC_Agenda_01-22-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 01/08/2018, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F47b3af37-6b12-4540-9671-eef3c98d0e91%2FCC_Agenda_01-08-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 12/18/2017, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fa6aba587-c370-4a4c-8a2e-6f9d92d8de90%2FCC_12-18-17_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 12/11/2017, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fba49e061-8662-4618-9965-cdef64cfb9c5%2FCC_12-11-17_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 11/27/2017, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fab40df27-3067-428f-936a-1b99f035f32e%2FCC_11-27-17_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 11/13/2017, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F46c8a820-261a-4f35-a545-b5c7b83b04a4%2FCC_11-13-17_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 10/30/2017, 5:00 PM
+	Link - 
+	Text - null
+Found document: 
+	Title - City Council Workstudy Session
+	Date - 10/16/2017, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F1d57cf79-bfda-4e55-aafa-ad86b5703c25%2FPBC_Agenda_10_16_17.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 10/09/2017, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F44ef1d9a-2895-4cae-a5b4-2aeea1306952%2FCC_10-09-17_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 09/25/2017, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F4f66305d-3d36-4327-8ac9-aabde52a54c8%2FCC_09-25-17_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 09/11/2017, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Ff0e6d668-523a-489a-9ed3-d2e1088a5b89%2FCC_09-11-17_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 08/21/2017, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F7abf68f7-8b30-4212-a33a-c0608ccd7e4c%2FCC_08-14-17_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 07/31/2017, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F949c1a6b-0212-4f6a-8d95-7a4d96041a1d%2FWorksession_Agenda_073117.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 07/24/2017, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F381dd0ea-d88f-4778-ba29-273a222b0548%2FCC_07-24-17_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 07/10/2017, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fc77a5825-303c-4c32-951f-528985965294%2FCC_07-10-17_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council
+	Date - 06/26/2017, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2F4d0b4414-9214-46a6-808b-a694046e0388%2FCC_06-26-17_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - City Council Worksession
+	Date - 06/19/2017, 5:30 PM
+	Link - http://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F761%2Fef6d9e93-6edb-4dd4-a2d7-f67e3dd8da45%2FCity_Council_Worksession_Agenda_061917.pdf#zoom=auto
+	Text - null
+
+Ending process
+Found 79 documents
+================================================

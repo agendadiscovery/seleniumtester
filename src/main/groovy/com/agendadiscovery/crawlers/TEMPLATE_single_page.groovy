@@ -24,13 +24,7 @@ class TEMPLATE_single_page extends BaseCrawler {
             driver.get(baseUrl);
             sleep(2000)
             //grab links
-            try {
-                getDocumentByPage(driver)
-            }
-            catch (Exception e) {
-                log.debug(e.message)
-                e.printStackTrace(System.out)  //skip bad lines but print errors
-            }
+            getDocumentByPage(driver)
         } catch (Exception e) {
             log.debug(e.message)
             e.printStackTrace(System.out)

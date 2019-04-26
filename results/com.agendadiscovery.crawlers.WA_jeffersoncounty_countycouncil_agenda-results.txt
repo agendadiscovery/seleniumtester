@@ -1,0 +1,452 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.WA_jeffersoncounty_countycouncil_agenda
+https://media.avcaptureall.com/#/?prefilter=845%2c-1&target=_blank&view=list&tabs=rec%7Clive%7Cupc
+Found document: 
+	Title - Joint Oversight Board
+	Date - 04/24/2019, 3:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F6d4a5acb-b963-445a-88f4-ce16180bc5bc%2FA042419S_JOB.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 04/22/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F16cf3ab3-a64b-4bee-9cc6-7a460432fe72%2FA042219.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Joint Oversight Board
+	Date - 04/18/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fec0a6a1d-5aa8-4f22-ace7-043d76404d78%2FA041819S_JOB.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 04/15/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F544dc75f-ef20-4aa6-9472-e039f6bb98ad%2FA041519.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Joint Oversight Board - Affordable Housing
+	Date - 04/10/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F4bd1535c-1806-4b0f-ad27-b653b594b0b9%2FA041019S_JOB.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 04/08/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F945fdb8b-afd5-4abb-8c9f-5dc4a10aee82%2FA040819.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 03/25/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F69b7ec41-9fe6-48fb-92c6-41383bf149ce%2FA032519.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 03/18/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fb02428f1-8c72-45f0-bcbc-1be9b14094ae%2FA031819_(2).pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 03/11/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F91d55102-15f9-42c0-9f67-ccfed7aba7b4%2FA031119.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 03/05/2019, 12:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F6f1b27f1-3525-4cf0-b530-016c154f3cc7%2FA030519S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 03/04/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F44cd2c30-ac00-4358-9392-c3f860025317%2FA030419.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Joint Oversight; Affordable Housing
+	Date - 02/26/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F54246c7f-ff6a-4ac2-90e5-3d7fc6181f90%2FA022619_JOB.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 02/25/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F4edf6d8e-69ed-4d8f-b41e-e1daf0f66033%2FA022519.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - PIF
+	Date - 02/22/2019, 8:30 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fa6c93cda-3901-4277-ae9e-48bbd7a88324%2FPIF_A022219S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Joint Oversight; Affordable Housing
+	Date - 02/20/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fcae025cf-b65b-40bf-89fd-f33611ef4831%2F02_20_19_JOB_Agenda.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 02/19/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F392b286b-8120-407a-bec0-e70f287414c0%2FA021919.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 02/11/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fbb2233aa-c5b0-4aad-8109-4140e315dedd%2FA021119.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 02/04/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fde60f7d5-e290-407b-89e9-b093aaac7034%2FA020419.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - PIF Board
+	Date - 01/30/2019, 2:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fd6cf4688-2ce8-4174-99b6-e0942a2f63da%2FA013019S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 01/28/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fa65e81cb-d4c3-45d5-8872-d58eb6d987a2%2FA012819.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 01/22/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F2d4457fc-a25f-4891-b1b9-256e46e8f892%2FA012219.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 01/14/2019, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fb52aeaa6-e224-4a77-9255-b6ce8a56f7e0%2FA011419.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting Merged
+	Date - 01/07/2019, 9:01 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F8fc7c200-a53a-4a04-96c1-3cd21c223434%2FA010719.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 12/31/2018, 12:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F94265419-0276-436e-8e09-5b4068b5bc91%2FA123118S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 12/17/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F36edd5b6-6403-4ec3-a320-9641dc39c99c%2FA121718.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - BOCC Special Meeting
+	Date - 12/14/2018, 3:30 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fbe45526e-38fa-4738-9dc9-13d8599b1e86%2FA121418S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 12/13/2018, 12:30 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F1ebdaf33-ec1e-469a-8cb3-6978f828219a%2FA121318S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - BOCC Special Meeting
+	Date - 12/10/2018, 6:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fd8e84943-e217-4d9e-a37a-a7074c1cf196%2FA121018S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 12/10/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F16d926fe-5ebd-42e9-bb01-62fb269df1b3%2FA121018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 12/03/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fa2f393c7-13e5-4115-b18d-5f5dc8496a21%2FA120318.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - PIF
+	Date - 11/28/2018, 1:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fde0c1a72-7bb3-4d90-832d-e7870d7ad9a9%2F01_PIF_A112818S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 11/26/2018, 1:30 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F4aec79b9-0354-4fff-8b34-6e8acd66df69%2FA112618.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 11/21/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F482f8086-f0ce-40d9-8a64-b9057765b091%2FA112118S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 11/19/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F449995be-2333-4cee-abcb-8949fdbc603c%2FA111918.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 11/13/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F3e832db0-e0ac-4723-af9b-ea5de9a6f7c5%2FA111318.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - PIF
+	Date - 11/07/2018, 2:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F9a3e822f-8bef-41e1-a006-9afc10725aa2%2F1_PIFBoard_Agenda_11_07_18S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 11/05/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F12750010-747b-4523-9b72-3a8aab6105e5%2FA110518.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - BOCC Special Meeting
+	Date - 11/02/2018, 2:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fcfd0b5f4-a72c-4a78-8961-028796a57f35%2FA110218S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - BOCC Special Meeting
+	Date - 10/29/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F572fe609-e267-42f5-8f43-fb978ba744d8%2FA102918S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - BOCC Special Meeting
+	Date - 10/24/2018, 5:30 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F89dec599-b497-41c9-81cc-a2d49d786c0d%2FA102418S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - PIF
+	Date - 10/24/2018, 1:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F7fb26879-957a-4cf3-9c4a-47c42b0c996a%2F1_PIFBoard_Agenda_102418S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 10/22/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Ff1862c2a-f995-4baf-b3e2-1b00a391ff0d%2FA102218.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - BOCC Special Meeting
+	Date - 10/19/2018, 3:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fe523396e-c4a2-4032-ac73-765344e69cf2%2FSpecial_Meeting.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 10/15/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F77bad00e-78bf-4324-867c-77ba2594212c%2FA101518.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 10/08/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F044d8711-368d-4b81-8a39-f66cd058cbd6%2FA100818.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - PIF
+	Date - 10/03/2018, 2:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F2bd14a57-7e0b-4aeb-b3fc-1517ce0f8572%2FPIF_A100318S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - BOCC Special Meeting
+	Date - 10/01/2018, 6:30 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fa2ec8f58-eaf0-46d3-8f3b-c73cec69048c%2FA100118S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 10/01/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F232761e4-eb6b-4450-998f-1f87e7d9219d%2FA100118.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - LTAC
+	Date - 09/26/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F68543cdf-1ebe-4452-929d-d820d043395f%2FLTAC_A092618.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 09/24/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F230f936e-1438-436f-bcf2-6a52a09d889f%2FA092418.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 09/17/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F40289bdc-29f7-4f7e-b7a3-3865bfd208d2%2FA091718.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 09/10/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F251b70b7-faf2-4f93-b724-dcd52d5c0bc6%2FA091018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - BOCC Special Meeting
+	Date - 09/04/2018, 3:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fc624f74d-369d-439f-a677-c429538c775d%2FA090418S_(1).pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 09/04/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fe1c482e8-5e4e-430a-ab7a-fee1d32a33c0%2FA090418.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - PIF
+	Date - 08/29/2018, 1:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F635edbc6-9734-4f60-aab3-e976a9cf527e%2FPIFBoard_Agenda_082918S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 08/27/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fde82483f-e8e1-4c86-83af-d357c175fa06%2FA082718.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - CSFRC
+	Date - 08/23/2018, 1:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fa7ea2abf-710a-45ab-8c5f-2491feaf1f57%2FCommercial_Shooting_Facility_Review_Committee_SPECIAL_Meeting_Agenda_082318.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 08/20/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F0a04fa17-66e1-497b-b924-ebbe71cb7dfe%2FA082018.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - CSFRC
+	Date - 08/17/2018, 1:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F5788e262-45e9-4062-be11-8665e3ee1772%2FCommercial_Shooting_Facility_Review_Committee_SPECIAL_Meeting_Agenda_081718.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - CSFRC
+	Date - 08/15/2018, 1:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F7d435813-62fa-4b7c-8c1e-fce48c86052b%2FCommercial_Shooting_Facility_Review_Committee_Meeting_Agenda_8-15-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 08/13/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F6b8790b6-713b-43fe-8b13-0d4e118ea0cb%2FA081318.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - CSFRC
+	Date - 08/08/2018, 1:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fc09fed40-1591-4be6-a712-a3d26098193e%2FCommercial_Shooting_Facility_Review_Committee_Meeting_Agenda_8-8-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 08/06/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F21915231-e158-4380-a799-353120ccff9a%2FA080618.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - CSFRC
+	Date - 08/01/2018, 1:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F5b6ad24a-6c1e-4aec-a68b-984278195702%2FCommercial_Shooting_Facility_Review_Committee_Meeting_Agenda_8-1-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 07/30/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Feabb812b-48fc-4be8-b8b0-6e34d42ab839%2FA073018S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - CSFRC
+	Date - 07/25/2018, 1:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fe8ad0dac-ed35-4621-8f4e-816df4aaf0b3%2FCommercial_Shooting_Facility_Review_Committee_Meeting_Agenda_7-25-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - BOCC Special Meeting 072518
+	Date - 07/25/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Ff3d918c0-64c6-46bc-bece-f29131248908%2FA072518S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 07/23/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F103100b2-96e1-47cb-81b7-93d052d60d49%2FA072318.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - CSFRC
+	Date - 07/19/2018, 1:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fd027bca9-a619-490a-b926-4f48986f1492%2FCSFRC_Agenda_071918S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 07/16/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F41802ec2-6da1-490c-8d04-2b08caa69823%2FA071618.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - CSFRC
+	Date - 07/11/2018, 1:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Faa581c88-b7ed-4cc4-b3da-e4dda5d7b833%2FCSFRC_071118.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 07/10/2018, 1:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F24ecedc1-482e-4eed-899c-a40e1192fc7b%2FA071018S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 07/09/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F60c1c5a8-54dc-4f70-954b-48b02a87954b%2FA070918.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 07/02/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F5eb830d0-d669-4940-8b67-a061e81301f8%2FA070218.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - CSFRC
+	Date - 06/28/2018, 2:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F3286773d-e6b7-4484-9852-9410fd90bdd7%2FCSFRC_062818S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 06/25/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F41e410ce-5cb7-467a-a073-6e70c0588269%2FA062518.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - BOCC Special Meeting 062118
+	Date - 06/21/2018, 8:33 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F9b12e41a-57db-4ba1-9f24-cc67320c2c4a%2FA062018S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - BOCC Special Meeting 062018
+	Date - 06/20/2018, 1:30 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F9498cc7c-9e59-4d5c-aad5-e3f6f9aec8ad%2FA062018S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - CSFRC
+	Date - 06/20/2018, 1:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F33a30f4e-010c-4e49-a71e-ffe7c237f18d%2FCommercial_Shooting_Facility_Review_Committee_Meeting_Agenda_6-20-18.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 06/19/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Fd97adf72-f6e6-4613-81d2-d2538a4de57f%2FA061918S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 06/18/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F95ab4676-b6ff-486e-95a0-02a8deda9b2a%2FA061818.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 06/14/2018, 10:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F00c9dbac-de09-46b6-bb88-5a1484dea290%2FA061418S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - CSFRC
+	Date - 06/13/2018, 1:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F60d7942b-bb04-44b1-89c9-afbfb3e42da4%2FCommercial_Shooting_Facility_Review_Committee_Meeting_Agenda_6618.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 06/11/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F20a2283e-ea19-4626-9e74-6802c74163f0%2FA061118_(Recovered)_(1).pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - CSFRC
+	Date - 06/06/2018, 1:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F692232d0-3795-412a-ab00-8851842344c9%2FCSFRC_Agenda_060618.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 06/04/2018, 6:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2Ff74b9d72-691c-4947-ae40-5824a6c6e322%2FA060418S.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 06/04/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F9119bd3c-806a-4bc9-ac48-f8baa31bb617%2FA060418.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - Commissioners Meeting
+	Date - 05/29/2018, 9:00 AM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F4b500b1b-214a-4f7a-bec7-3069890f8846%2FA052918.pdf#zoom=auto
+	Text - null
+Found document: 
+	Title - CSFRC
+	Date - 05/23/2018, 1:00 PM
+	Link - https://media.avcaptureall.com/lib/pdfjs/web/viewer.html?file=%2F%2Favcamediawest.blob.core.windows.net%2Fmedia%2F845%2F3e71601e-7c57-47dd-9eae-806cb430d0dd%2FCommercial_Shooting_Facility_Review_Committee_Meeting_Agenda_5-23-18.pdf#zoom=auto
+	Text - null
+
+Ending process
+Found 89 documents
+================================================
