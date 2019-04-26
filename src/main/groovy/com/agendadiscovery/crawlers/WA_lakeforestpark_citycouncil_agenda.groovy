@@ -11,8 +11,8 @@ import java.time.Year
 import java.util.concurrent.TimeUnit
 import java.util.regex.Matcher
 
-//https://media.avcaptureall.com/#/?prefilter=845%2c-1&target=_blank&view=list&tabs=rec%7Clive%7Cupc
-class WA_jeffersoncounty_countycouncil_agenda extends BaseCrawler {
+//http://media.avcaptureall.com/#/?prefilter=795%2c-1&target=_blank&view=list&tabs=rec%7Clive%7Cupc
+class WA_lakeforestpark_citycouncil_agenda extends BaseCrawler{
     private static final Logger log = LoggerFactory.getLogger(this.class)
     int current_year = Year.now().getValue()
     List<WebElement> docList = []
@@ -37,12 +37,12 @@ class WA_jeffersoncounty_countycouncil_agenda extends BaseCrawler {
     } //end getDocuments
 
     public void getDocumentByPage(WebDriver driver) throws Exception {
-        WebElement showmoreBtn = driver.findElementByXPath("//button[contains(.,\"Show More\")]")
-        showmoreBtn.click()
-        sleep(4000)
+//For archives        WebElement showmoreBtn = driver.findElementByXPath("//button[contains(.,\"Show More\")]")
+//        showmoreBtn.click()
+//        sleep(4000)
         List<WebElement> agendaWebs = driver.findElementsByXPath("//div[@data-ng-if=\"showListView\"]/table//tbody/tr[position() > 1]/td[2]//a")
         List<String> agendaLinks = []
-        log.debug('agendaWeb count ' + agendaWebs.size().toString())
+
         Integer index = 0
         for(WebElement agendaWeb: agendaWebs){
             try{
@@ -60,16 +60,16 @@ class WA_jeffersoncounty_countycouncil_agenda extends BaseCrawler {
         for (String agendaLink : agendaLinks) {
             //visit url
             driver.get(agendaLink)
-            sleep(4000)
+            sleep(3500)
             DocumentWrapper doc = new DocumentWrapper()
             try {
                 //grab document stuff
                 doc.title = driver.findElementByXPath("//div[@id=\"videoTitle\"]").getText()
-                //log.info("\tTitle: ${doc.title}")
+                log.info("\tTitle: ${doc.title}")
                 doc.dateStr = driver.findElementByXPath("//span[@id=\"videoRecorded\"]").getText()
-                //log.info("\tDate: ${doc.dateStr}")
+                log.info("\tDate: ${doc.dateStr}")
                 doc.link = driver.findElementByXPath("//iframe[@id=\"docIframe\"]").getAttribute('src')
-                //log.info("\tlink: ${doc.link}")
+                log.info("\tlink: ${doc.link}")
             }
             catch (Exception e) {
                 log.debug(e.message)
@@ -78,7 +78,7 @@ class WA_jeffersoncounty_countycouncil_agenda extends BaseCrawler {
             finally {
                 log.debug("index " + index.toString())
                 index++;
-                if (index >= 90) {
+                if (index >= 65) {
                     break
                 }
                 if (doc.title == "") {
@@ -89,4 +89,3 @@ class WA_jeffersoncounty_countycouncil_agenda extends BaseCrawler {
         }
     } //end documentsByPage()
 } // end class
-
