@@ -2,7 +2,6 @@ package com.agendadiscovery.crawlers
 
 import com.agendadiscovery.DocumentWrapper
 import org.openqa.selenium.By
-import org.openqa.selenium.WebDriver
 import org.openqa.selenium.WebElement
 import org.openqa.selenium.support.ui.ExpectedConditions
 import org.slf4j.Logger
@@ -11,7 +10,7 @@ import org.slf4j.LoggerFactory
 import java.time.Year
 import java.util.concurrent.TimeUnit
 
-public class CO_aurora_citycountycouncil_agenda extends BaseCrawler{
+class TEMPLATE_paginating_PO_paging {
     private static final Logger log = LoggerFactory.getLogger(this.class)
     int current_year = Year.now().getValue()
     List <WebElement> docList = []
@@ -23,7 +22,7 @@ public class CO_aurora_citycountycouncil_agenda extends BaseCrawler{
     public List getDocuments(String baseUrl ) throws Exception {
         log.info("Starting AZ Youngtown Selenium crawl")
         log.info("Requesting baseURL: "+baseUrl)
-        driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS)
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS)
 
         try {
             driver.get(baseUrl)
@@ -39,7 +38,7 @@ public class CO_aurora_citycountycouncil_agenda extends BaseCrawler{
             int index = 0;
             for(WebElement paginator : paginators){
                 if(paginator.getText().matches("^[0-9]+"))  //remove blank buttons
-                    {paginatorsText[index] = paginator.getText()}
+                {paginatorsText[index] = paginator.getText()}
                 //log.debug(paginatorsText[index])
                 index++
             }

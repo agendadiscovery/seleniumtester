@@ -1,0 +1,127 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.CO_broomfield_citycouncil_agenda
+http://broomfield.granicus.com/ViewPublisher.php?view_id=6
+Found document: 
+	Title - null
+	Date - null
+	Link - null
+	Text - null
+Found document: 
+	Title - Study Session
+	Date - May 21, 2019
+	Link - https://drive.google.com/uc?export=download&id=1K7IgN2zX-mxgszjbs4j7Ahg2CoRNYK2acBadTUW-lD8
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - May 21, 2019
+	Link - https://drive.google.com/uc?export=download&id=1qw2lxLCi1yRtiBWzLsxo0TgI8QK-hMSDZ-9f_7z8lMw
+	Text - null
+Found document: 
+	Title - Study Session
+	Date - May 14, 2019
+	Link - https://drive.google.com/uc?export=download&id=1qyAA7cI2H6xzLUzf5VZgw7Fkuwy5qTgATEjsH6nji3w
+	Text - null
+Found document: 
+	Title - Special Meeting
+	Date - May 14, 2019
+	Link - https://drive.google.com/uc?export=download&id=1P47FtEz21QgzKLPBjyKeSm7XYwaBqd5gnUhRhIwrgB0
+	Text - null
+Found document: 
+	Title - Special Meeting
+	Date - Apr 23, 2019
+	Link - https://drive.google.com/uc?export=download&id=1lhYiPmVa8GyRJ429WNr60xMSw3sJsOx2iD7ZO7JCdig
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Apr 23, 2019
+	Link - https://drive.google.com/uc?export=download&id=1RS2UmtIpcGlIiPq220iO02okBm-mNmpFzXAZSf242Iw
+	Text - null
+Found document: 
+	Title - Study Session (Audio Only)
+	Date - Apr 16, 2019
+	Link - https://drive.google.com/uc?export=download&id=1agi4nlBNiifs9JgxYSeIQPVf3rAERMHINL1m2HPOPo8
+	Text - null
+Found document: 
+	Title - Study Session
+	Date - Apr 16, 2019
+	Link - https://drive.google.com/uc?export=download&id=1agi4nlBNiifs9JgxYSeIQPVf3rAERMHINL1m2HPOPo8
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Apr 9, 2019
+	Link - https://drive.google.com/uc?export=download&id=1zKorByeI-kCUc3K4-3Dw3fzjMJiOjbHAr6JO4nPjZqc
+	Text - null
+Found document: 
+	Title - Study Session (Concept Reviews)
+	Date - Mar 26, 2019
+	Link - https://drive.google.com/uc?export=download&id=1iDgjj9fs9CDM3OFbeXyRMlxRU2AfPw18BW_wIRWcD4Y
+	Text - null
+Found document: 
+	Title - Study Session (Audio Only)
+	Date - Mar 26, 2019
+	Link - https://drive.google.com/uc?export=download&id=1iDgjj9fs9CDM3OFbeXyRMlxRU2AfPw18BW_wIRWcD4Y
+	Text - null
+Found document: 
+	Title - Special City Council Meeting
+	Date - Mar 26, 2019
+	Link - https://drive.google.com/uc?export=download&id=1MA06gdtEf8Fgk9s_mMQ745huGo9tpKYfaTEK_r_npjk
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Mar 19, 2019
+	Link - https://drive.google.com/uc?export=download&id=1QJbgIzHiEc7Zr_pjfiGddNOyzlsQvw8XcQ45_mAhvow
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Mar 12, 2019
+	Link - https://drive.google.com/uc?export=download&id=11m_SQeVSgd38zJphVsiW4wRQOSLUaEs1-dl4uJRJqOw
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Feb 26, 2019
+	Link - https://drive.google.com/uc?export=download&id=1tuTFTr8JjHX9km0btjFe66A4MQO0jTTAbSt6wJ9ViAw
+	Text - null
+Found document: 
+	Title - Study Session (Concept Reviews / Oil and Gas)
+	Date - Feb 19, 2019
+	Link - https://drive.google.com/uc?export=download&id=1kFKLzy-OSpxRpq1vj_kd1Una5KzEWMLYf8t20YuNNpA
+	Text - null
+Found document: 
+	Title - Study Session (Audio Only)
+	Date - Feb 19, 2019
+	Link - https://drive.google.com/uc?export=download&id=1kFKLzy-OSpxRpq1vj_kd1Una5KzEWMLYf8t20YuNNpA
+	Text - null
+Found document: 
+	Title - Study Session (Audio Only)
+	Date - Feb 12, 2019
+	Link - https://drive.google.com/uc?export=download&id=1id_g04Cy24S0XqvEXPO-p9i9k5h3rvici577eKQppek
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Feb 12, 2019
+	Link - https://drive.google.com/uc?export=download&id=1Wua1b0KQZi5S_TJUAo2YITzEED9DvNaCZHi12L5fFJU
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Jan 22, 2019
+	Link - https://drive.google.com/uc?export=download&id=19_xCDoUVjzRW1agqry4i60fQsgZa4DEmb7FO7-V2VTk
+	Text - null
+Found document: 
+	Title - Study Session (Concept Reviews / Oil and Gas)
+	Date - Jan 15, 2019
+	Link - https://drive.google.com/uc?export=download&id=1JcM40Qi3jzwWpfkJC2_0-TRkj-_ox8G3Yteh4w_xNZM
+	Text - null
+Found document: 
+	Title - City Council Meeting
+	Date - Jan 8, 2019
+	Link - https://drive.google.com/uc?export=download&id=1gh8wUuI4-AyJovD4BYEdi98iSn-PruwAH1Ym7-5AqbQ
+	Text - null
+Found document: 
+	Title - null
+	Date - null
+	Link - null
+	Text - null
+
+Ending process
+Found 24 documents
+================================================

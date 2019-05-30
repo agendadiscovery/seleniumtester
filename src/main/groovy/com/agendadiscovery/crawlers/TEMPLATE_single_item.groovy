@@ -11,7 +11,7 @@ import java.time.Year
 import java.util.concurrent.TimeUnit
 import java.util.regex.Matcher
 
-class TEMPLATE_single_item_upcoming extends BaseCrawler {
+class TEMPLATE_single_item extends BaseCrawler {
     private static final Logger log = LoggerFactory.getLogger(this.class)
     int current_year = Year.now().getValue()
     List<WebElement> docList = []

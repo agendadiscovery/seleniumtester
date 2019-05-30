@@ -26,7 +26,7 @@ class TEMPLATE_BoardDocs extends BaseCrawler {
         log.info("Starting crawler " + this.class.name)
         log.info("Requesting baseURL: " + baseUrl)
         try {
-            driver.manage().timeouts() implicitlyWait(10, TimeUnit.SECONDS)
+            driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS)
             driver.get(baseUrl);
             sleep(3000)
 

@@ -1,0 +1,7 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.CA_colusa_citycouncil_agenda
+http://www.cityofcolusa.com/cms/one.aspx?pageId=11803948
+
+Ending process
+Found 0 documents
+================================================
