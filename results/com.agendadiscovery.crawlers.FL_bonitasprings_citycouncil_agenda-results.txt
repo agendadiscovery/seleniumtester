@@ -29,56 +29,7 @@ Found document:
 512 KB
 	Link - http://cityofbonitasprings.org/common/pages/DisplayFile.aspx?itemId=15506151
 	Text - null
-Found document: 
-	Title - 04-03-19 City Council Agenda
-171 KB
-	Date - 04-03-19 City Council Agenda
-171 KB
-	Link - http://cityofbonitasprings.org/common/pages/DisplayFile.aspx?itemId=15459707
-	Text - null
-Found document: 
-	Title - 03-20-19 City Council Agenda
-179 KB
-	Date - 03-20-19 City Council Agenda
-179 KB
-	Link - http://cityofbonitasprings.org/common/pages/DisplayFile.aspx?itemId=15394573
-	Text - null
-Found document: 
-	Title - 03-06-19 City Council Agenda (002)
-170 KB
-	Date - 03-06-19 City Council Agenda (002)
-170 KB
-	Link - http://cityofbonitasprings.org/common/pages/DisplayFile.aspx?itemId=15349123
-	Text - null
-Found document: 
-	Title - 02-20-19 City Council Agenda (003)
-179 KB
-	Date - 02-20-19 City Council Agenda (003)
-179 KB
-	Link - http://cityofbonitasprings.org/common/pages/DisplayFile.aspx?itemId=15526573
-	Text - null
-Found document: 
-	Title - 02-06-19 City Council Agenda
-177 KB
-	Date - 02-06-19 City Council Agenda
-177 KB
-	Link - http://cityofbonitasprings.org/common/pages/DisplayFile.aspx?itemId=15526552
-	Text - null
-Found document: 
-	Title - 01-16-19 City Council Agenda 2
-30.2 KB
-	Date - 01-16-19 City Council Agenda 2
-30.2 KB
-	Link - http://cityofbonitasprings.org/common/pages/DisplayFile.aspx?itemId=15526531
-	Text - null
-Found document: 
-	Title - 01-02-19 City Council Agenda
-216 KB
-	Date - 01-02-19 City Council Agenda
-216 KB
-	Link - http://cityofbonitasprings.org/common/pages/DisplayFile.aspx?itemId=15526516
-	Text - null
 
 Ending process
-Found 11 documents
+Found 4 documents
 ================================================

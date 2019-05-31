@@ -66,7 +66,6 @@ class FL_bonitasprings_citycouncil_agenda extends BaseCrawler {
                 //ul[@id=\"documentList\"]//li//div[@class=\"titleUser\"][1]/ancestor::li
                 //cycle each day
                 for (String dayStr : daysStr) {
-                    log.debug(daysStr.size().toString())
                     DocumentWrapper doc = new DocumentWrapper()
 
                     WebElement day = driver.findElementByXPath("//ul[@id=\"documentList\"]//li//div[@class=\"titleUser\"][contains(.,\"${dayStr}\")]/ancestor::li")
@@ -77,7 +76,6 @@ class FL_bonitasprings_citycouncil_agenda extends BaseCrawler {
 //                    sleep(1000)
 
                     day.click()
-                    log.debug(day.toString())
                     sleep(1000)
 
                     //grab Agenda
@@ -99,8 +97,6 @@ class FL_bonitasprings_citycouncil_agenda extends BaseCrawler {
                 }//end cycle days
 
                 // click paginated button (1..2..3)
-                log.debug('paginateIndex ' + paginateIndex.toString())
-                log.debug('paginateStr size ' + paginatorsStr.size())
                 if (paginateIndex < paginatorsStr.size()) {
                     WebElement paginator = driver.findElement(By.linkText(paginatorsStr[paginateIndex]))
                     paginator.click()

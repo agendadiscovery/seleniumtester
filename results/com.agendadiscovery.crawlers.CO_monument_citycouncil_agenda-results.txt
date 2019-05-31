@@ -1,0 +1,72 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.CO_monument_citycouncil_agenda
+https://monumenttownco.documents-on-demand.com/?l=a4ffc44a70ad47f08b547a84955bea55&r=2019
+Found document: 
+	Title - Board of Trustees Agenda June 03, 2019
+	Date - Board of Trustees Agenda June 03, 2019
+	Link - https://monumenttownco.documents-on-demand.com/content/pdfjs/web/viewer.html?file=/document/b9cffbfd-6082-e911-a2cd-000c29a59557/Board%20of%20Trustees%20Agenda%20June%2003,%202019.pdf&fromFrame=1
+	Text - null
+Found document: 
+	Title - Board of Trustees Agenda May 22, 2019 TOM and TMD workshop
+	Date - Board of Trustees Agenda May 22, 2019 TOM and TMD workshop
+	Link - https://monumenttownco.documents-on-demand.com/content/pdfjs/web/viewer.html?file=/document/9e15146f-a571-e911-a2cd-000c29a59557/Board%20of%20Trustees%20Agenda%20May%2022,%202019%20TOM%20and%20TMD%20workshop.pdf&fromFrame=1
+	Text - null
+Found document: 
+	Title - Board of Trustees Agenda May 20, 2019
+	Date - Board of Trustees Agenda May 20, 2019
+	Link - https://monumenttownco.documents-on-demand.com/content/pdfjs/web/viewer.html?file=/document/2cf746e6-0378-e911-a2cd-000c29a59557/Board%20of%20Trustees%20Agenda%20May%2020,%202019.pdf&fromFrame=1
+	Text - null
+Found document: 
+	Title - Board of Trustees Agenda May 06, 2019
+	Date - Board of Trustees Agenda May 06, 2019
+	Link - https://monumenttownco.documents-on-demand.com/content/pdfjs/web/viewer.html?file=/document/7d5de651-2d70-e911-a2cd-000c29a59557/Board%20of%20Trustees%20Agenda%20May%2006,%202019.pdf&fromFrame=1
+	Text - null
+Found document: 
+	Title - Board of Trustees Agenda April 15, 2019
+	Date - Board of Trustees Agenda April 15, 2019
+	Link - https://monumenttownco.documents-on-demand.com/content/pdfjs/web/viewer.html?file=/document/a39fac28-b15b-e911-a2cd-000c29a59557/Board%20of%20Trustees%20Agenda%20April%2015,%202019.pdf&fromFrame=1
+	Text - null
+Found document: 
+	Title - Board of Trustees Agenda April 01, 2019
+	Date - Board of Trustees Agenda April 01, 2019
+	Link - https://monumenttownco.documents-on-demand.com/content/pdfjs/web/viewer.html?file=/document/b1121be8-e050-e911-a2cd-000c29a59557/Board%20of%20Trustees%20Agenda%20April%2001,%202019.pdf&fromFrame=1
+	Text - null
+Found document: 
+	Title - Board of Trustees Agenda March 29, 2019 public works and parks committee meeting
+	Date - Board of Trustees Agenda March 29, 2019 public works and parks committee meeting
+	Link - https://monumenttownco.documents-on-demand.com/content/pdfjs/web/viewer.html?file=/document/b79de0de-e050-e911-a2cd-000c29a59557/Board%20of%20Trustees%20Agenda%20March%2029,%202019%20public%20works%20and%20parks%20committee%20meeting.pdf&fromFrame=1
+	Text - null
+Found document: 
+	Title - Board of Trustees Agenda March 18, 2019
+	Date - Board of Trustees Agenda March 18, 2019
+	Link - https://monumenttownco.documents-on-demand.com/content/pdfjs/web/viewer.html?file=/document/f09a3624-5147-e911-a2cb-000c29a59557/Board%20of%20Trustees%20Agenda%20March%2018,%202019.pdf&fromFrame=1
+	Text - null
+Found document: 
+	Title - Board of Trustees Agenda March 04, 2019
+	Date - Board of Trustees Agenda March 04, 2019
+	Link - https://monumenttownco.documents-on-demand.com/content/pdfjs/web/viewer.html?file=/document/b3caade8-9f3e-e911-a2cb-000c29a59557/Board%20of%20Trustees%20Agenda%20March%2004,%202019.pdf&fromFrame=1
+	Text - null
+Found document: 
+	Title - Board of Trustees Agenda February 19, 2019
+	Date - Board of Trustees Agenda February 19, 2019
+	Link - https://monumenttownco.documents-on-demand.com/content/pdfjs/web/viewer.html?file=/document/6285b7d1-ea2f-e911-a2c9-000c29a59557/Board%20of%20Trustees%20Agenda%20February%2019,%202019.pdf&fromFrame=1
+	Text - null
+Found document: 
+	Title - Board of Trustees Agenda February 04, 2019
+	Date - Board of Trustees Agenda February 04, 2019
+	Link - https://monumenttownco.documents-on-demand.com/content/pdfjs/web/viewer.html?file=/document/41948874-6c25-e911-a2c9-000c29a59557/Board%20of%20Trustees%20Agenda%20February%2004,%202019.pdf&fromFrame=1
+	Text - null
+Found document: 
+	Title - Board of Trustees Agenda January 22, 2019
+	Date - Board of Trustees Agenda January 22, 2019
+	Link - https://monumenttownco.documents-on-demand.com/content/pdfjs/web/viewer.html?file=/document/1dfd50a4-7f1e-e911-a2c9-000c29a59557/Board%20of%20Trustees%20Agenda%20January%2022,%202019.pdf&fromFrame=1
+	Text - null
+Found document: 
+	Title - Board of Trustees Agenda January 07, 2019
+	Date - Board of Trustees Agenda January 07, 2019
+	Link - https://monumenttownco.documents-on-demand.com/content/pdfjs/web/viewer.html?file=/document/e4614d3d-c40e-e911-a2c9-000c29a59557/Board%20of%20Trustees%20Agenda%20January%2007,%202019.pdf&fromFrame=1
+	Text - null
+
+Ending process
+Found 13 documents
+================================================
