@@ -299,7 +299,7 @@ Found document:
 Found document: 
 	Title - Special
 	Date - 04-23-2018
-	Link - https://www.ci.tracy.ca.us/documents/20180501_CC_AP.pdf
+	Link - https://www.ci.tracy.ca.us/documents/20180423_SPEC_CC_AP.pdf
 	Text - null
 Found document: 
 	Title - Regular

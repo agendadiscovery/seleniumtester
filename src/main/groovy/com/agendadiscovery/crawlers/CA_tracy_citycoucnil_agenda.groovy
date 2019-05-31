@@ -27,18 +27,18 @@ class CA_tracy_citycoucnil_agenda extends BaseCrawler {
             driver.get(baseUrl);
             sleep(1000)
             //click next year
-            WebElement year = driver.findElementByXPath(" //div[@id=\"portal9503\"]")
+            WebElement year = driver.findElementByXPath(" //div[contains(@class, \"accordion\")]/div[${position-1}]")
             year.click()
             getDocumentByPage(driver)
             position++
             position++
 
             driver.get(baseUrl);
-            sleep(2000)
+            sleep(1000)
             //click next year
-            WebElement nextYear = driver.findElementByXPath(" //div[@id=\"portal8360\"]")
+            WebElement nextYear = driver.findElementByXPath(" //div[contains(@class, \"accordion\")]/div[${position-1}]")
             nextYear.click()
-            sleep(1500)
+            sleep(1000)
             getDocumentByPage(driver)
 
             processLinks()
