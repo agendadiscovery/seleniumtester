@@ -1,0 +1,382 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.CA_tracy_citycoucnil_agenda
+https://www.ci.tracy.ca.us/?navid=282
+Found document: 
+	Title - Closed Session
+	Date - 06-04-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190604_Closed_Sess.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 06-04-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190604_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 05-21-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190521_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 05-21-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190521_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 05-07-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190507.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 04-16-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190416_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Special Meeting
+	Date - 04-16-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190416_Spec_AP.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 04-16-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190416_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Special Meeting
+	Date - 04-02-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190402_Spec_AP.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 04-02-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190402_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 03-19-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190319_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 03-19-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190319_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 03-05-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190305_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 03-05-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190305_CC_Agenda.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 02-19-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190219_Clsess_AP.pdf
+	Text - null
+Found document: 
+	Title - Special Meeting
+	Date - 02-19-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190219_Spec_AP.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 02-19-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190219_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 02-18-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190218_Clsess_Agenda.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 02-08-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190208_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 02-05-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190205_Closed_Sess.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 02-05-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190205_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 01-15-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190115_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 01-15-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190115_CC_Agenda.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 01-01-2019
+	Link - https://www.ci.tracy.ca.us/documents/20190101.pdf
+	Text - null
+Found document: 
+	Title - Special Meeting
+	Date - 12-18-2018
+	Link - https://www.ci.tracy.ca.us/documents/20181218_Spec_Meeting_Agenda.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 12-18-2018
+	Link - https://www.ci.tracy.ca.us/documents/20181218_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 12-18-2018
+	Link - https://www.ci.tracy.ca.us/documents/20181218_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 12-04-2018
+	Link - https://www.ci.tracy.ca.us/documents/20181204_Closed_Sesson.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 12-04-2018
+	Link - https://www.ci.tracy.ca.us/documents/201811204_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 11-20-2018
+	Link - https://www.ci.tracy.ca.us/documents/20181120_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 11-20-2018
+	Link - https://www.ci.tracy.ca.us/documents/20181120_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Special Meeting
+	Date - 11-07-2018
+	Link - https://www.ci.tracy.ca.us/documents/20181107_CC_Special_Mtg_AP.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 11-06-2018
+	Link - https://www.ci.tracy.ca.us/documents/20181106_Notice_of_Cancellation.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 10-16-2018
+	Link - https://www.ci.tracy.ca.us/documents/20181016_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 10-16-2018
+	Link - https://www.ci.tracy.ca.us/documents/20181016_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 10-02-2018
+	Link - https://www.ci.tracy.ca.us/documents/20181002_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 10-02-2018
+	Link - https://www.ci.tracy.ca.us/documents/20181002_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 09-18-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180918_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 09-18-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180918_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 09-04-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180904_Closed_Sess.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 09-04-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180904_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 08-21-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180821_Clsess_AP.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 08-21-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180821_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 08-08-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180808_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Special Meeting
+	Date - 08-08-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180808_Spec_Mtg_AP.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 08-07-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180807.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 07-17-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180717_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 07-17-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180717_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 07-03-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180703.pdf
+	Text - null
+Found document: 
+	Title - Special Meeting
+	Date - 06-29-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180629_Spec_AP.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 06-19-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180619_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 06-19-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180619_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 06-05-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180605_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 06-05-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180605_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Special Meeting
+	Date - 05-22-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180522_Spec_AP.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 05-15-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180515_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 05-15-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180515_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 05-01-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180501_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 05-01-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180501_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Special
+	Date - 04-23-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180501_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 04-17-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180417.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 04-03-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180403_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 04-03-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180403_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Regular
+	Date - 03-20-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180320_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Special Meeting
+	Date - 03-13-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180313_Spec_Mtg_AP.pdf
+	Text - null
+Found document: 
+	Title - Regular Meeting
+	Date - 03-06-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180306_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Special Meeting
+	Date - 02-27-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180227_Spec_Mtg.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 02-20-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180220_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular Meeting
+	Date - 02-20-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180220_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 02-06-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180206_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular Meeting
+	Date - 02-06-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180206_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - SCFA
+	Date - 01-16-2018
+	Link - https://www.ci.tracy.ca.us/documents/20160118_SCFA_Cancellation.pdf
+	Text - null
+Found document: 
+	Title - Closed Session
+	Date - 01-16-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180116_Closed_Session.pdf
+	Text - null
+Found document: 
+	Title - Regular Meeting
+	Date - 01-16-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180116_CC_AP.pdf
+	Text - null
+Found document: 
+	Title - Regular Meeting
+	Date - 01-02-2018
+	Link - https://www.ci.tracy.ca.us/documents/20180102.pdf
+	Text - null
+
+Ending process
+Found 75 documents
+================================================

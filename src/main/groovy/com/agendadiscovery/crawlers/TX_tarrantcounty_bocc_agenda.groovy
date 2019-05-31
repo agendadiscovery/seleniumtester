@@ -64,7 +64,6 @@ class TX_tarrantcounty_bocc_agenda extends BaseCrawler {
                 doc.dateStr = day.findElementByXPath("./td[1]").getText()
                 log.debug("\tDate: ${doc.dateStr}")
                 doc.link = day.findElementByXPath("./td//a[text() = \"Agenda\"]").getAttribute('href')
-                if(doc.link == "" || doc.link == null){continue}
                 log.debug("\traw Url: ${doc.link}")
             }
             catch (Exception e) {
@@ -72,6 +71,7 @@ class TX_tarrantcounty_bocc_agenda extends BaseCrawler {
                 e.printStackTrace(System.out)  //skip bad lines but print errors
             }
             finally {
+                if(doc.link == "" || doc.link == null){continue}
                 docList = docList + doc
             }
         }//end for loop days
