@@ -1,0 +1,27 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.KS_sedgwickcounty_bocc_agenda
+https://sedgwick.granicus.com/ViewPublisher.php?view_id=34
+Found document: 
+	Title - Board of Sedgwick County Commissioners
+	Date - May 22, 2019
+	Link - https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=121&doctype=1
+	Text - null
+Found document: 
+	Title - Board of Sedgwick County Commissioners
+	Date - May 15, 2019
+	Link - https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=120&doctype=1
+	Text - null
+Found document: 
+	Title - Governing Body of Fire District 1
+	Date - May  8, 2019
+	Link - https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=131&doctype=1
+	Text - null
+Found document: 
+	Title - Board of Sedgwick County Commissioners
+	Date - May  8, 2019
+	Link - https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=119&doctype=1
+	Text - null
+
+Ending process
+Found 4 documents
+================================================

@@ -36,17 +36,17 @@ class TEMPLATE_single_page extends BaseCrawler {
     } //end getDocuments
 
     public void getDocumentByPage(WebDriver driver) throws Exception {
-        List<WebElement> divs = driver.findElementsByXPath("//div[@class = \"w-dyn-items\"][contains(.//*,'${current_year}')]/div[@class = \"w-dyn-item\"]")
+        List<WebElement> days = driver.findElementsByXPath("//div[@class = \"w-dyn-items\"][contains(.//*,'${current_year}')]/div[@class = \"w-dyn-item\"]")
         Integer index = 0
-        for (WebElement div : divs) {
+        for (WebElement day : days) {
             DocumentWrapper doc = new DocumentWrapper()
             try {
                 //grab document stuff
-                doc.title = div.findElementByXPath(".//h1").getText()
+                doc.title = day.findElementByXPath(".//h1").getText()
                 log.info("\tTitle: ${doc.title}")
-                doc.dateStr = div.findElementByXPath(".//div[@class=\"meta-tag\"]").getText()
+                doc.dateStr = day.findElementByXPath(".//div[@class=\"meta-tag\"]").getText()
                 log.info("\tDate: ${doc.dateStr}")
-                String google_drive_link = div.findElementByXPath(".//a[@class=\"drop-link\" and contains(. ,\"PDF Agenda\")]").getAttribute('href')
+                String google_drive_link = day.findElementByXPath(".//a[@class=\"drop-link\" and contains(. ,\"PDF Agenda\")]").getAttribute('href')
                 log.info("\traw Url: ${google_drive_link}")
                 //parse link and remake
                 Matcher m = QuickMatch.matchGroups(".+id=([^/]+)", google_drive_link)
