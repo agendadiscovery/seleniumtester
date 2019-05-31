@@ -42,10 +42,13 @@ class KS_sedgwickcounty_bocc_agenda extends BaseCrawler {
         //click regular meetings
         WebElement regularMeetings = driver.findElementByXPath("//div[contains(@id,\"Collapsibl\")][contains(.,\"Regular Meetings\")]")
         regularMeetings.click()
-        sleep(2000)
+        sleep(2500)
 
         //cycle through days
         List<WebElement> days = driver.findElementsByXPath("//div[contains(@id,\"CollapsiblePanel2019\")]//tr[@class=\"listingRow\"][contains(.,\"Agenda\")]")
+        List<WebElement> daysUpcoming = driver.findElementsByXPath("//h2[contains(.,\"Upcoming\")]/following-sibling::table//tr[@class=\"listingRow\"][contains(.,\"Agenda\")]")
+        days.addAll(daysUpcoming)
+
         Integer index = 0
         for (WebElement day : days) {
             DocumentWrapper doc = new DocumentWrapper()
