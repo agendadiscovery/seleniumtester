@@ -1,0 +1,342 @@
+================================================
+Processing class: com.agendadiscovery.crawlers.TX_tarrantcounty_bocc_agenda
+http://tarrantcounty.granicus.com/ViewPublisher.php?view_id=6
+Found document: 
+	Title - COMMISSIONERS COURT - 5/28/2019
+	Date - COMMISSIONERS COURT - 5/28/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=860&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 5/21/2019
+	Date - COMMISSIONERS COURT - 5/21/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=859&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 5/14/2019
+	Date - COMMISSIONERS COURT - 5/14/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=858&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 5/7/2019
+	Date - COMMISSIONERS COURT - 5/7/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=857&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 4/30/2019
+	Date - COMMISSIONERS COURT - 4/30/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=856&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 4/16/2019
+	Date - COMMISSIONERS COURT - 4/16/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=855&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 4/9/2019
+	Date - COMMISSIONERS COURT - 4/9/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=854&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 4/2/2019
+	Date - COMMISSIONERS COURT - 4/2/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=853&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 3/26/2019
+	Date - COMMISSIONERS COURT - 3/26/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=850&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - SPECIAL CALLED MEETING - 3/19/2019
+	Date - SPECIAL CALLED MEETING - 3/19/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=852&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 3/19/2019
+	Date - COMMISSIONERS COURT - 3/19/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=849&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 3/12/2019
+	Date - COMMISSIONERS COURT - 3/12/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=848&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 2/26/2019
+	Date - COMMISSIONERS COURT - 2/26/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=847&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 2/19/2019
+	Date - COMMISSIONERS COURT - 2/19/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=846&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 2/12/2019
+	Date - COMMISSIONERS COURT - 2/12/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=845&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 2/5/2019
+	Date - COMMISSIONERS COURT - 2/5/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=844&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 1/29/2019
+	Date - COMMISSIONERS COURT - 1/29/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=842&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 1/22/2019
+	Date - COMMISSIONERS COURT - 1/22/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=841&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 1/15/2019
+	Date - COMMISSIONERS COURT - 1/15/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=840&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 1/8/2019
+	Date - COMMISSIONERS COURT - 1/8/2019
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=838&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 12/27/2018
+	Date - COMMISSIONERS COURT - 12/27/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=843&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 12/11/2018
+	Date - COMMISSIONERS COURT - 12/11/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=836&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 12/4/2018
+	Date - COMMISSIONERS COURT - 12/4/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=835&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 11/20/2018
+	Date - COMMISSIONERS COURT - 11/20/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=834&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - SPECIAL CALLED MEETING - 11/16/2018
+	Date - SPECIAL CALLED MEETING - 11/16/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=837&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 11/13/2018
+	Date - COMMISSIONERS COURT - 11/13/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=833&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 11/6/2018
+	Date - COMMISSIONERS COURT - 11/6/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=832&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 10/30/2018
+	Date - COMMISSIONERS COURT - 10/30/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=829&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 10/23/2018
+	Date - COMMISSIONERS COURT - 10/23/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=828&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 10/16/2018
+	Date - COMMISSIONERS COURT - 10/16/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=827&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 10/2/2018
+	Date - COMMISSIONERS COURT - 10/2/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=825&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 9/25/2018
+	Date - COMMISSIONERS COURT - 9/25/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=824&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 9/18/2018
+	Date - COMMISSIONERS COURT - 9/18/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=823&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 9/11/2018
+	Date - COMMISSIONERS COURT - 9/11/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=821&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 9/4/2018
+	Date - COMMISSIONERS COURT - 9/4/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=820&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 8/28/2018
+	Date - COMMISSIONERS COURT - 8/28/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=819&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 8/21/2018
+	Date - COMMISSIONERS COURT - 8/21/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=818&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 8/14/2018
+	Date - COMMISSIONERS COURT - 8/14/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=817&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 8/7/2018
+	Date - COMMISSIONERS COURT - 8/7/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=816&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - SPECIAL CALLED MEETING - 8/6/2018
+	Date - SPECIAL CALLED MEETING - 8/6/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=815&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 7/31/2018
+	Date - COMMISSIONERS COURT - 7/31/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=814&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 7/24/2018
+	Date - COMMISSIONERS COURT - 7/24/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=813&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 7/10/2018
+	Date - COMMISSIONERS COURT - 7/10/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=812&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 7/3/2018
+	Date - COMMISSIONERS COURT - 7/3/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=811&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 6/26/2018
+	Date - COMMISSIONERS COURT - 6/26/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=809&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 6/19/2018
+	Date - COMMISSIONERS COURT - 6/19/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=808&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 6/12/2018
+	Date - COMMISSIONERS COURT - 6/12/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=807&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 6/5/2018
+	Date - COMMISSIONERS COURT - 6/5/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=806&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 5/22/2018
+	Date - COMMISSIONERS COURT - 5/22/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=805&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 5/15/2018
+	Date - COMMISSIONERS COURT - 5/15/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=804&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 5/8/2018
+	Date - COMMISSIONERS COURT - 5/8/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=803&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 5/1/2018
+	Date - COMMISSIONERS COURT - 5/1/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=802&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 4/17/2018
+	Date - COMMISSIONERS COURT - 4/17/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=801&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 4/10/2018
+	Date - COMMISSIONERS COURT - 4/10/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=800&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 4/3/2018
+	Date - COMMISSIONERS COURT - 4/3/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=797&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 3/27/2018
+	Date - COMMISSIONERS COURT - 3/27/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=796&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 3/20/2018
+	Date - COMMISSIONERS COURT - 3/20/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=795&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 3/13/2018
+	Date - COMMISSIONERS COURT - 3/13/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=792&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - SPECIAL CALLED MEETING - 2/27/2018
+	Date - SPECIAL CALLED MEETING - 2/27/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=794&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 2/27/2018
+	Date - COMMISSIONERS COURT - 2/27/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=790&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 2/20/2018
+	Date - COMMISSIONERS COURT - 2/20/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=789&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 2/13/2018
+	Date - COMMISSIONERS COURT - 2/13/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=788&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 2/6/2018
+	Date - COMMISSIONERS COURT - 2/6/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=787&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 1/30/2018
+	Date - COMMISSIONERS COURT - 1/30/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=786&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 1/23/2018
+	Date - COMMISSIONERS COURT - 1/23/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=785&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 1/16/2018
+	Date - COMMISSIONERS COURT - 1/16/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=784&agviewdoctype=agenda
+	Text - null
+Found document: 
+	Title - COMMISSIONERS COURT - 1/9/2018
+	Date - COMMISSIONERS COURT - 1/9/2018
+	Link - http://courtbook.tarrantcounty.com/sirepub/agview.aspx?agviewmeetid=783&agviewdoctype=agenda
+	Text - null
+
+Ending process
+Found 67 documents
+================================================

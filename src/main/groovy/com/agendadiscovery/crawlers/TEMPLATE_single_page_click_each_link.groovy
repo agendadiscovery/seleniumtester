@@ -7,13 +7,11 @@ import org.openqa.selenium.WebElement
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 
-import javax.swing.text.Document
 import java.time.Year
 import java.util.concurrent.TimeUnit
 import java.util.regex.Matcher
 
-//https://sedgwick.granicus.com/ViewPublisher.php?view_id=34
-class KS_sedgwickcounty_bocc_agenda extends BaseCrawler {
+class TEMPLATE_single_page_click_each_link {
     private static final Logger log = LoggerFactory.getLogger(this.class)
     int current_year = Year.now().getValue()
     List<WebElement> docList = []
@@ -83,14 +81,14 @@ class KS_sedgwickcounty_bocc_agenda extends BaseCrawler {
     } //end documentsByPage()
 
     public String processLink(String raw_link){
-                //parse link and remake
-                Matcher m = QuickMatch.matchGroups(".+id=([0-9]+)", raw_link)
-                if (m != null) {
-                    String id = m.group(1)
-                    //dl link example -> https://drive.google.com/uc?export=download&id=1aAivoeNydSf761Hmih7lHWH7rLXkhuzV
-                    return "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=${id}&doctype=1"
-                } else {
-                    return "no match, skipping"
-                }
+        //parse link and remake
+        Matcher m = QuickMatch.matchGroups(".+id=([0-9]+)", raw_link)
+        if (m != null) {
+            String id = m.group(1)
+            //dl link example -> https://drive.google.com/uc?export=download&id=1aAivoeNydSf761Hmih7lHWH7rLXkhuzV
+            return "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=${id}&doctype=1"
+        } else {
+            return "no match, skipping"
+        }
     }
 } // end class
