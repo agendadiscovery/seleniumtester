@@ -23,7 +23,7 @@ class Tester {
         csv.splitEachLine(',') { row ->
             if (idx > 1) { // Skip the header
                 log.info("Processing row: "+idx)
-                def testName = row[0]
+                def testName = row[0].toLowerCase()
                 log.info(testName);
                 Tester.runTest(testName)
             }

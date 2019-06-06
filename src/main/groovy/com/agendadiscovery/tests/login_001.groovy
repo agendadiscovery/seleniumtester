@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory
 import java.lang.reflect.Method
 import java.util.concurrent.TimeUnit
 
-class login_logout extends BaseTester {
+class login_001 extends BaseTester {
     boolean result = true
     String usernameStr = "administrator@agendadiscovery.com"
     String passwordStr = "kireland"
@@ -32,15 +32,15 @@ class login_logout extends BaseTester {
             usernameWE.sendKeys(usernameStr)
             passwordWE.sendKeys(passwordStr)
 
-            try{signinWE.click()}
-            catch(Exception e){Tester.log.info("intentional timeout.  don't worry")}
+            signinWE.click()
+            //Tester.log.info("intentional timeout.  don't worry")
 
             WebElement navbarWE = driver.findElement(navbarBY)
             navbarWE.click()
             sleep(1000)
             WebElement logoutWE = driver.findElement(logoutBY)
             logoutWE.click()
-            sleep(3000)
+            sleep(1000)
 
             signinWE = driver.findElement(singinBY)  //check that we are back at login
         }
@@ -50,6 +50,9 @@ class login_logout extends BaseTester {
             result = false
          }
         finally{
+            String resultStr =  (result)? 'pass' : 'FAIL'
+            String resultMsg = 'Results for ' + this.class.toString().split("\\.").last() + ": " + resultStr
+            Tester.log.info(resultMsg)
             driver.quit()
             //return result
         }

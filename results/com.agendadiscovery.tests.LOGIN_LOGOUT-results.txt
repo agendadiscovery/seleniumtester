@@ -1,5 +1,5 @@
 ================================================
 Processing class: com.agendadiscovery.tests.login_logout
-
-Ending process
+FAILED TO PROCESS site: com.agendadiscovery.tests.login_logout
+Caught exception: com.agendadiscovery.tests.login_logout
 ================================================
